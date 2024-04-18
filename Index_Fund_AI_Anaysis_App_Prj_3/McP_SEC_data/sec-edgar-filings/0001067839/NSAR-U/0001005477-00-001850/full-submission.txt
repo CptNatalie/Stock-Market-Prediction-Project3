@@ -1,0 +1,371 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VcsG8qCDDfZYM8u+CAknEx6gcfTZ4rxXzoR3ttiCvZbOMKoRvE0dKBaXASwUGghP
+ As4klQDe01wlVo71a5j4SA==
+
+<SEC-DOCUMENT>0001005477-00-001850.txt : 20000302
+<SEC-HEADER>0001005477-00-001850.hdr.sgml : 20000302
+ACCESSION NUMBER:		0001005477-00-001850
+CONFORMED SUBMISSION TYPE:	NSAR-U
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19991231
+FILED AS OF DATE:		20000229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NASDAQ 100 TRUST SERIES 1
+		CENTRAL INDEX KEY:			0001067839
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		IRS NUMBER:				522144264
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		NSAR-U
+		SEC ACT:		
+		SEC FILE NUMBER:	811-08947
+		FILM NUMBER:		557798
+
+	BUSINESS ADDRESS:	
+		STREET 1:		INVESTMENT PRODUCT SERVICES INC. C/O THE
+		STREET 2:		1735 K STREET NW
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20006
+		BUSINESS PHONE:		2024962552
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NASDAQ GOLD SM TRUST SER 1
+		DATE OF NAME CHANGE:	19980925
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INVESTMENT PRODUCT SERVICES INC
+		DATE OF NAME CHANGE:	19980806
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>NSAR-U
+<SEQUENCE>1
+<DESCRIPTION>ANNUAL REPORT FOR NASDAQ - 100 TRUST, SERIES 1
+<TEXT>
+
+
+                                   FORM N-SAR
+                               SEMI-ANNUAL REPORT
+                       FOR REGISTERED INVESTMENT COMPANIES
+
+Report for six month period ending:   /  /  (a)
+
+                    or fiscal year: 12/31/99  (b)
+
+Is this a transition report? (Y/N):  N
+
+Is this an amendment to a previous filing? (Y/N):  N
+
+Those items or sub-items with a box "[/]" after the item number should be
+completed only if the answer has changed from the previous filing on this form.
+
+1.A.  Registrant Name:  NASDAQ - 100 Trust, Series 1
+  B.  File Number:      811-8947
+  C.  Telephone Number: (212) 815-2901
+
+2.A.  Street: 101 BARCLAY ST 17W FL
+  B.  City:   NEW YORK           C) State: NY   D) Zip Code: 10286 Zip Ext.:
+  E.  Foreign Country:                     Foreign Postal Code:
+
+3. Is this the first filing on this form by Registrant?(Y/N)               Y
+                                                                      ----------
+
+4. Is this the last filing on this form by Registrant?(Y/N)                N
+                                                                      ----------
+
+5. Is Registrant a small business investment company (SBIC)?(Y/N)          N
+                                                                      ----------
+
+6. Is Registrant a unit investment trust (UIT)?(Y/N)                       Y
+                                                                      ----------
+
+<PAGE>
+
+UNIT INVESTMENT TRUSTS
+
+111.A. [/] Depositor Name: THE DEPOSITORY TRUST COMPANY
+                          ------------------------------------------------------
+    B. [/] File Number (If any):
+                                ------------------------------------------------
+    C. [/] City: NEW YORK           State:  NY     Zip Code:     Zip Ext.:
+                -------------------       --------          -----         ------
+       [/] Foreign Country:                     Foreign Postal Code:
+                           --------------------                     ------------
+111.A. [/] Depositor Name:
+                          ------------------------------------------------------
+    B. [/] File Number (If any):
+                                ------------------------------------------------
+    C. [/] City:                    State:         Zip Code:     Zip Ext.:
+                -------------------       --------          -----         ------
+       [/] Foreign Country:                     Foreign Postal Code:
+                           --------------------                     ------------
+
+112.A. [/] Sponsor Name: NASDAQ-AMEX INVESTMENT PRODUCT SERVICES, INC.
+                        --------------------------------------------------------
+    B. [/] File Number (If any):
+                                ------------------------------------------------
+    C. [/] City: WASHINGTON         State: DC      Zip Code:20006 Zip Ext.:1500
+                -------------------       --------          -----         ------
+       [/] Foreign Country:                     Foreign Postal Code:
+                           --------------------                     ------------
+
+112.A. [/] Sponsor Name:
+                        --------------------------------------------------------
+    B. [/] File Number (If any):
+                                ------------------------------------------------
+    C. [/] City:                    State:         Zip Code:     Zip Ext.:
+                -------------------       --------          -----         ------
+       [/] Foreign Country:                     Foreign Postal Code:
+                           --------------------                     ------------
+<PAGE>
+
+113.A. [/] Trustee Name: THE BANK OF NEW YORK
+                        --------------------------------------------------------
+    B. [/] City: NEW YORK           State: NY      Zip Code:10286 Zip Ext.:
+                -------------------       --------          -----         ------
+       [/] Foreign Country:                     Foreign Postal Code:
+                           --------------------                     ------------
+
+113.A. [/] Trustee Name:
+                        --------------------------------------------------------
+    B. [/] City:                    State:         Zip Code:     Zip Ext.:
+                -------------------       --------          -----         ------
+       [/] Foreign Country:                     Foreign Postal Code:
+                           --------------------                     ------------
+
+114.A. [/] Principal Underwriter Name:  ALPS MUTUAL FUNDS SERVICES, INC.
+                                      ------------------------------------------
+    B. [/] File Number:
+                       ---------------------------------------------------------
+    C. [/] City: DENVER             State: CO      Zip Code:80202 Zip Ext.:
+                -------------------       --------          -----         ------
+       [/] Foreign Country:                     Foreign Postal Code:
+                           --------------------                     ------------
+
+114.A. [/] Principal Underwriter Name:
+                                      ------------------------------------------
+    B. [/] File Number:
+                       ---------------------------------------------------------
+    C. [/] City:                    State:         Zip Code:     Zip Ext.:
+                -------------------       --------          -----         ------
+       [/] Foreign Country:                     Foreign Postal Code:
+                           --------------------                     ------------
+
+115.A. [/] Independent Public Accountant Name: ERNST & YOUNG LLP
+                                              ----------------------------------
+    B. [/] City: WASHINGTON         State: DC      Zip Code:20036 Zip Ext.:
+                -------------------       --------          -----         ------
+       [/] Foreign Country:                     Foreign Postal Code:
+                           --------------------                     ------------
+
+115.A. [/] Independent Public Accountant Name:
+                                              ----------------------------------
+    B. [/] City:                    State:         Zip Code:     Zip Ext.:
+                -------------------       --------          -----         ------
+       [/] Foreign Country:                     Foreign Postal Code:
+                           --------------------                     ------------
+<PAGE>
+
+116. Family of investment companies information:
+
+     A.[/] Is Registrant part of a family of investment companies? (Y/N)    N
+                                                                        --------
+                                                                          (Y/N)
+
+     B.[/] Identify the family in 10 letters:
+                                              -- -- -- -- -- -- -- -- -- --
+
+           (NOTE: In filing this form, use this identification
+           consistently for all investment companies in family. This
+           designation is for purposes of this form only.)
+
+117. A.[/] Is Registrant a separate account of an insurance company?(Y/N)    N
+                                                                         -------
+                                                                           (Y/N)
+
+     If answer is "Y" (Yes), are any of the following types of contracts
+     funded by the Registrant?:
+
+     B.[/] Variable annuity contracts? (Y/N)
+                                                                        --------
+                                                                          (Y/N)
+     C.[/] Scheduled premium variable life contracts? (Y/N)
+                                                                        --------
+                                                                          (Y/N)
+     D.[/] Flexible premium variable life contracts? (Y/N)
+                                                                        --------
+                                                                          (Y/N)
+     E.[/] Other types of insurance products registered under the
+           Securities Act of 1933.
+                                                                        --------
+                                                                          (Y/N)
+
+118.[/] State the number of series existing at the end of the period that
+        had securities registered under the Securities Act of 1933           1
+                                                                         -------
+
+119.[/] State the number of new series for which registration
+        statements under the Securities Act of 1933 became
+        effective during the period                                          1
+                                                                         -------
+
+120.[/] State the total value of the portfolio securities on the
+        date of deposit for the new series included in item 119
+        ($000's omitted)                                               $14,497
+                                                                       ---------
+
+121.[/] State the number of series for which a current prospectus
+        was in existence at the end of the period                            1
+                                                                         -------
+<PAGE>
+
+122.[/] State the number of existing series for which additional
+        units were registered under the Securities Act of 1933 during
+        the current period                                                   0
+                                                                         -------
+
+123. [/] State the total value of the additional units
+         considered in answering item 122 ($000's omitted)           $      0
+                                                                      ----------
+124. [/] State the total value of units of prior series that
+         were placed in the portfolios of subsequent series
+         during the current period (the value of these units is
+         to be measured on the date they were placed in the
+         subsequent series) ($000's omitted)                         $      0
+                                                                      ----------
+125. [/] State the total dollar amount of sales loads collected
+         (before reallowances to other brokers or dealers) by
+         Registrant's principal underwriter and any underwriter
+         which is an affiliated person of the principal underwriter
+         during the current period solely from the sale of units
+         of all series of Registrant ($000's omitted)                $      0
+                                                                      ----------
+126.     Of the amount shown in item 125, state the total dollar
+         amount of sales loads collected from secondary market
+         operations in Registrant's units (include the sales
+         loads, if any, collected on units of a prior series
+         placed in the portfolio of a subsequent series.)
+         ($000's omitted)                                            $      0
+                                                                      ----------
+127.     List opposite the appropriate description below the
+         number of series whose portfolios are invested
+         primarily (based upon a percentage of NAV) in each type
+         of security shown, the aggregate total assets at market
+         value as of a date at or near the end of the current
+         period of each such group of series and the total
+         income distributions made by each such group of series
+         during the current period (excluding distributions of
+         realized gains, if any):
+
+                                     Number of   Total Assets    Total Income
+                                      Series       ($000's      Distributions
+                                     Investing     omitted)   ($000's omitted)
+                                     ---------     --------   ----------------
+
+A. U.S. Treasury direct issue                    $              $
+                                     ---------   ------------   ------------
+B. U.S. Government agency                        $              $
+                                     ---------   ------------   ------------
+C. State and municipal tax-free                  $              $
+                                     ---------   ------------   ------------
+D. Public utility debt                           $              $
+                                     ---------   ------------   ------------
+E. Brokers or dealers debt or debt
+   of brokers' or dealers' parent                $              $
+                                     ---------   ------------   ------------
+F. All other corporate intermediate
+   & long-term debt                              $              $
+                                     ---------   ------------   ------------
+G. All other corporate short-term
+   debt                                          $              $
+                                     ---------   ------------   ------------
+H. Equity securities of brokers or
+   dealers or parents of brokers or
+   dealers                                       $              $
+                                     ---------   ------------   ------------
+I. Investment company equity series              $              $
+                                     ---------   ------------   ------------
+J. All other equity securities           1       $5,927,040     $0
+                                     ---------   ------------   ------------
+K. Other securities                              $              $
+                                     ---------   ------------   ------------
+L. Total assets of all series of
+   registrant                                    $              $
+                                     ---------   ------------   ------------
+<PAGE>
+
+128. [/] Is the timely payment of principal and interest on
+         any of the portfolio securities held by any of
+         Registrant's series at the end of the current period
+         insured or guaranteed by an entity other than the
+         issuer? (Y/N)                                                      N
+                                                                         -------
+         [If answer is "N" (No), go to item 131.]                         (Y/N)
+
+129. [/] Is the issuer of any instrument covered in item 128
+         delinquent or in default as to payment of principal or
+         interest at the end of the current period? (Y/N)
+                                                                         -------
+         [If answer is "N" (No), go to item 131.]                         (Y/N)
+
+130. [/] In computations of NAV or offering price per unit,
+         is any part of the value attributed to instruments
+         identified in item 129 derived from insurance or
+         guarantees? (Y/N)
+                                                                         -------
+                                                                          (Y/N)
+
+131.     Total expenses incurred by all series of Registrant
+         during the current reporting period ($000's omitted)            $1,439
+                                                                         -------
+
+132. [/] List the "811" (Investment Company Act of 1940) registration
+         number for all Series of Registrant that are being included in this
+         filing:
+
+         811-8947
+
+         811-           811-           811-           811-           811-
+             -------        -------        -------        -------        -------
+         811-           811-           811-           811-           811-
+             -------        -------        -------        -------        -------
+         811-           811-           811-           811-           811-
+             -------        -------        -------        -------        -------
+         811-           811-           811-           811-           811-
+             -------        -------        -------        -------        -------
+         811-           811-           811-           811-           811-
+             -------        -------        -------        -------        -------
+         811-           811-           811-           811-           811-
+             -------        -------        -------        -------        -------
+         811-           811-           811-           811-           811-
+             -------        -------        -------        -------        -------
+         811-           811-           811-           811-           811-
+             -------        -------        -------        -------        -------
+<PAGE>
+
+This report is signed on behalf of the registrant (or depositor or trustee).
+
+City of: NEW YORK               State of: NY                    Date: 02/22/00
+
+Name of Registrant, Depositor, or Trustee:
+
+
+By: ALFRED IRVING (VP)                    Witness: ELLA PLAKHOTNYUK (AT)
+   ------------------------------------           ------------------------------
+   Name and Title                                 Name and Title
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

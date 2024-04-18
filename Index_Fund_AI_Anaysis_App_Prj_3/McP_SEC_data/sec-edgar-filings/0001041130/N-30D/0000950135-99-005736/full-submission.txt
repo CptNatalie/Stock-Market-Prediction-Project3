@@ -1,0 +1,775 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TnBZaAqqLXX7notivTxTS2tnbJgIXES1hRIHpYEftSLDCbRbgIHxVDwBFJ6Ncz0j
+ kA1oQLgNum1WCLcsVnrpLA==
+
+<SEC-DOCUMENT>0000950135-99-005736.txt : 19991230
+<SEC-HEADER>0000950135-99-005736.hdr.sgml : 19991230
+ACCESSION NUMBER:		0000950135-99-005736
+CONFORMED SUBMISSION TYPE:	N-30D
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19991031
+FILED AS OF DATE:		19991229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DIAMONDS TRUST SERIES I
+		CENTRAL INDEX KEY:			0001041130
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		IRS NUMBER:				133574560
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		N-30D
+		SEC ACT:		
+		SEC FILE NUMBER:	001-13767
+		FILM NUMBER:		99782380
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PDR SERVICES CORP C/O AMERICAN STOCK EXC
+		STREET 2:		86 TRINITY STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10006
+		BUSINESS PHONE:		2123061397
+
+	MAIL ADDRESS:	
+		STREET 1:		PDR SERVICES CORP C/O AMERI ST EX
+		STREET 2:		86 TRINITY STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10006
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-30D
+<SEQUENCE>1
+<DESCRIPTION>AMEX DIAMONDS TRUST SERIES 1
+<TEXT>
+
+<PAGE>   1
+
+                     THE DOW INDUSTRIALS(SM) ("DIAMONDS")(SM)
+
+                             DIAMONDS TRUST SERIES 1
+
+                             A UNIT INVESTMENT TRUST
+
+                                  ANNUAL REPORT
+
+                                OCTOBER 31, 1999
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Dow Jones Industrial Average", "DJIA", "Dow Jones", "The Dow", "THE DOW
+INDUSTRIALS", and "DIAMONDS" are trademarks and service marks of Dow Jones &
+Company, Inc. ("Dow Jones") and have been licensed for use for certain purposes
+by PDR Services LLC and the American Stock Exchange LLC pursuant to a License
+Agreement with Dow Jones. The Trust, based on the DJIA, is not sponsored,
+endorsed, sold, or promoted by Dow Jones and Dow Jones makes no representation
+regarding the advisability of investing in the Trust.
+
+
+<PAGE>   2
+
+DIAMONDS TRUST SERIES 1
+TRUST OVERVIEW
+
+
+- --------------------------------------------------------------------------------
+
+
+For the fiscal year ended October 31, 1999, the Diamonds Trust (the "Trust")
+returned a very healthy 26.7%. The Trust started the fiscal year with a strong
+6.4% gain for the month ending November 1998 on the heels of three successive
+Federal Reserve interest rate cuts. Continued levels of record low unemployment
+followed these rate cuts without any signs of inflationary pressures. During the
+months of March 1999 and April 1999, the Trust gained 5.3% and 10.3%
+respectively, contributing to the Trust's astonishing six-month fiscal return of
+26.6%. The Federal Reserve then began to reverse its course of action in June
+1999 by raising rates 25 basis points. The Trust maintained and posted another
+strong gain of 4.0%, as most investors breathed a sigh of relief since they had
+been worried that the hike might have been more substantial. The Federal Reserve
+also announced that they were returning to a neutral bias following the rate
+hike, news that was also accepted favorably by the investment community. In July
+1999, inflationary fears emerged yet again, sparked by the rise in commodity
+prices and mounting wage pressures. Consumer spending also declined, showing
+signs that the economy may be slowing. August 1999 brought another 25 basis
+point rate hike to counter what the Fed viewed as a continuing overheated
+economy. In addition, further rises in commodity prices and wage pressures
+helped to dampen the Trust's performance in August 1999. September 1999 proved
+to be the worst month for the Diamonds Trust, with a loss of 4.4%. Concerns over
+inflationary pressures, further rate hikes, and lofty valuations contributed to
+this loss. In October 1999, several key economic variables pointed to a slowing
+U.S. economy, causing fears of further interest rate hikes to temporarily
+subside. With this, the equity market continued to show its resiliency as the
+Diamonds Trust made up nearly all of September's losses during the final month
+of the fiscal year, gaining 3.9%.
+
+The biggest gainers in the Dow Jones Industrial Average ("Dow") during this
+twelve month period included American Express (75.8%), Citigroup (74.9%), and
+Wal-Mart (64.7%). The biggest losers in the Dow were Philip Morris (-47.2%),
+Sears (-35.2%), and Goodyear (-21.1%). Only six of the thirty Dow stocks had
+negative returns during this period. At the close of the fiscal year, the index
+underwent some major changes as Sears, Goodyear, Union Carbide, and Chevron were
+replaced by Microsoft, Intel, Home Depot, and SBC Communications. With the
+additions of Microsoft and Intel, this marked the first time in Dow history that
+the Nasdaq was represented in the Dow index.
+
+
+
+
+
+                                        1
+
+
+<PAGE>   3
+
+
+DIAMONDS TRUST SERIES 1
+SCHEDULE OF INVESTMENTS
+OCTOBER 31, 1999
+
+- --------------------------------------------------------------------------------
+COMMON STOCKS                                          SHARES           VALUE
+- --------------------------------------------------------------------------------
+
+Alcoa, Inc. ........................................   472,587    $   28,709,660
+Allied Signal, Inc. ................................   472,587        26,907,922
+American Express Co. ...............................   472,587        72,778,398
+AT & T Corp. .......................................   472,587        22,093,442
+Boeing Co. .........................................   472,587        21,768,539
+Caterpillar, Inc. ..................................   472,587        26,110,432
+Citigroup, Inc. ....................................   472,587        25,578,771
+Coca-Cola Co. ......................................   472,587        27,882,633
+Disney (Walt) Co. (The) ............................   472,587        12,464,482
+Du Pont (E.I.) de Nemours & Co., Inc. ..............   472,587        30,452,325
+Eastman Kodak Co. ..................................   472,587        32,578,966
+Exxon Corp. ........................................   472,587        35,000,975
+General Electric Co. ...............................   472,587        64,065,075
+General Motors Corp. ...............................   472,587        33,199,237
+Hewlett-Packard Co. ................................   472,587        35,000,975
+Home Depot, Inc. ...................................   472,587        35,680,318
+Intel Corp. ........................................   472,587        36,567,184
+International Business Machines Corp. ..............   472,587        46,490,746
+International Paper Co. ............................   472,587        24,869,891
+Johnson & Johnson ..................................   472,587        49,503,488
+McDonald's Corp. ...................................   472,587        19,494,214
+Merck & Co., Inc. ..................................   472,587        37,600,203
+Microsoft Corp. (a) ................................   472,587        43,715,063
+Minnesota Mining & Manufacturing Co. ...............   472,587        44,925,302
+Morgan (J.P.) & Co., Inc. ..........................   472,587        61,849,824
+Philip Morris Cos., Inc. ...........................   472,587        11,903,285
+Procter & Gamble Co. ...............................   472,587        49,562,562
+SBC Communications, Inc. ...........................   472,587        24,072,400
+United Technologies Corp. ..........................   472,587        28,591,513
+Wal-Mart Stores, Inc. ..............................   472,587        26,789,776
+                                                                  --------------
+
+    Total Investments - (Cost $1,049,298,154)                     $1,036,207,601
+                                                                  ==============
+
+(a) Denotes non-income producing security.
+
+
+
+
+See accompanying notes to financial statements
+
+                                        2
+
+<PAGE>   4
+
+
+DIAMONDS TRUST SERIES 1
+STATEMENT OF ASSETS AND LIABILITIES
+OCTOBER 31, 1999
+
+- --------------------------------------------------------------------------------
+ASSETS
+    Investments in securities, at value
+      (cost $1,049,298,154).................................    $1,036,207,601
+    Cash....................................................         1,766,660
+    Receivable for investments sold.........................       140,019,380
+    Dividends receivable....................................           614,532
+    Deferred organization costs.............................         1,610,002
+                                                                --------------
+TOTAL ASSETS................................................     1,180,218,175
+
+LIABILITIES
+    Payable for investments purchased.......................       136,405,089
+    Payable for income delivered for DIAMONDS issued/
+      redeemed in-kind......................................            83,187
+    Distributions payable...................................           312,838
+    Due to Sponsor..........................................         2,192,040
+    Accrued expenses and other liabilities..................           236,710
+                                                                --------------
+Total Liabilities...........................................       139,229,864
+                                                                --------------
+NET ASSETS..................................................    $1,040,988,311
+                                                                ==============
+
+NET ASSETS REPRESENTED BY:
+    Paid in surplus relating to 9,700,380 units of
+      fractional undivided interest
+    ("DIAMONDS") outstanding; unlimited units authorized....    $1,072,236,724
+    Distribution in excess of net investment income.........          (366,116)
+    Accumulated net realized loss on investments............       (17,791,744)
+    Net unrealized depreciation on investments..............       (13,090,553)
+                                                                --------------
+NET ASSETS..................................................    $1,040,988,311
+                                                                ==============
+
+Net asset value per DIAMOND ($1,040,988,311 /
+  9,700,380 DIAMONDS).......................................    $       107.31
+                                                                ==============
+
+
+
+
+
+
+See accompanying notes to financial statements
+
+                                        3
+
+<PAGE>   5
+
+
+DIAMONDS TRUST SERIES 1
+STATEMENTS OF OPERATIONS
+
+
+- --------------------------------------------------------------------------------
+                                               FOR THE YEAR      FOR THE PERIOD
+                                                   ENDED             ENDED
+                                             OCTOBER 31, 1999  OCTOBER 31, 1998*
+                                             ----------------  -----------------
+
+INVESTMENT INCOME
+  Dividend income............................  $  9,701,986      $ 3,218,084
+                                               ------------      -----------
+
+EXPENSES
+  DJIA license fee...........................     1,000,000          797,260
+  Trustee expense............................       912,453          240,341
+  Marketing expense..........................       712,625        2,780,541
+  Amortization of organization costs.........       502,266          195,661
+  Printing and postage expense...............       154,540          641,161
+  SEC registration expense...................       152,003           93,200
+  Legal and audit services...................        39,097          136,370
+  Miscellaneous expense......................         1,280              100
+                                               ------------      -----------
+Total expenses...............................     3,474,264        4,884,634
+  Rebate from Sponsor........................    (1,418,867)      (4,301,113)
+  Rebate from Trustee........................      (912,453)        (231,341)
+                                               -------------     -----------
+Net expenses.................................     1,142,944          352,180
+  Trustee earnings credit....................       (22,000)          (5,168)
+                                               -------------     -----------
+Net expenses after Trustee earnings
+  credit.....................................     1,120,944          347,012
+                                               ------------      -----------
+
+NET INVESTMENT INCOME........................     8,581,042        2,871,072
+                                               ------------      -----------
+
+REALIZED AND UNREALIZED GAIN ON INVESTMENTS
+  Net realized gain on investment
+    transactions.............................   115,756,556       27,304,522
+  Net change in unrealized depreciation......    (7,307,187)      (5,783,366)
+                                               ------------      -----------
+NET REALIZED AND UNREALIZED GAIN ON
+  INVESTMENTS................................   108,449,369       21,521,156
+                                               ------------      -----------
+
+NET INCREASE IN NET ASSETS FROM OPERATIONS...  $117,030,411      $24,392,228
+                                               ============      ===========
+
+
+
+
+
+* The Trust commenced operations on January 14, 1998.
+
+
+
+See accompanying notes to financial statements
+
+                                        4
+
+
+<PAGE>   6
+
+DIAMONDS TRUST SERIES 1
+STATEMENTS OF CHANGES IN NET ASSETS
+
+- --------------------------------------------------------------------------------
+
+                                               FOR THE YEAR     FOR THE PERIOD
+                                                   ENDED             ENDED
+                                             OCTOBER 31, 1999  OCTOBER 31, 1998*
+                                             ----------------  -----------------
+
+INCREASE IN NET ASSETS FROM OPERATIONS:
+  Net investment income...................... $    8,581,042      $  2,871,072
+  Net realized gain on investment
+    transactions.............................    115,756,556        27,304,522
+  Net change in unrealized depreciation......     (7,307,187)       (5,783,366)
+                                              --------------      ------------
+NET INCREASE IN NET ASSETS FROM OPERATIONS...    117,030,411        24,392,228
+                                              --------------      ------------
+
+UNDISTRIBUTED NET INVESTMENT INCOME
+  INCLUDED IN PRICE OF UNITS ISSUED
+  AND REDEEMED, NET..........................        459,889           206,316
+                                              --------------      ------------
+
+DISTRIBUTIONS TO UNITHOLDERS FROM:
+  Net investment income......................     (8,581,042)       (2,871,072)
+  In excess of net investment income.........       (262,907)         (103,209)
+                                              --------------      ------------
+TOTAL DISTRIBUTIONS TO UNITHOLDERS...........     (8,843,949)       (2,974,281)
+                                              --------------      ------------
+
+NET INCREASE IN NET ASSETS FROM ISSUANCE
+  AND REDEMPTION OF DIAMONDS.................    575,660,769       296,396,278
+                                              --------------      ------------
+
+NET INCREASE IN NET ASSETS DURING PERIOD.....    684,307,120       318,020,541
+
+NET ASSETS AT BEGINNING OF PERIOD............    356,681,191        38,660,650
+                                              --------------      ------------
+
+NET ASSETS END OF PERIOD(a).................. $1,040,988,311      $356,681,191
+                                              ==============      ============
+
+
+
+(a) Includes distribution in excess of net
+      investment income                       $     (366,116)     $   (103,209)
+                                              --------------       ------------
+
+
+
+
+* The Trust commenced operations on January 14, 1998.
+
+
+
+See accompanying notes to financial statements
+
+                                        5
+
+
+<PAGE>   7
+
+DIAMONDS TRUST SERIES 1
+FINANCIAL HIGHLIGHTS
+SELECTED DATA FOR A DIAMOND OUTSTANDING DURING THE PERIOD
+
+
+- --------------------------------------------------------------------------------
+                                            FOR THE YEAR      FOR THE PERIOD
+                                               ENDED               ENDED
+                                        OCTOBER 31, 1999(6)  OCTOBER 31, 1998(1)
+                                        ------------------   ------------------
+
+NET ASSET VALUE, BEGINNING OF PERIOD........ $    85.94          $  77.32
+                                             ----------          --------
+
+INVESTMENT OPERATIONS:
+    Net investment income...................       1.41              0.98
+    Net realized and unrealized gain on
+      investments...........................      21.36              8.59
+                                             ----------          --------
+
+TOTAL FROM INVESTMENT OPERATIONS............      22.77              9.57
+                                             ----------          --------
+UNDISTRIBUTED NET INVESTMENT INCOME
+    INCLUDED IN PRICE OF UNITS ISSUED AND
+      REDEEMED, NET.........................       0.08              0.05
+                                             ----------          --------
+
+LESS DISTRIBUTIONS FROM:
+    Net investment income...................      (1.41)            (0.98)
+    In excess of net investment income......      (0.07)            (0.02)
+                                             ----------          --------
+TOTAL DISTRIBUTIONS.........................      (1.48)            (1.00)
+                                             ----------          --------
+
+NET ASSET VALUE, END OF PERIOD.............. $   107.31          $  85.94
+                                             ----------          --------
+
+TOTAL INVESTMENT RETURN (5).................      26.71%            12.44%
+
+RATIOS AND SUPPLEMENTAL DATA
+Ratios to average net assets:
+    Net expenses (2)........................       0.18%             0.18% (3)
+    Net expenses after rebates and trustee
+      earnings credit (2)...................       0.18%             0.18% (3)
+    Net investment income...................       1.37%             1.49% (3)
+Portfolio turnover rate (4).................      34.70%             3.23%
+
+NET ASSET VALUE, END OF PERIOD (000'S)...... $1,040,988          $356,681
+
+- --------------------------------------------------------------------------------
+(1)  The Trust commenced operations on January 14, 1998.
+(2)  Net of expenses reimbursed by the Sponsor and Trustee. If the Trust had
+     borne all expenses rebated by the Sponsor and Trustee, the ratio of
+     expenses to average net assets would have increased by 0.37% and 2.35% in
+     1999 and 1998, respectively.
+(3)  Annualized.
+(4)  Portfolio turnover ratio excludes securities received or delivered from
+     processing creations or redemptions of DIAMONDS.
+(5)  Total returns for periods of less than one year are not annualized and do
+     not include transaction fees.
+(6)  Per share numbers have been calculated using the average shares method,
+     which more appropriately presents the per share data for the period.
+
+
+
+
+See accompanying notes to financial statements
+
+                                        6
+
+
+<PAGE>   8
+
+
+DIAMONDS TRUST SERIES 1
+NOTES TO FINANCIAL STATEMENTS
+OCTOBER 31, 1999
+
+- --------------------------------------------------------------------------------
+NOTE 1 -- ORGANIZATION
+DIAMONDS Trust Series 1 (the "Trust") is a unit investment trust created under
+the laws of the State of New York and registered under the Investment Company
+Act of 1940. The Trust was created to provide investors with the opportunity to
+purchase units of beneficial interest in the Trust representing proportionate
+undivided interests in the portfolio of securities consisting of substantially
+all of the component common stocks, which comprise the Dow Jones Industrial
+Average (the "DJIA"). Each unit of fractional undivided interest in the Trust is
+referred to as a "DIAMONDS Unit". The Trust commenced operations on January 14,
+1998 upon the initial issuance of 500,000 DIAMONDS (equivalent to ten "Creation
+Units" - see Note 4) in exchange for a portfolio of securities assembled to
+reflect the intended portfolio composition of the Trust.
+
+NOTE 2 -- SIGNIFICANT ACCOUNTING POLICIES
+The preparation of financial statements in accordance with generally accepted
+accounting principles requires management to make estimates and assumptions that
+effect the reported amounts and disclosures in the financial statements. Actual
+results could differ from these estimates. The following is a summary of
+significant accounting policies followed by the Trust.
+
+SECURITY VALUATION
+Portfolio securities are valued based on the closing sale price on the exchange
+which is deemed to be the principal market for the security. If no closing sale
+price is available, then the security is valued at the closing bid price on the
+exchange which is deemed to be the principal market for the security. If there
+is no closing bid price available, valuation will be determined by the Trustee
+in good faith based on available information.
+
+INVESTMENT TRANSACTIONS
+Investment transactions are recorded on the trade date. Realized gains and
+losses from the sale or disposition of securities are recorded on the identified
+cost basis. Dividend income is recorded on the ex-dividend date.
+
+DISTRIBUTIONS TO UNITHOLDERS
+The Trust declares and distributes dividends from net investment income to its
+unitholders monthly. The Trust will distribute net realized capital gains, if
+any, at least annually.
+
+ORGANIZATION COSTS
+The Trust incurred organization costs of $2,307,929, which have been capitalized
+and are being charged to operations ratably over a period of 60 months.
+
+
+
+                                       7
+
+<PAGE>   9
+
+DIAMONDS TRUST SERIES 1
+NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+OCTOBER 31, 1999
+
+- --------------------------------------------------------------------------------
+FEDERAL INCOME TAX
+The Trust has qualified and intends to continue to qualify for and elect
+treatment as a "regulated investment company" under Subchapter M of the Internal
+Revenue Code of 1986, as amended. By so qualifying and electing, the Trust will
+not be subject to federal income taxes to the extent it distributes its taxable
+income, including any net realized capital gains, for each fiscal year. In
+addition, by distributing during each calendar year substantially all of its net
+investment income and capital gains, if any, the Trust will not be subject to
+federal excise tax. Income and capital gain distributions are determined in
+accordance with income tax regulations which may differ from generally accepted
+accounting principles. These differences are primarily due to differing
+treatments for income equalization, in-kind transactions and losses deferred due
+to wash sales. During the fiscal year ended October 31, 1999, the Trust
+reclassified $133,264,769 of non-taxable security gains realized in the in-kind
+redemption of Creation Units (Note 4) as an increase to paid in surplus in the
+Statement of Assets and Liabilities. The Trust incurred net capital losses of
+$282,282 for the fiscal period ended October 31, 1998, and $17,127,379 for the
+fiscal year ended October 31, 1999. These losses may be utilized to offset any
+net realized capital gains through October 31, 2006, and October 31, 2007,
+respectively.
+
+NOTE 3 -- TRANSACTIONS WITH THE TRUSTEE AND SPONSOR
+In accordance with the Trust Agreement, State Street Bank and Trust Company (the
+"Trustee") maintains the Trust's accounting records, acts as custodian and
+transfer agent to the Trust, and provides administrative services, including
+filing of all required regulatory reports. The Trustee is also responsible for
+determining the composition of the portfolio of securities which must be
+delivered in exchange for the issuance of Creation Units of the Trust, and for
+adjusting the composition of the Trust's portfolio from time to time to conform
+to changes in the composition and/or weighting structure of the DJIA. For these
+services, the Trustee receives a fee at the following annual rates:
+
+<TABLE>
+<CAPTION>
+     NET ASSET VALUE OF THE TRUST       FEE AS A PERCENTAGE OF NET ASSET VALUE OF THE TRUST
+     ----------------------------       ---------------------------------------------------
+<S>                                     <C>
+     $0 - $499,999,999                  15/100 of 1% per annum plus or minus the Adjustment Amount
+     $500,000,000 - $999,999,999        13/100 of 1% per annum plus or minus the Adjustment Amount
+     $1,000,000,000 - and above         11/100 of 1% per annum plus or minus the Adjustment Amount
+</TABLE>
+
+During the first two years of operation of the Trust, the Trustee's fee shall be
+reduced to 12/100 of 1% per annum for any day on which the net asset value of
+the Trust is below $350,000,000, plus or minus the Adjustment Amount. The
+Adjustment Amount is the difference between expenses incurred by the Trustee in
+processing orders for creations and redemptions of DIAMONDS less transaction
+fees received and Trustee earnings credits. During the year ended October 31,
+1999, the Adjustment Amount decreased the Trustee's fee by $27,385. The
+Adjustment Amount included an excess of net transaction fees from processing
+orders of $5,385 and a Trustee earnings credit of $22,000.
+
+For the fiscal year ended October 31, 1999, PDR Services LLC (the "Sponsor", a
+wholly-owned subsidiary of the American Stock Exchange LLC) agreed to reimburse
+the Trust for, or assume, the ordinary operating expenses of the Trust which
+exceeded 18.00/100 of 1% per annum of the daily net asset value of the Trust.
+The amount of such reimbursement by the Sponsor for the fiscal year ended
+October 31, 1999 was $1,418,867. For the fiscal year ended October 31, 1999,
+State Street Bank and Trust Company (the "Trustee") agreed to waive the
+Trustee's fee. The amount of such waiver by the Trustee for the fiscal year
+ended October 31, 1999 was $912,453.
+
+
+
+
+                                       8
+
+<PAGE>   10
+
+DIAMONDS TRUST SERIES 1
+NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+OCTOBER 31, 1999
+
+- --------------------------------------------------------------------------------
+NOTE 4 -- TRUST TRANSACTIONS IN DIAMONDS
+Transactions in DIAMONDS were as follows.
+                                                         YEAR ENDED
+                                                      OCTOBER 31, 1999
+                                               DIAMONDS              Amounts
+                                              ----------        ---------------
+DIAMONDS sold                                 17,200,000        $ 1,822,509,789
+DIAMONDS issued upon dividend reinvestment           194                 19,408
+DIAMONDS redeemed                            (11,650,000)        (1,246,408,539)
+Net income equalization                               --               (459,889)
+                                              ----------        ---------------
+Net Increase                                   5,550,194        $   575,660,769
+                                              ==========        ===============
+
+
+                                                        PERIOD ENDED
+                                                      OCTOBER 31, 1998
+                                               DIAMONDS              Amounts
+                                              ----------          -------------
+DIAMONDS sold                                  6,900,000          $ 578,121,987
+DIAMONDS issued upon dividend reinvestment           186                 16,132
+DIAMONDS redeemed                             (3,250,000)          (281,535,525)
+Net income equalization                               --               (206,316)
+                                              ----------          -------------
+Net Increase                                   3,650,186          $ 296,396,278
+                                              ==========          =============
+
+
+
+Except for under the Trust's dividend reinvestment plan, DIAMONDS are issued and
+redeemed by the Trust only in Creation Unit size aggregations of 50,000
+DIAMONDS. Such transactions are only permitted on an in-kind basis, with a
+separate cash payment which is equivalent to the undistributed net investment
+income per DIAMOND (income equalization) and a balancing cash component to
+equate the transaction to the net asset value per unit of the Trust on the
+transaction date. A transaction fee of $1,000 is charged in connection with each
+creation or redemption of Creation Units through the DIAMONDS Clearing Process
+per Participating party per day, regardless of the number of Creation Units
+created or redeemed. Transaction fees are received by the Trustee and used to
+offset the expense of processing orders.
+
+NOTE 5 -- INVESTMENT TRANSACTIONS
+For the fiscal year ended October 31, 1999, the Trust had in-kind contributions,
+in-kind redemptions, purchases and sales of investment securities of
+$1,820,399,500, $1,148,977,924, $218,832,771 and $319,046,734, respectively. At
+October 31, 1999, the cost of investments for federal income tax purposes was
+$1,049,680,237, accordingly, gross unrealized appreciation was $36,504,921 and
+gross unrealized depreciation was $49,977,557, resulting in net unrealized
+depreciation of $13,472,636.
+
+
+
+
+                                       9
+
+<PAGE>   11
+
+
+DIAMONDS TRUST SERIES 1
+REPORT OF INDEPENDENT ACCOUNTANTS
+
+- --------------------------------------------------------------------------------
+
+To the Trustee and Unitholders of
+DIAMONDS Trust Series 1
+
+In our opinion, the accompanying statement of assets and liabilities, including
+the schedule of investments, and the related statements of operations and of
+changes in net assets and the financial highlights present fairly, in all
+material respects, the financial position of DIAMONDS Trust Series 1 (the
+"Trust") at October 31, 1999, and the results of its operations, the changes in
+its net assets and the financial highlights for the periods indicated, in
+conformity with generally accepted accounting principles. These financial
+statements and financial highlights (hereafter referred to as "financial
+statements") are the responsibility of the Trust's management; our
+responsibility is to express an opinion on these financial statements based on
+our audits. We conducted our audits of these financial statements in accordance
+with generally accepted auditing standards, which require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements, assessing the accounting principles used and significant estimates
+made by management, and evaluating the overall financial statement presentation.
+We believe that our audits, which included confirmation of investments owned at
+October 31, 1999 by correspondence with the custodian, provides a reasonable
+basis for the opinion expressed above.
+
+
+
+PricewaterhouseCoopers LLP
+Boston, Massachusetts
+December 22, 1999
+
+
+
+
+
+
+                                       10
+
+
+<PAGE>   12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 (This page has been left blank intentionally.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       11
+
+
+<PAGE>   13
+
+
+DIAMONDS TRUST SERIES 1
+
+- --------------------------------------------------------------------------------
+
+SPONSOR
+- -------
+PDR Services LLC
+c/o American Stock Exchange LLC
+86 Trinity Place
+New York, NY  10006
+
+
+TRUSTEE
+- -------
+State Street Bank and Trust Company
+225 Franklin Street
+Boston, MA  02110
+
+
+DISTRIBUTOR
+- -----------
+ALPS Mutual Funds Services, Inc.
+370 17th Street, Suite 3100
+Denver, CO  80202
+
+
+INDEPENDENT ACCOUNTANTS
+- -----------------------
+PricewaterhouseCoopers LLP
+160 Federal Street
+Boston, MA  02110
+
+
+LEGAL COUNSEL
+- -------------
+Carter, Ledyard & Milburn
+2 Wall Street
+New York, NY  10005
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

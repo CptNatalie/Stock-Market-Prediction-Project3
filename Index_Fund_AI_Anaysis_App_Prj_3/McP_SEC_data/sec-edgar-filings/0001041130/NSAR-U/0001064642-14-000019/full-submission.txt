@@ -1,0 +1,404 @@
+<SEC-DOCUMENT>0001064642-14-000019.txt : 20140228
+<SEC-HEADER>0001064642-14-000019.hdr.sgml : 20140228
+<ACCEPTANCE-DATETIME>20140228145336
+ACCESSION NUMBER:		0001064642-14-000019
+CONFORMED SUBMISSION TYPE:	NSAR-U
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20131031
+FILED AS OF DATE:		20140228
+DATE AS OF CHANGE:		20140228
+EFFECTIVENESS DATE:		20140228
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SPDR DOW JONES INDUSTRIAL AVERAGE ETF TRUST
+		CENTRAL INDEX KEY:			0001041130
+		IRS NUMBER:				133574560
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		NSAR-U
+		SEC ACT:		1940 Act
+		SEC FILE NUMBER:	811-09170
+		FILM NUMBER:		14654301
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PDR SERVICES LLC C/O NYSE EURONEXT
+		STREET 2:		11 WALL STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10005
+		BUSINESS PHONE:		212-656-4440
+
+	MAIL ADDRESS:	
+		STREET 1:		PDR SERVICES LLC C/O NYSE EURONEXT
+		STREET 2:		11 WALL STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10005
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DIAMONDS TRUST SERIES I
+		DATE OF NAME CHANGE:	19970714
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>NSAR-U
+<SEQUENCE>1
+<FILENAME>j906nsaru.txt
+<DESCRIPTION>NSAR U
+<TEXT>
+
+
+                                   FORM N-SAR
+                                  ANNUAL REPORT
+                       FOR REGISTERED INVESTMENT COMPANIES
+
+
+
+
+Report for six month period ending:
+           or calendar year ending:12/31/13
+Is this a transition report?:(Y/N)  N
+
+Is this an amendment to a previous filing? (Y/N)  N
+
+
+Those items or sub-items with a box "[/]" after the item number should be
+completed only if the answer has changed from the previous filing form.
+
+1. A. Registrant Name:    SPDR Dow Jones Idustrial Average ETF Trust
+   B. File Number:        811-09170
+   C. Telephone Number:   (212)656-4440
+
+2. A. Street: 11 Wall Street
+   B. City:   New York
+   C. State:  New York
+   D. Zip Code: 10005              Zip Ext:
+   E. Foreign Country:             Foreign Postal Code:
+
+3. Is this the first filing on this form by the Registrant? (Y/N)   N
+                                                                   ----
+
+4. Is this the last filing on this form by Registrant? (Y/N)        N
+                                                                   ----
+
+5. Is Registrant a small business investment company (SBIC)? (Y/N)
+   [If answer is "Y" (Yes) complete only items 89 through 110.]	    N
+                                                                   ----
+
+6. Is Registrant a unit investment trust (UIT)? (Y/N)               Y
+   [If answer is "Y" (Yes) complete only items 111 through 132.]   ----
+
+
+7. A. Is Registrant a series or multiple portfolio company? (Y/N)
+      [If answer is "N" (No), go to item 8.]
+                                                                   ----
+
+
+   B. How many separate series or portfolios did Registrant have at
+      the end of the period?
+                                                                    ----
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+UNIT INVESTMENT TRUSTS
+
+111. A. [/] Depositor Name:
+                           -----------------------------------------------------
+
+     B. [/] File Number (If any):
+                                 -----------------------------------------------
+
+     C. [/] City:               State:          Zip Code:        Zip Ext.:
+                 --------------       ---------          --------          -----
+        [/] Foreign Country:                     Foreign Postal Code:
+                            --------------------                     -----------
+
+111. A. [/] Depositor Name:
+                           -----------------------------------------------------
+
+     B. [/] File Number (If any):
+                                 -----------------------------------------------
+
+     C. [/] City:               State:          Zip Code:        Zip Ext.:
+                 --------------       ---------          --------          -----
+        [/] Foreign Country:                     Foreign Postal Code:
+                            --------------------                     -----------
+
+112. A. [/] Sponsor Name:
+                         --------------------------------
+
+     B. [/] File Number (If any):
+                                 ------------------------
+
+     C. [/] City:           State:          Zip Code:           Zip Ext.:
+                  ----------      ----------         ----------           -----
+
+        [/] Foreign Country:                    Foreign Postal Code:
+                            -------------------                     ----------
+
+112. A. [/] Sponsor Name:
+                         -------------------------------------------------------
+
+     B. [/] File Number (If any):
+                                 -----------------------------------------------
+
+     C. [/] City:               State:          Zip Code:       Zip Ext.:
+                 --------------       ---------          -------          -----
+
+        [/] Foreign Country:                    Foreign Postal Code:
+                            -------------------                     ----------
+<PAGE>
+113. A. [/] Trustee Name:
+                         -------------------------------------------------------
+
+     B. [/] City:Boston         State:          Zip Code:        Zip Ext.:
+                 --------------       ---------          -------          -----
+
+        [/] Foreign Country:                    Foreign Postal Code:
+                            -------------------                     ----------
+
+
+113. A. [/] Trustee Name:
+                         -------------------------------------------------------
+
+     B. [/] City:               State:          Zip Code:       Zip Ext.:
+                 --------------       ---------          -------          -----
+
+        [/] Foreign Country:                    Foreign Postal Code:
+                            -------------------                     ----------
+
+
+114. A. [/] Principal Underwriter Name:
+                                       -----------------------------------------
+
+     B. [/] File Number:
+                            ---------------
+
+     C. [/] City:               State:          Zip Code:        Zip Ext.:
+                 --------------       ---------          -------          -----
+
+        [/] Foreign Country:                    Foreign Postal Code:
+                            -------------------                     ----------
+
+114. A. [/] Principal Underwriter Name:
+                                       -----------------------------------------
+
+     B. [/] File Number:
+                        ---------------
+
+     C. [/] City:               State:          Zip Code:        Zip Ext.:
+                 --------------       ---------          -------          -----
+
+        [/] Foreign Country:                    Foreign Postal Code:
+                            -------------------                     ----------
+
+115. A. [/] Independent Public Accountant Name:
+                                               ---------------------------------
+
+     B. [/] City:               State:          Zip Code:        Zip Ext.:
+                 --------------       ---------          -------          -----
+
+        [/] Foreign Country:                    Foreign Postal Code:
+                            -------------------                     ----------
+
+
+115. A. [/] Independent Public Accountant Name:
+                                               ---------------------------------
+
+     B. [/] City:               State:          Zip Code:       Zip Ext.:
+                 --------------       ---------          -------          -----
+
+        [/] Foreign Country:                    Foreign Postal Code:
+                            -------------------                     ----------
+<PAGE>
+116. Family of investment companies information:
+
+     A. [/] Is Registrant part of a family of investment companies? (Y/N)
+                                                                         ------
+
+     B. [/] Identify the family in 10 letters: ______________
+
+           (NOTE: In filing this form, use this identification consistently for
+           all investment companies in family. This designation is for purposes
+           of this form only.)
+
+117. A. [/] Is Registrant a separate account of an insurance company? (Y/N) __
+
+     If answer is "Y" (Yes), are any of the following types of contracts funded
+     by the Registrant?:
+
+     B. [/] Variable annuity contracts? (Y/N)
+                                             -----------------------------------
+
+     C. [/] Scheduled premium variable life contracts? (Y/N)
+                                                            --------------------
+
+     D. [/] Flexible premium variable life contracts? (Y/N)
+                                                           ---------------------
+
+     E. [/] Other types of insurance products registered under the
+            Securities Act of 1933? (Y/N)
+                                         ---------------------------------------
+
+118. [/] State the number of series existing at the end of the period that had
+         securities registered under the Securities Act of 1933
+
+	 -----
+
+119. [/] State the number of new series for which registration
+         statements under the Securities Act of 1933 became
+         effective during the period
+                                    --------------------------------------------
+
+120. [/] State the total value of the portfolio securities on the date
+         of deposit for the new series included in item 119
+         ($000's omitted)
+                         --------------------------------------------
+
+121. [/] State the number of series for which a current prospectus was in
+existence at the end of the period
+                                   --------------------------------
+<PAGE>
+122. [/] State the number of existing series for which additional units
+         were registered under the Securities Act of 1933 during the
+         current period
+                        --------------------------------------------------------
+
+123. [/] State the total value of the additional units considered in
+         answering item 122 ($000's omitted)
+                                            ----------------
+
+124. [/] State the total value of units of prior series that were placed in
+         the portfolios of subsequent series during the current period (the
+         value of these units is to be measured on the date they were placed in
+         the subsequent series) ($000's
+         omitted)
+                 ---------------------------------------------
+
+125. [/] State the total dollar amount of sales loads collected (before
+         reallowances to other brokers or dealers) by Registrant's principal
+         underwriter and any underwriter which is an affiliated person of the
+         principal underwriter during the current period solely from the sale of
+         units of all series of Registrant ($000's omitted)
+
+         -------------------------------------
+
+
+
+
+
+
+
+
+
+126. Of the amount shown in item 125, state the total dollar amount sales loads
+     collected from secondary market operations in Registrant's units (include
+     the sales loads, if any, collected on units of a prior series placed in the
+     portfolio of a subsequent series.) ($000's omitted)
+                                                        ---------------------
+
+127. List opposite the appropriate description below the number of series whose
+     portfolios are invested primarily (based upon a percentage of NAV) in each
+     type of security shown, the aggregate total assets at market value as of a
+     date at or near the end of the current period of each such group of series
+     and the total income distributions made by each such group of series during
+     the current period (excluding distributions of realized gains, if any):
+
+
+
+<TABLE>
+<CAPTION>
+                                          Number of    Total Assets   Total Income
+                                            Series      ($000's       Distribution
+                                          Investing     omitted)       ($000's
+                                                                        omitted)
+
+<S>                                         <C>          <C>             <C>
+A.       U.S. Treasury direct issue
+- --------------------------------------------------------------------------------------------
+B.       U.S. Government agency
+C.       State and municipal tax-free
+- --------------------------------------------------------------------------------------------
+D.       Public utility debt
+- --------------------------------------------------------------------------------------------
+E.       Brokers or dealers debt or
+         debt of brokers' or dealers'
+         parent
+- --------------------------------------------------------------------------------------------
+
+F.       All other corporate intermed.
+         & long-term debt
+- --------------------------------------------------------------------------------------------
+
+G.       All other corporate short-
+         Term debt
+- --------------------------------------------------------------------------------------------
+
+H.       Equity security of brokers
+         Or dealers or parents of
+         Brokers or dealers
+- --------------------------------------------------------------------------------------------
+
+I.       Investment company equity
+         Securities
+- --------------------------------------------------------------------------------------------
+
+J.       All other equity securities        1      $12,630,197 		$266,387
+K.
+L.       Other securities
+- --------------------------------------------------------------------------------------------
+
+M.       Total assets of all series
+         Of registrant			    1      $12,630,197 		$266,387
+- --------------------------------------------------------------------------------------------
+</TABLE>
+
+128. [/] Is the timely payment of principal and interest on any of the
+         portfolio securities held by any of Registrant's series at the
+         end of the current period insured or guaranteed by an entity
+         other than the issuer? (Y/N)
+                                     --------------------------------
+
+         [If answer is "N" (No), go to item 131.]                         Y/N
+
+129. [/] Is the issuer of any instrument covered in item 128 delinquent
+         or in default as to payment of principal or interest at the
+         end of the current period? (Y/N)
+                                         ------------------------------
+
+         [If answer is "N" (No), go to item 131.]                         Y/N
+
+130. [/] In computations of NAV or offering price per unit, is any part
+         of the value attributed to instruments identified in item 129
+         derived from insurance or guarantees? (Y/N)
+                                                    -------------------
+                                                                          Y/N
+
+131. Total expenses incurred by all series of Registrant during the
+     current reporting period ($000's omitted)    	$19,888
+						-------------------
+
+132.List the "811" (Investment Company Act of 1940) registration number for all
+Series of Registrant that are being included in this filing:
+                                                            -----------
+
+
+
+              811-09170
+              811-
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

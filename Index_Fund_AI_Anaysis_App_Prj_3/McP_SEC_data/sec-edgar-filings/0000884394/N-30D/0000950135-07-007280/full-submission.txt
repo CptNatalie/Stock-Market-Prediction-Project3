@@ -1,0 +1,1671 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BdOvlg2xk8kbYFBw8LIFRn3891rZHkoBt0S1OGWlepfGXnplnaejzihUS3Uu5tUn
+ FRK68a3cdS/C0cd0LN9RiA==
+
+<SEC-DOCUMENT>0000950135-07-007280.txt : 20071204
+<SEC-HEADER>0000950135-07-007280.hdr.sgml : 20071204
+<ACCEPTANCE-DATETIME>20071204154658
+ACCESSION NUMBER:		0000950135-07-007280
+CONFORMED SUBMISSION TYPE:	N-30D
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20070930
+FILED AS OF DATE:		20071204
+DATE AS OF CHANGE:		20071204
+EFFECTIVENESS DATE:		20071204
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SPDR TRUST SERIES 1
+		CENTRAL INDEX KEY:			0000884394
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		N-30D
+		SEC ACT:		1940 Act
+		SEC FILE NUMBER:	811-06125
+		FILM NUMBER:		071283655
+
+	BUSINESS ADDRESS:	
+		STREET 1:		86 TRINITY PLACE
+		STREET 2:		C/O PDR SERVICES LLC/ AMEX INC
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10006
+		BUSINESS PHONE:		212-306-1844
+
+	MAIL ADDRESS:	
+		STREET 1:		86 TRINITY PLACE
+		STREET 2:		PDR SERVICES LLC C/O AMERICAN STOCK EXC
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10006
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-30D
+<SEQUENCE>1
+<FILENAME>b67147a1nv30d.txt
+<DESCRIPTION>SPDR TRUST SERIES 1
+<TEXT>
+<PAGE>
+
+             STANDARD AND POOR'S DEPOSITARY RECEIPTS(R) ("SPDR(R)")
+
+                               SPDR TRUST SERIES 1
+
+                             A UNIT INVESTMENT TRUST
+
+                                  ANNUAL REPORT
+
+                               SEPTEMBER 30, 2007
+
+"STANDARD & POOR'S(R)", "S&P(R)", "S&P 500(R)", "STANDARD & POOR'S 500(R)",
+"500", "STANDARD & POOR'S DEPOSITARY RECEIPTS(R)", AND "SPDRS(R)" ARE TRADEMARKS
+OF THE MCGRAW-HILL COMPANIES, INC. STATE STREET GLOBAL MARKETS, LLC IS PERMITTED
+TO USE THESE TRADEMARKS PURSUANT TO A "LICENSE AGREEMENT" WITH STANDARD &
+POOR'S, A DIVISION OF THE MCGRAW-HILL COMPANIES, INC., AND SPDR TRUST, SERIES 1,
+IS PERMITTED TO USE THESE TRADEMARKS PURSUANT TO A SUBLICENSE FROM STATE STREET
+GLOBAL MARKETS, LLC. SPDR TRUST, SERIES 1 IS NOT, HOWEVER, SPONSORED BY OR
+AFFILIATED WITH STANDARD & POOR'S OR THE MCGRAW-HILL COMPANIES, INC.
+
+<PAGE>
+
+SPDR TRUST, SERIES 1
+TRUST OVERVIEW
+
+- --------------------------------------------------------------------------------
+OBJECTIVE:
+The SPDR Trust, Series 1 (the "Trust") is an exchange traded fund designed to
+provide investment results that, before expenses, generally correspond to the
+price and yield performance of the S&P 500(R) Index (the "Index").
+
+STRATEGY:
+To accomplish this objective, the Trust utilizes a full replication approach in
+an effort to minimize tracking error relative to the Trust's Index. With this
+strategy, all 500 securities of the Index are owned by the Trust in their
+approximate market capitalization weight.
+
+PERFORMANCE OVERVIEW:
+For the twelve-month period ended September 30, 2007, the Trust returned 16.31%
+and the Index returned 16.44%.
+
+During the twelve-month period ended September 30, 2007, the Index rose 16.44%,
+extending the gains from the previous year. Strong corporate profits and solid
+economic growth were the primary causes of the positive performance. Despite
+this strong return, there were a number of factors that dragged on the economy
+during this period. First, there was increased weakness in the housing markets
+and continued high commodity prices. Second, a quickly escalating credit crunch
+that moved from subprime in July to commercial paper in August, as well as
+concerns regarding the potential impact to the broad economy, briefly put the
+Index returns into the red less than a month after it set a record closing high.
+These concerns were apparently echoed by the Federal Reserve Bank, which dropped
+its discount rate 50 basis points on August 17, 2007 and the Fed funds rate from
+5.25% to 4.75% on September 18, 2007. Equity markets responded positively after
+the Fed's moves.
+
+The S&P 500 underperformed mid cap stocks by more than 2 percentage points
+during the year, as the S&P MidCap 400(R) Index rose 18.76%. Conversely, the S&P
+500 dramatically outperformed the Russell 2000(R) Index's performance of 12.34%
+by over 4 percentage points. The S&P 500/Citigroup Value(R) Index and the S&P
+500/Citigroup Growth(R) Index were effectively flat with less than a percentage
+point difference for the year. International stocks posted excellent results as
+the MSCI(R) EAFE(R) Index rose 24.86%, while the Lehman Brothers Aggregate Bond
+Index rose only 5.14%.
+
+Each of the nine Select Sector Indices which, when combined, comprise the Index,
+rose during the period, with the Financial Select Sector Index posting the
+smallest gain, 1.70%. The Energy Select Sector Index was the top performing
+Select Sector Index for the year, rising 42.31%.
+
+
+                                        1
+
+<PAGE>
+
+SPDR TRUST, SERIES 1
+SCHEDULE OF INVESTMENTS
+SEPTEMBER 30, 2007
+
+- --------------------------------------------------------------------------------
+
+
+
+<Table>
+<Caption>
+COMMON STOCKS                  SHARES         VALUE
+- --------------------------------------------------------
+<S>                          <C>         <C>
+3M Co. ....................   4,211,562  $   394,117,972
+Abbott Laboratories........   8,998,822      482,516,836
+Abercrombie & Fitch Co.
+  (Class A)................     507,740       40,974,618
+ACE, Ltd. .................   1,883,201      114,065,485
+Adobe Systems, Inc. *......   3,394,138      148,188,065
+Advanced Micro Devices,
+  Inc. *...................   3,112,394       41,083,601
+AES Corp. *................   3,860,771       77,369,851
+Aetna, Inc. ...............   2,992,125      162,382,624
+Affiliated Computer
+  Services, Inc. (Class
+  A) *.....................     569,975       28,635,544
+AFLAC, Inc. ...............   2,835,365      161,729,220
+Agilent Technologies,
+  Inc. *...................   2,326,657       85,807,110
+Air Products & Chemicals,
+  Inc. ....................   1,272,879      124,436,651
+Akamai Technologies,
+  Inc. *...................     951,571       27,338,635
+Alcoa, Inc. ...............   5,002,090      195,681,761
+Allegheny Energy, Inc. *...     930,480       48,626,885
+Allegheny Technologies,
+  Inc. ....................     578,294       63,583,425
+Allergan, Inc. ............   1,778,565      114,664,086
+Allied Waste Industries,
+  Inc. *...................   1,366,685       17,425,234
+Allstate Corp. ............   3,409,975      195,016,470
+ALLTEL Corp. ..............   2,045,413      142,524,378
+Altera Corp. ..............   2,036,405       49,036,632
+Altria Group, Inc. ........  12,253,285      851,970,906
+Amazon.com, Inc. *.........   1,795,837      167,282,217
+Ambac Financial Group,
+  Inc. ....................     594,086       37,373,950
+Ameren Corp. ..............   1,164,795       61,151,737
+American Capital
+  Strategies, Ltd. ........     995,928       42,556,003
+American Electric Power
+  Co., Inc. ...............   2,289,670      105,507,994
+American Express Co. ......   6,866,716      407,676,929
+American International
+  Group, Inc. .............  15,046,386    1,017,888,013
+American Standard Cos.,
+  Inc. ....................   1,008,307       35,915,895
+Ameriprise Financial,
+  Inc. ....................   1,408,282       88,876,677
+AmerisourceBergen Corp. ...   1,099,726       49,850,580
+Amgen, Inc. *..............   6,297,028      356,222,874
+Anadarko Petroleum Corp. ..   2,671,838      143,611,292
+Analog Devices, Inc. ......   1,957,604       70,786,961
+Anheuser-Busch Cos.,
+  Inc. ....................   4,404,649      220,188,404
+Aon Corp. .................   1,706,873       76,484,979
+Apache Corp. ..............   1,908,257      171,857,625
+Apartment Investment &
+  Management Co. (Class
+  A).......................     552,060       24,914,468
+Apollo Group, Inc. (Class
+  A) *.....................     799,258       48,075,369
+Apple, Inc. *..............   5,061,335      777,117,376
+Applera Corp. -- Applied
+  Biosystems Group.........   1,053,858       36,505,641
+Applied Materials, Inc. ...   8,039,854      166,424,978
+Archer-Daniels-Midland
+  Co. .....................   3,786,414      125,254,575
+Archstone-Smith Trust......   1,286,816       77,389,114
+Ashland, Inc. .............     319,248       19,221,922
+Assurant, Inc. ............     579,047       30,979,015
+<Caption>
+COMMON STOCKS                  SHARES         VALUE
+- --------------------------------------------------------
+AT&T, Inc. ................  35,512,305   1,502,525,625
+Autodesk, Inc. *...........   1,315,546     65,737,834
+Automatic Data Processing,
+  Inc. ....................   3,196,184    146,800,731
+AutoNation, Inc. *.........    840,000      14,884,800
+AutoZone, Inc. *...........    285,105      33,112,095
+AvalonBay Communities,
+  Inc. ....................    453,612      53,553,433
+Avaya, Inc. *..............   2,612,571     44,309,204
+Avery Dennison Corp. ......    525,412      29,958,992
+Avon Products, Inc. .......   2,555,821     95,919,962
+Baker Hughes, Inc. ........   1,876,102    169,543,338
+Ball Corp. ................    588,503      31,632,036
+Bank of America Corp. .....  25,737,332   1,293,815,680
+Bank of New York Mellon
+  Corp. ...................   6,534,597    288,437,112
+Barr Pharmaceuticals,
+  Inc. *...................    609,166      34,667,637
+Bausch & Lomb, Inc. .......    308,462      19,741,568
+Baxter International,
+  Inc. ....................   3,772,654    212,324,967
+BB&T Corp. ................   3,118,548    125,958,154
+Bear Stearns Cos., Inc. ...    694,060      85,237,509
+Becton, Dickinson & Co. ...   1,406,090    115,369,684
+Bed Bath & Beyond, Inc. *..   1,600,433     54,606,774
+Bemis Co., Inc. ...........    600,165      17,470,803
+Best Buy Co., Inc. ........   2,317,089    106,632,436
+Big Lots, Inc. *...........    646,891      19,303,227
+Biogen Idec, Inc. *........   1,650,653    109,487,813
+BJ Services Co. ...........   1,708,890     45,371,030
+Black & Decker Corp. ......    388,518      32,363,549
+BMC Software, Inc. *.......   1,203,976     37,600,170
+Boeing Co. ................   4,551,018    477,811,380
+Boston Properties, Inc. ...    688,042      71,487,564
+Boston Scientific Corp. *..   7,738,469    107,951,643
+Bristol-Myers Squibb Co. ..  11,344,870    326,959,153
+Broadcom Corp. (Class
+  A) *.....................   2,671,983     97,367,061
+Brown-Forman Corp. (Class
+  B).......................    462,333      34,633,365
+Brunswick Corp. ...........    537,615      12,289,879
+Burlington Northern Santa
+  Fe Corp. ................   1,759,042    142,781,439
+C.R. Bard, Inc. ...........    589,543      51,991,797
+CA, Inc. ..................   2,363,466     60,788,346
+Campbell Soup Co. .........   1,250,565     46,270,905
+Capital One Financial
+  Corp. ...................   2,367,191    157,252,498
+Cardinal Health, Inc. .....   2,110,347    131,959,998
+Carnival Corp. ............   2,543,692    123,191,004
+Caterpillar, Inc. .........   3,735,820    293,000,363
+CB Richard Ellis Group,
+  Inc. (Class A) *.........   1,041,320     28,990,349
+CBS Corp. (Class B)........   4,254,482    134,016,183
+Celgene Corp. *............   2,178,939    155,380,140
+CenterPoint Energy, Inc. ..   1,774,360     28,442,991
+Centex Corp. ..............    694,629      18,456,293
+CenturyTel, Inc. ..........    647,964      29,948,896
+</Table>
+
+See accompanying notes to financial statements.
+
+                                        2
+
+<PAGE>
+
+SPDR TRUST, SERIES 1
+SCHEDULE OF INVESTMENTS (CONTINUED)
+SEPTEMBER 30, 2007
+
+- --------------------------------------------------------------------------------
+
+<Table>
+<Caption>
+COMMON STOCKS                  SHARES         VALUE
+- --------------------------------------------------------
+<S>                          <C>         <C>
+C.H. Robinson Worldwide,
+  Inc. ....................     984,538  $    53,450,568
+Charles Schwab Corp. ......   5,454,058      117,807,653
+Chesapeake Energy Corp. ...   2,381,016       83,954,624
+Chevron Corp. .............  12,459,199    1,165,931,842
+Chubb Corp. ...............   2,359,005      126,537,028
+Ciena Corp. *..............     474,587       18,072,273
+CIGNA Corp. ...............   1,682,585       89,664,955
+Cincinnati Financial
+  Corp. ...................     987,489       42,768,149
+Cintas Corp. ..............     781,858       29,006,932
+Circuit City Stores,
+  Inc. ....................     831,235        6,575,069
+Cisco Systems, Inc. *......  35,447,819    1,173,677,287
+CIT Group, Inc. ...........   1,129,217       45,394,523
+Citigroup, Inc. ...........  28,948,434    1,351,023,415
+Citizens Communications
+  Co. .....................   1,884,640       26,988,045
+Citrix Systems, Inc. *.....   1,037,991       41,851,797
+Clear Channel
+  Communications, Inc. ....   2,861,388      107,130,367
+Clorox Co. ................     871,567       53,156,871
+CME Group, Inc. ...........     320,246      188,096,488
+CMS Energy Corp. ..........   1,258,839       21,173,672
+Coach, Inc. *..............   2,135,141      100,928,115
+Coca-Cola Co. .............  11,635,553      668,695,231
+Coca-Cola Enterprises,
+  Inc. ....................   1,577,343       38,203,247
+Cognizant Technology
+  Solutions Corp. (Class
+  A) *.....................     816,445       65,127,818
+Colgate-Palmolive Co. .....   2,958,302      210,986,099
+Comcast Corp. (Class A) *..  18,013,610      435,569,090
+Comerica, Inc. ............     921,612       47,260,263
+Commerce Bancorp, Inc. ....   1,105,807       42,883,195
+Computer Sciences Corp. *..     981,849       54,885,359
+Compuware Corp. *..........   1,832,029       14,692,873
+ConAgra Foods, Inc. .......   2,938,188       76,774,852
+ConocoPhillips.............   9,472,621      831,411,945
+CONSOL Energy, Inc. .......   1,040,373       48,481,382
+Consolidated Edison,
+  Inc. ....................   1,573,791       72,866,523
+Constellation Brands, Inc.
+  (Class A) *..............   1,162,056       28,133,376
+Constellation Energy Group,
+  Inc. ....................   1,041,610       89,359,722
+Convergys Corp. *..........     794,097       13,785,524
+Cooper Industries, Ltd.
+  (Class A)................   1,046,096       53,445,045
+Corning, Inc. .............   9,100,345      224,323,504
+Costco Wholesale Corp. ....   2,622,330      160,932,392
+Countrywide Financial
+  Corp. ...................   3,464,724       65,864,403
+Coventry Health Care,
+  Inc. *...................     907,768       56,472,247
+Covidien, Ltd. *...........   2,865,519      118,919,038
+CSX Corp. .................   2,522,097      107,769,205
+Cummins, Inc. .............     603,251       77,149,770
+CVS Caremark Corp. ........   8,630,444      342,024,496
+D.R. Horton, Inc. .........   1,545,998       19,804,234
+<Caption>
+COMMON STOCKS                  SHARES         VALUE
+- --------------------------------------------------------
+Danaher Corp. .............   1,369,854    113,300,624
+Darden Restaurants, Inc. ..    833,741      34,900,398
+Dean Foods Co. ............    770,797      19,716,987
+Deere & Co. ...............   1,303,806    193,510,887
+Dell, Inc. *...............  13,143,369    362,756,984
+Developers Diversified
+  Realty Corp. ............    743,944      41,564,151
+Devon Energy Corp. ........   2,562,376    213,189,683
+Dillard's, Inc. (Class A)..    349,287      7,624,935
+DIRECTV Group, Inc. *......   4,531,753    110,030,963
+Discover Financial
+  Services *...............   3,098,036     64,439,149
+Dominion Resources, Inc. ..   1,703,180    143,578,074
+Dover Corp. ...............   1,159,139     59,058,132
+Dow Chemical Co. ..........   5,486,123    236,232,456
+Dow Jones & Co., Inc. .....    378,629      22,604,151
+DTE Energy Co. ............   1,011,891     49,016,000
+Du Pont (E.I.) de Nemours &
+  Co. .....................   5,332,278    264,267,698
+Duke Energy Corp. .........   7,283,234    136,123,643
+Dynegy, Inc. (Class A) *...   2,866,586     26,487,255
+E*TRADE Financial Corp. *..   2,432,787     31,772,198
+Eastman Chemical Co. ......    485,202      32,377,529
+Eastman Kodak Co. .........   1,634,546     43,740,451
+Eaton Corp. ...............    852,990      84,480,130
+eBay, Inc. *...............   6,527,247    254,693,178
+Ecolab, Inc. ..............   1,027,954     48,519,429
+Edison International.......   1,884,444    104,492,420
+El Paso Corp. .............   4,054,500     68,804,865
+Electronic Arts, Inc. *....   1,786,498    100,026,023
+Electronic Data Systems
+  Corp. ...................   2,946,665     64,355,164
+Eli Lilly & Co. ...........   5,706,650    324,879,584
+Embarq Corp. ..............    874,332      48,612,859
+EMC Corp. *................  12,086,903    251,407,582
+Emerson Electric Co. ......   4,593,119    244,445,793
+ENSCO International,
+  Inc. ....................    864,370      48,491,157
+Entergy Corp. .............   1,141,594    123,623,214
+EOG Resources, Inc. .......   1,414,873    102,337,764
+Equifax, Inc. .............    839,186      31,989,770
+Equity Residential
+  Properties Trust.........   1,665,762     70,561,678
+Estee Lauder Cos., Inc.
+  (Class A)................    672,971      28,574,349
+E.W. Scripps Co. (Class
+  A).......................    478,671      20,104,182
+Exelon Corp. ..............   3,891,452    293,259,823
+Express Scripts, Inc. *....   1,568,111     87,531,956
+Exxon Mobil Corp. .........  32,298,611   2,989,559,434
+Family Dollar Stores,
+  Inc. ....................    883,528      23,466,504
+Fannie Mae.................   5,633,929    342,599,222
+Federated Investors, Inc.
+  (Class B)................    483,018      19,175,815
+FedEx Corp. ...............   1,778,685    186,317,254
+Fidelity National
+  Information Services,
+  Inc. ....................    926,167      41,094,030
+</Table>
+
+See accompanying notes to financial statements.
+
+                                        3
+
+<PAGE>
+
+SPDR TRUST, SERIES 1
+SCHEDULE OF INVESTMENTS (CONTINUED)
+SEPTEMBER 30, 2007
+
+- --------------------------------------------------------------------------------
+
+<Table>
+<Caption>
+COMMON STOCKS                  SHARES         VALUE
+- --------------------------------------------------------
+<S>                          <C>         <C>
+Fifth Third Bancorp........   3,176,740  $   107,627,951
+First Horizon National
+  Corp. ...................     718,114       19,144,919
+FirstEnergy Corp. .........   1,818,429      115,179,293
+Fiserv, Inc. *.............     994,705       50,590,696
+Fluor Corp. ...............     501,596       72,219,792
+Ford Motor Co. *...........  11,938,796      101,360,378
+Forest Laboratories,
+  Inc. *...................   1,850,493       69,004,884
+Fortune Brands, Inc. ......     884,187       72,052,399
+FPL Group, Inc. ...........   2,338,382      142,360,696
+Franklin Resources, Inc. ..     958,208      122,171,520
+Freddie Mac................   3,814,017      225,065,143
+Freeport-McMoRan Copper &
+  Gold, Inc. ..............   2,169,671      227,576,791
+Gannett Co., Inc. .........   1,353,046       59,128,110
+Gap, Inc. .................   3,146,087       58,013,844
+General Dynamics Corp. ....   2,335,846      197,308,912
+General Electric Co. ......  59,610,422    2,467,871,471
+General Growth Properties,
+  Inc. ....................   1,431,921       76,779,604
+General Mills, Inc. .......   2,030,683      117,799,921
+General Motors Corp. ......   3,271,429      120,061,444
+Genuine Parts Co. .........     982,700       49,135,000
+Genworth Financial, Inc.
+  (Class A)................   2,562,683       78,751,249
+Genzyme Corp. *............   1,519,514       94,149,087
+Gilead Sciences, Inc. *....   5,373,253      219,604,850
+Goldman Sachs Group,
+  Inc. ....................   2,377,986      515,404,686
+Goodrich Corp. ............     723,821       49,386,307
+Goodyear Tire & Rubber
+  Co. *....................   1,171,035       35,611,174
+Google, Inc. (Class A) *...   1,342,028      761,292,224
+H&R Block, Inc. ...........   1,858,589       39,364,915
+H.J. Heinz Co. ............   1,897,781       87,677,482
+Halliburton Co. ...........   5,276,932      202,634,189
+Harley-Davidson, Inc. .....   1,501,647       69,391,108
+Harman International
+  Industries, Inc. ........     381,093       32,972,166
+Harrah's Entertainment,
+  Inc. ....................   1,074,459       93,402,721
+Hartford Financial Services
+  Group, Inc. .............   1,842,447      170,518,470
+Hasbro, Inc. ..............     993,925       27,710,629
+Hercules, Inc. ............     646,156       13,582,199
+Hershey Co. ...............   1,011,858       46,960,330
+Hess Corp. ................   1,575,614      104,825,599
+Hewlett-Packard Co. .......  15,012,587      747,476,707
+Hilton Hotels Corp. .......   2,256,032      104,882,928
+Home Depot, Inc. ..........   9,702,347      314,744,137
+Honeywell International,
+  Inc. ....................   4,361,837      259,398,446
+Hospira, Inc. *............     909,909       37,715,728
+Host Hotels & Resorts,
+  Inc. ....................   3,008,382       67,508,092
+Hudson City Bancorp,
+  Inc. ....................   2,795,772       42,998,973
+Humana, Inc. *.............     972,701       67,972,346
+<Caption>
+COMMON STOCKS                  SHARES         VALUE
+- --------------------------------------------------------
+Huntington Bancshares,
+  Inc. ....................   2,122,748     36,044,261
+IAC/InterActiveCorp *......   1,291,007     38,304,178
+Illinois Tool Works,
+  Inc. ....................   2,387,250    142,375,590
+IMS Health, Inc. ..........   1,131,759     34,677,096
+Ingersoll-Rand Co., Ltd.
+  (Class A)................   1,764,467     96,110,517
+Integrys Energy Group,
+  Inc. ....................    433,454      22,205,848
+Intel Corp. ...............  33,985,392    878,862,237
+IntercontinentalExchange,
+  Inc. *...................    403,480      61,288,612
+International Business
+  Machines Corp. ..........   7,907,908    931,551,562
+International Flavors &
+  Fragrances, Inc. ........    438,934      23,202,051
+International Game
+  Technology...............   1,924,291     82,936,942
+International Paper Co. ...   2,579,949     92,542,771
+Interpublic Group of Cos.,
+  Inc. *...................   2,714,572     28,177,257
+Intuit, Inc. *.............   1,950,843     59,110,543
+ITT Corp. .................   1,047,593     71,162,992
+J.C. Penney Co., Inc. .....   1,287,589     81,594,515
+Jabil Circuit, Inc. .......    995,994      22,748,503
+Janus Capital Group,
+  Inc. ....................   1,203,293     34,029,126
+JDS Uniphase Corp. *.......   1,194,329     17,867,162
+Johnson & Johnson..........  16,854,287   1,107,326,656
+Johnson Controls, Inc. ....   1,132,885    133,805,047
+Jones Apparel Group,
+  Inc. ....................    654,868      13,837,361
+JPMorgan Chase & Co. ......  19,806,226    907,521,275
+Juniper Networks, Inc. *...   2,982,886    109,203,456
+KB HOME....................    435,275      10,907,992
+Kellogg Co. ...............   1,542,055     86,355,080
+KeyCorp....................   2,292,613     74,120,178
+Kimberly-Clark Corp. ......   2,467,951    173,398,237
+Kimco Realty Corp. ........   1,463,428     66,161,580
+King Pharmaceuticals,
+  Inc. *...................   1,380,592     16,180,538
+KLA-Tencor Corp. ..........   1,126,211     62,820,050
+Kohl's Corp. *.............   1,873,626    107,414,979
+Kraft Foods, Inc. (Class
+  A).......................   9,412,768    324,834,624
+Kroger Co. ................   4,110,075    117,219,339
+L-3 Communications
+  Holdings, Inc. ..........    715,712      73,102,824
+Laboratory Corp. of America
+  Holdings *...............    703,993      55,073,372
+Legg Mason, Inc. ..........    754,797      63,621,839
+Leggett & Platt, Inc. .....   1,033,581     19,803,412
+Lehman Brothers Holdings,
+  Inc. ....................   3,092,577    190,904,778
+Lennar Corp. (Class A).....    794,852      18,003,398
+Leucadia National Corp. ...    991,628      47,816,302
+Lexmark International, Inc.
+  (Class A) *..............    565,964      23,504,485
+Limited Brands, Inc. ......   1,993,039     45,620,663
+Lincoln National Corp. ....   1,585,027    104,564,231
+</Table>
+
+See accompanying notes to financial statements.
+
+                                        4
+
+<PAGE>
+
+SPDR TRUST, SERIES 1
+SCHEDULE OF INVESTMENTS (CONTINUED)
+SEPTEMBER 30, 2007
+
+- --------------------------------------------------------------------------------
+
+<Table>
+<Caption>
+COMMON STOCKS                  SHARES         VALUE
+- --------------------------------------------------------
+<S>                          <C>         <C>
+Linear Technology Corp. ...   1,284,597  $    44,948,049
+Liz Claiborne, Inc. .......     600,493       20,614,925
+Lockheed Martin Corp. .....   2,048,382      222,228,963
+Loews Corp. ...............   2,612,400      126,309,540
+Lowe's Cos., Inc. .........   8,734,572      244,742,707
+LSI Logic Corp. *..........   4,437,371       32,925,293
+M&T Bank Corp. ............     450,374       46,591,190
+Macy's, Inc. ..............   2,672,799       86,384,864
+Manor Care, Inc. ..........     419,550       27,019,020
+Marathon Oil Corp. ........   4,020,748      229,263,051
+Marriott International,
+  Inc. (Class A)...........   1,902,120       82,685,156
+Marsh & McLennan Cos.,
+  Inc. ....................   3,219,222       82,090,161
+Marshall & Ilsley Corp. ...   1,462,616       64,018,702
+Masco Corp. ...............   2,246,340       52,047,698
+Mattel, Inc. ..............   2,216,445       51,997,800
+MBIA, Inc. ................     759,908       46,392,383
+McCormick & Co., Inc. .....     752,103       27,053,145
+McDonald's Corp. ..........   6,908,227      376,291,125
+McGraw-Hill Cos., Inc. ....   2,023,409      103,011,752
+McKesson Corp. ............   1,729,844      101,697,529
+MeadWestvaco Corp. ........   1,039,375       30,692,744
+Medco Health Solutions,
+  Inc. *...................   1,671,667      151,101,980
+Medtronic, Inc. ...........   6,680,685      376,857,441
+MEMC Electronic Materials,
+  Inc. *...................   1,303,681       76,734,664
+Merck & Co., Inc. .........  12,666,176      654,714,637
+Meredith Corp. ............     235,639       13,502,115
+Merrill Lynch & Co.,
+  Inc. ....................   5,058,786      360,590,266
+MetLife, Inc. .............   4,339,922      302,622,761
+MGIC Investment Corp. .....     496,190       16,031,899
+Microchip Technology,
+  Inc. ....................   1,275,280       46,318,170
+Micron Technology, Inc. *..   4,335,531       48,124,394
+Microsoft Corp. ...........  46,997,018    1,384,532,150
+Millipore Corp. *..........     301,664       22,866,131
+Molex, Inc. ...............     810,631       21,830,293
+Molson Coors Brewing Co.
+  (Class B)................     392,479       39,118,382
+Monsanto Co. ..............   3,145,891      269,728,694
+Monster Worldwide, Inc. *..     732,720       24,956,443
+Moody's Corp. .............   1,351,962       68,138,885
+Morgan Stanley.............   6,103,443      384,516,909
+Motorola, Inc. ............  13,339,621      247,183,177
+Murphy Oil Corp. ..........   1,075,194       75,145,309
+Mylan Laboratories, Inc. ..   1,364,238       21,773,238
+Nabors Industries, Ltd. *..   1,597,294       49,148,736
+National City Corp. .......   3,719,829       93,330,510
+National Semiconductor
+  Corp. ...................   1,391,704       37,743,012
+National-Oilwell Varco,
+  Inc. *...................   1,029,295      148,733,127
+NCR Corp. *................   1,033,372       51,461,926
+Network Appliance, Inc. *..   2,136,290       57,487,564
+<Caption>
+COMMON STOCKS                  SHARES         VALUE
+- --------------------------------------------------------
+New York Times Co. (Class
+  A).......................    826,166      16,325,040
+Newell Rubbermaid, Inc. ...   1,586,248     45,715,667
+Newmont Mining Corp.
+  (Holding Co.)............   2,606,509    116,589,148
+News Corp. (Class A).......  13,433,927    295,412,055
+Nicor, Inc. ...............    249,064      10,684,846
+NIKE, Inc. (Class B).......   2,183,023    128,056,129
+NiSource, Inc. ............   1,554,003     29,743,617
+Noble Corp. ...............   1,553,247     76,186,765
+Nordstrom, Inc. ...........   1,156,435     54,225,237
+Norfolk Southern Corp. ....   2,273,378    118,011,052
+Northern Trust Corp. ......   1,084,799     71,889,630
+Northrop Grumman Corp. ....   2,015,229    157,187,862
+Novell, Inc. *.............   1,946,561     14,871,726
+Novellus Systems, Inc. *...    753,614      20,543,518
+Nucor Corp. ...............   1,771,541    105,353,543
+NVIDIA Corp. *.............   3,152,464    114,245,295
+Occidental Petroleum
+  Corp. ...................   4,813,763    308,465,933
+Office Depot, Inc. *.......   1,634,347     33,700,235
+OfficeMax, Inc. ...........    406,453      13,929,144
+Omnicom Group, Inc. .......   1,932,722     92,944,601
+Oracle Corp. *.............  23,068,889    499,441,447
+PACCAR, Inc. ..............   1,436,688    122,477,652
+Pactiv Corp. *.............    801,916      22,982,913
+Pall Corp. ................    709,554      27,601,651
+Parker-Hannifin Corp. .....    677,029      75,712,153
+Patterson Cos., Inc. *.....    788,594      30,447,614
+Paychex, Inc. .............   1,945,393     79,761,113
+Peabody Energy Corp. ......   1,532,488     73,360,201
+Pepsi Bottling Group,
+  Inc. ....................    759,211      28,219,873
+PepsiCo, Inc. .............   9,441,564    691,688,979
+PerkinElmer, Inc. .........    731,104      21,355,548
+Pfizer, Inc. ..............  40,336,652    985,424,408
+PG&E Corp. ................   2,022,521     96,676,504
+Pinnacle West Capital
+  Corp. ...................    563,831      22,276,963
+Pitney Bowes, Inc. ........   1,283,486     58,295,934
+Plum Creek Timber Co.,
+  Inc. ....................   1,041,458     46,615,660
+PNC Financial Services
+  Group, Inc. .............   1,988,411    135,410,789
+Polo Ralph Lauren Corp. ...    350,982      27,288,851
+PPG Industries, Inc. ......    938,005      70,866,278
+PPL Corp. .................   2,224,304    102,985,275
+Praxair, Inc. .............   1,837,240    153,887,222
+Precision Castparts
+  Corp. ...................    795,947     117,784,237
+Principal Financial Group,
+  Inc......................   1,540,107     97,165,351
+Procter & Gamble Co. ......  18,234,250   1,282,597,145
+Progress Energy, Inc. .....   1,476,067     69,153,739
+Progressive Corp. .........   4,282,343     83,120,278
+ProLogis...................   1,480,313     98,218,768
+Prudential Financial,
+  Inc. ....................   2,703,341    263,792,015
+</Table>
+
+See accompanying notes to financial statements.
+
+                                        5
+
+<PAGE>
+
+SPDR TRUST, SERIES 1
+SCHEDULE OF INVESTMENTS (CONTINUED)
+SEPTEMBER 30, 2007
+
+- --------------------------------------------------------------------------------
+
+<Table>
+<Caption>
+COMMON STOCKS                  SHARES         VALUE
+- --------------------------------------------------------
+<S>                          <C>         <C>
+Public Service Enterprise
+  Group, Inc. .............   1,454,505  $   127,981,895
+Public Storage, Inc. ......     697,451       54,854,521
+Pulte Homes, Inc. .........   1,219,637       16,599,260
+QLogic Corp. *.............     914,932       12,305,835
+QUALCOMM, Inc. ............   9,645,142      407,603,701
+Quest Diagnostics, Inc. ...     921,723       53,247,938
+Questar Corp. .............     980,658       51,513,965
+Qwest Communications
+  International, Inc. *....   9,064,697       83,032,625
+R.R. Donnelley & Sons
+  Co. .....................   1,232,776       45,070,291
+RadioShack Corp. ..........     762,428       15,751,762
+Raytheon Co. ..............   2,571,176      164,092,452
+Regions Financial Corp. ...   4,181,936      123,283,473
+Reynolds American, Inc. ...     971,956       61,806,682
+Robert Half International,
+  Inc. ....................     971,875       29,020,188
+Rockwell Automation,
+  Inc. ....................     948,271       65,914,317
+Rockwell Collins, Inc. ....     976,359       71,313,261
+Rohm & Haas Co. ...........     830,125       46,213,059
+Rowan Cos., Inc. ..........     621,159       22,721,996
+Ryder System, Inc. ........     345,833       16,945,817
+SAFECO Corp. ..............     609,875       37,336,548
+Safeway, Inc. .............   2,550,943       84,461,723
+SanDisk Corp. *............   1,319,490       72,703,899
+Sara Lee Corp. ............   4,306,877       71,881,777
+Schering-Plough Corp. .....   9,401,511      297,369,793
+Schlumberger, Ltd. ........   6,936,028      728,282,940
+Sealed Air Corp. ..........     926,801       23,689,034
+Sears Holdings Corp. *.....     471,391       59,960,935
+Sempra Energy..............   1,516,678       88,149,325
+Sherwin-Williams Co. ......     629,638       41,373,513
+Sigma-Aldrich Corp. .......     760,199       37,052,099
+Simon Property Group,
+  Inc. ....................   1,292,824      129,282,400
+SLM Corp. .................   2,364,931      117,466,123
+Smith International,
+  Inc. ....................   1,154,575       82,436,655
+Snap-on, Inc. .............     332,780       16,485,921
+Solectron Corp. *..........   5,187,730       20,232,147
+Southern Co. ..............   4,319,031      156,694,445
+Southwest Airlines Co. ....   4,528,639       67,023,857
+Sovereign Bancorp, Inc. ...   2,122,949       36,175,051
+Spectra Energy Corp. ......   3,597,705       88,071,818
+Sprint Nextel Corp. .......  16,756,641      318,376,179
+St. Jude Medical, Inc. *...   1,997,439       88,027,137
+Stanley Works..............     464,358       26,064,415
+Staples, Inc. .............   4,135,981       88,882,232
+Starbucks Corp. *..........   4,344,654      113,829,935
+Starwood Hotels & Resorts
+  Worldwide, Inc. .........   1,242,425       75,477,319
+State Street Corp.(a)......   2,305,648      157,152,968
+<Caption>
+COMMON STOCKS                  SHARES         VALUE
+- --------------------------------------------------------
+Stryker Corp. .............   1,392,962     95,780,067
+Sun Microsystems, Inc. *...  20,783,733    116,596,742
+Sunoco, Inc. ..............    702,639      49,732,788
+SunTrust Banks, Inc. ......   2,068,831    156,548,442
+SUPERVALU, Inc. ...........   1,207,241     47,094,471
+Symantec Corp. *...........   5,344,457    103,575,577
+Synovus Financial Corp. ...   1,849,138     51,868,321
+Sysco Corp. ...............   3,586,221    127,633,605
+T. Rowe Price Group,
+  Inc. ....................   1,514,785     84,358,377
+Target Corp. ..............   4,943,283    314,244,500
+TECO Energy, Inc. .........   1,188,558     19,528,008
+Tektronix, Inc. ...........    464,332      12,880,570
+Tellabs, Inc. *............   2,553,903     24,313,157
+Temple-Inland, Inc. .......    626,445      32,969,800
+Tenet Healthcare Corp. *...   2,683,567     9,016,785
+Teradyne, Inc. *...........   1,119,379     15,447,430
+Terex Corp. *..............    587,701      52,317,143
+Tesoro Corp. ..............    934,652      43,012,685
+Texas Instruments, Inc. ...   8,289,378    303,308,341
+Textron, Inc. .............   1,441,124     89,652,324
+Thermo Electron Corp. *....   2,425,883    140,021,967
+Tiffany & Co. .............    806,383      42,214,150
+Time Warner, Inc. .........  21,895,449    402,000,444
+TJX Cos., Inc. ............   2,620,851     76,188,139
+Torchmark Corp. ...........    581,783      36,256,717
+Transocean, Inc. *.........   1,664,435    188,164,377
+Travelers Cos., Inc. ......   3,879,931    195,315,727
+Tribune Co. ...............    561,532      15,341,054
+TXU Corp. .................   2,635,532    180,454,876
+Tyco Electronics, Ltd. ....   2,865,519    101,525,338
+Tyco International, Ltd. ..   2,867,121    127,128,145
+Tyson Foods, Inc. (Class
+  A).......................   1,419,263     25,333,845
+U.S. Bancorp...............  10,180,898    331,184,612
+Union Pacific Corp. .......   1,563,925    176,817,360
+Unisys Corp. *.............   1,950,624     12,913,131
+United Parcel Service, Inc.
+  (Class B)................   6,167,509    463,179,926
+United States Steel
+  Corp. ...................    705,638      74,755,290
+United Technologies
+  Corp. ...................   5,753,352    463,029,769
+UnitedHealth Group, Inc. ..   7,804,096    377,952,369
+Unum Group.................   2,090,102     51,144,796
+UST, Inc. .................    927,708      46,014,317
+V.F. Corp. ................    501,690      40,511,468
+Valero Energy Corp. .......   3,170,856    213,018,106
+Varian Medical Systems,
+  Inc. *...................    750,893      31,454,908
+VeriSign, Inc. *...........   1,394,199     47,040,274
+Verizon Communications,
+  Inc. ....................  16,814,327    744,538,400
+Viacom, Inc. (Class B) *...   4,004,152    156,041,803
+Vornado Realty Trust.......    751,384      82,163,840
+Vulcan Materials Co. ......    548,730      48,919,279
+</Table>
+
+See accompanying notes to financial statements.
+
+                                        6
+
+<PAGE>
+
+SPDR TRUST, SERIES 1
+SCHEDULE OF INVESTMENTS (CONTINUED)
+SEPTEMBER 30, 2007
+
+- --------------------------------------------------------------------------------
+
+<Table>
+<Caption>
+COMMON STOCKS                  SHARES         VALUE
+- --------------------------------------------------------
+<S>                          <C>         <C>
+W.W. Grainger, Inc. .......     428,970  $    39,117,774
+Wachovia Corp. ............  11,078,947      555,609,192
+Wal-Mart Stores, Inc. .....  14,056,856      613,581,764
+Walgreen Co. ..............   5,800,706      274,025,351
+Walt Disney Co. ...........  11,505,436      395,671,944
+Washington Mutual, Inc. ...   5,149,953      181,844,840
+Waste Management, Inc. ....   3,098,733      116,946,183
+Waters Corp. *.............     591,754       39,600,178
+Watson Pharmaceuticals,
+  Inc. *...................     580,776       18,817,142
+Weatherford International,
+  Ltd. *...................   1,971,045      132,414,803
+WellPoint, Inc. *..........   3,548,284      280,030,573
+Wells Fargo & Co. .........  19,421,287      691,786,243
+Wendy's International,
+  Inc. ....................     540,857       18,881,318
+Western Union Co. .........   4,456,828       93,459,683
+Weyerhaeuser Co. ..........   1,247,615       90,202,564
+Whirlpool Corp. ...........     443,517       39,517,365
+Whole Foods Market, Inc. ..     795,138       38,929,956
+Williams Cos., Inc. .......   3,441,767      117,226,584
+Windstream Corp. ..........   2,707,145       38,224,887
+Wm. Wrigley Jr. Co. .......   1,252,586       80,453,599
+Wyeth......................   7,782,897      346,728,061
+Wyndham Worldwide Corp. ...   1,129,442       37,000,520
+Xcel Energy, Inc. .........   2,359,154       50,816,177
+Xerox Corp. *..............   5,447,471       94,459,147
+Xilinx, Inc. ..............   1,723,702       45,057,570
+XL Capital, Ltd. (Class
+  A).......................   1,081,502       85,654,958
+XTO Energy, Inc. ..........   2,226,451      137,683,730
+Yahoo!, Inc. *.............   7,815,074      209,756,586
+Yum! Brands, Inc. .........   3,035,281      102,683,556
+Zimmer Holdings, Inc. *....   1,366,907      110,705,798
+Zions Bancorp..............     638,710       43,860,216
+                                         ---------------
+Total Common Stocks (Cost
+  $85,439,135,452).........              $78,433,090,251
+                                         ===============
+
+</Table>
+
+
+(*) Non-income producing security
+(a) Affiliated Issuer. See following table for more information.
+
+
+<Table>
+<Caption>
+                                      SHARES
+                                     PURCHASED   SHARES SOLD
+                       NUMBER OF      FOR THE      FOR THE      NUMBER OF
+                      SHARES HELD   YEAR ENDED    YEAR ENDED   SHARES HELD
+SECURITY DESCRIPTION   AT 9/30/06     9/30/07      9/30/07      AT 9/30/07
+- --------------------  -----------   ----------   -----------   -----------
+<S>                   <C>           <C>          <C>           <C>
+State Street Corp.
+ (Cost
+ $158,506,359).....    1,580,244     4,513,222    3,787,818     2,305,648
+</Table>
+
+
+
+<Table>
+<Caption>
+                                          REALIZED GAIN
+                         INCOME EARNED   ON SHARES SOLD
+                            FOR THE        DURING THE      DIVIDEND
+                           YEAR ENDED      YEAR ENDED     RECEIVABLE
+                            9/30/07          9/30/07      AT 9/30/07
+                         -------------   --------------   ----------
+<S>                      <C>             <C>              <C>
+                           $1,534,780      $12,487,253     $522,924
+</Table>
+
+
+
+
+See accompanying notes to financial statements.
+
+                                        7
+
+<PAGE>
+
+SPDR TRUST, SERIES 1
+STATEMENT OF ASSETS AND LIABILITIES
+SEPTEMBER 30, 2007
+
+- --------------------------------------------------------------------------------
+
+
+<Table>
+<S>                                                                    <C>
+ASSETS
+     Investments in securities, at value (including affiliated
+       investments at value of $157,152,968)........................   $78,433,090,251
+     Cash...........................................................       539,969,097
+     Receivable for investments sold................................        84,273,745
+     Dividends receivable...........................................        88,284,747
+                                                                       ---------------
+Total Assets........................................................    79,145,617,840
+                                                                       ---------------
+LIABILITIES
+     Payable for investments purchased..............................        60,933,865
+     Payable for SPDR's repurchased in-kind.........................        20,204,170
+     Accrued Trustee expense........................................         2,477,430
+     Income distribution payable....................................       403,762,780
+     Accrued expenses and other liabilities.........................        19,773,041
+                                                                       ---------------
+Total Liabilities...................................................       507,151,286
+                                                                       ---------------
+NET ASSETS..........................................................   $78,638,466,554
+                                                                       ===============
+NET ASSETS REPRESENTED BY:
+     Paid in surplus................................................   $92,473,543,917
+     Distribution in excess of net investment income................      (354,299,342)
+     Accumulated net realized loss on investments...................    (6,474,732,820)
+     Net unrealized depreciation on investments.....................    (7,006,045,201)
+                                                                       ---------------
+NET ASSETS..........................................................   $78,638,466,554
+                                                                       ===============
+NET ASSET VALUE PER SDPR............................................   $        152.48
+                                                                       ===============
+UNITS OF FRACTIONAL UNDIVIDED INTEREST
+  ("SPDRS") OUTSTANDING, UNLIMITED UNITS AUTHORIZED, $0.00 PAR
+     VALUE..........................................................       515,730,360
+                                                                       ---------------
+COST OF INVESTMENTS (INCLUDING COST OF AFFILIATED INVESTMENTS OF
+  $158,506,359).....................................................   $85,439,135,452
+                                                                       ---------------
+
+</Table>
+
+
+
+
+
+See accompanying notes to financial statements.
+
+                                        8
+
+<PAGE>
+
+SPDR TRUST, SERIES 1
+STATEMENTS OF OPERATIONS
+
+- --------------------------------------------------------------------------------
+
+
+<Table>
+<Caption>
+                                                     FOR THE           FOR THE          FOR THE
+                                                    YEAR ENDED       YEAR ENDED       YEAR ENDED
+                                                  SEPTEMBER 30,     SEPTEMBER 30,    SEPTEMBER 30,
+                                                       2007             2006             2005
+                                                 ---------------   --------------   --------------
+<S>                                              <C>               <C>              <C>
+INVESTMENT INCOME
+  Dividend income - unaffiliated issuers......   $ 1,230,919,171   $1,039,969,618   $1,088,830,574
+  Dividend income - affiliated issuers........         1,534,780        1,232,565        1,074,217
+                                                 ---------------   --------------   --------------
+  Total Investment Income.....................     1,232,453,951    1,041,202,183    1,089,904,791
+                                                 ---------------   --------------   --------------
+EXPENSES
+     Trustee expense..........................        39,138,318       33,325,993       31,597,760
+     Marketing expense........................        12,846,106       12,253,449       15,473,877
+     S&P license fee..........................        22,480,686       19,060,993       18,052,857
+     SEC registration fee.....................                --               --          500,000
+     Legal and audit services.................           131,502          128,941          246,250
+     Other expenses...........................           985,568          799,386          842,504
+                                                 ---------------   --------------   --------------
+Total expenses................................        75,582,180       65,568,762       66,713,248
+     Trustee expense waiver...................        (4,970,832)     (11,108,781)     (15,133,657)
+                                                 ---------------   --------------   --------------
+Net expenses..................................        70,611,348       54,459,981       51,579,591
+     Trustee earnings credits.................       (18,950,100)      (8,560,492)      (2,730,415)
+                                                 ---------------   --------------   --------------
+Net expenses after Trustee earnings credits...        51,661,248       45,899,489       48,849,176
+                                                 ---------------   --------------   --------------
+NET INVESTMENT INCOME.........................     1,180,792,703      995,302,694    1,041,055,615
+                                                 ---------------   --------------   --------------
+REALIZED AND UNREALIZED GAIN (LOSS) ON
+  INVESTMENTS
+  Net realized gain (loss) on:
+     Investment transactions -- unaffiliated
+       issuers................................     8,384,712,286    2,976,847,607    4,542,652,646
+     Investment transactions -- affiliated
+       issuers................................        12,487,253      (12,302,877)         190,138
+  Net change in unrealized appreciation
+     (depreciation) on:
+     Investment transactions -- unaffiliated
+       issuers................................       451,101,267    2,090,504,058      (83,695,376)
+     Investment transactions -- affiliated
+       issuers................................        (3,623,083)       8,531,665        9,218,142
+                                                 ---------------   --------------   --------------
+NET REALIZED AND UNREALIZED GAIN/(LOSS) ON
+  INVESTMENTS.................................     8,844,677,723    5,063,580,453    4,468,365,550
+                                                 ---------------   --------------   --------------
+NET INCREASE (DECREASE) IN NET ASSETS
+  RESULTING FROM OPERATIONS...................   $10,025,470,426   $6,058,883,147   $5,509,421,165
+                                                 ===============   ==============   ==============
+
+</Table>
+
+
+
+
+
+
+See accompanying notes to financial statements.
+
+                                        9
+
+<PAGE>
+
+SPDR TRUST, SERIES 1
+STATEMENTS OF CHANGES IN NET ASSETS
+
+- --------------------------------------------------------------------------------
+
+
+<Table>
+<Caption>
+                                                  FOR THE            FOR THE            FOR THE
+                                                 YEAR ENDED         YEAR ENDED         YEAR ENDED
+                                               SEPTEMBER 30,      SEPTEMBER 30,      SEPTEMBER 30,
+                                                    2007               2006               2005
+                                              ---------------    ---------------    ---------------
+<S>                                           <C>                <C>                <C>
+INCREASE (DECREASE) IN NET ASSETS RESULTING
+  FROM OPERATIONS:
+     Net investment income.................   $ 1,180,792,703    $   995,302,694    $ 1,041,055,615
+     Net realized gain (loss) on investment
+       transactions........................     8,397,199,539      2,964,544,730      4,542,842,784
+     Net change in unrealized appreciation
+       (depreciation)......................       447,478,184      2,099,035,723        (74,477,234)
+                                              ---------------    ---------------    ---------------
+NET INCREASE/(DECREASE) IN NET ASSETS
+  RESULTING FROM OPERATIONS................    10,025,470,426      6,058,883,147      5,509,421,165
+                                              ---------------    ---------------    ---------------
+NET EQUALIZATION CREDITS AND CHARGES.......       115,289,393         64,697,330         45,350,560
+                                              ---------------    ---------------    ---------------
+DISTRIBUTIONS TO UNITHOLDERS FROM NET
+  INVESTMENT INCOME........................    (1,323,001,746)    (1,059,134,562)    (1,085,600,597)
+                                              ---------------    ---------------    ---------------
+NET INCREASE (DECREASE) IN NET ASSETS FROM
+  ISSUANCE AND REDEMPTION OF SPDRS.........    12,234,823,506      5,492,844,774     (3,156,501,800)
+                                              ---------------    ---------------    ---------------
+NET INCREASE (DECREASE) IN NET ASSETS
+  DURING PERIOD............................    21,052,581,579     10,557,290,689      1,312,669,328
+NET ASSETS AT BEGINNING OF PERIOD..........    57,585,884,975     47,028,594,286     45,715,924,958
+                                              ---------------    ---------------    ---------------
+NET ASSETS END OF PERIOD*..................   $78,638,466,554    $57,585,884,975    $47,028,594,286
+                                              ===============    ===============    ===============
+* INCLUDES UNDISTRIBUTED (DISTRIBUTION IN
+  EXCESS OF) NET INVESTMENT INCOME.........   $  (354,299,342)   $  (212,090,299)   $  (147,564,863)
+                                              ---------------    ---------------    ---------------
+
+</Table>
+
+
+
+
+
+
+See accompanying notes to financial statements.
+
+                                       10
+
+<PAGE>
+
+SPDR TRUST, SERIES 1
+FINANCIAL HIGHLIGHTS
+SELECTED DATA FOR A SPDR OUTSTANDING DURING THE YEAR
+
+- --------------------------------------------------------------------------------
+
+
+<Table>
+<Caption>
+                                    FOR THE        FOR THE        FOR THE        FOR THE        FOR THE
+                                   YEAR ENDED     YEAR ENDED     YEAR ENDED     YEAR ENDED     YEAR ENDED
+                                 SEPTEMBER 30,  SEPTEMBER 30,  SEPTEMBER 30,  SEPTEMBER 30,  SEPTEMBER 30,
+                                      2007           2006           2005           2004           2003
+                                 -------------  -------------  -------------  -------------  -------------
+<S>                              <C>            <C>            <C>            <C>            <C>
+NET ASSET VALUE, BEGINNING OF
+  YEAR.........................   $    133.53    $    122.85    $    111.78    $     99.87    $     81.78
+                                  -----------    -----------    -----------    -----------    -----------
+Investment Operations:
+     Net investment income.....        2.66(4)        2.32(4)        2.40(3)          1.81           1.55
+     Net realized and
+       unrealized gain (loss)
+       on investments..........         18.75          10.54          10.97          11.71          18.11
+                                  -----------    -----------    -----------    -----------    -----------
+Total from investment
+  operations...................         21.41          12.86          13.37          13.52          19.66
+                                  -----------    -----------    -----------    -----------    -----------
+Net equalization credits and
+  charges......................          0.26           0.15           0.10           0.18          (0.02)
+                                  -----------    -----------    -----------    -----------    -----------
+
+Less distributions from:
+     Net investment income.....         (2.72)         (2.33)         (2.40)         (1.79)         (1.55)
+                                  -----------    -----------    -----------    -----------    -----------
+NET ASSET VALUE, END OF YEAR...   $    152.48    $    133.53    $    122.85    $    111.78    $     99.87
+                                  ===========    ===========    ===========    ===========    ===========
+TOTAL INVESTMENT RETURN(5).....         16.31%         10.64%         12.11%         13.62%         24.13%
+
+RATIOS AND SUPPLEMENTAL DATA
+Ratio to average net assets:
+     Net investment income.....          1.86%          1.83%          2.02%          1.63%          1.67%
+     Total expenses(1).........          0.08%          0.08%          0.10%          0.11%          0.12%
+     Total expenses excluding
+       Trustee earnings
+       credit..................          0.11%          0.10%          0.10%          0.11%          0.12%
+     Total expenses excluding
+       Trustee earnings credit
+       and fee waivers.........          0.12%          0.12%          0.13%          0.13%          0.13%
+Portfolio turnover rate(2).....          2.95%          3.70%          6.01%          2.23%          1.76%
+Net assets, end of year
+  (000's)......................   $78,638,467    $57,585,885    $47,028,594    $45,715,925    $36,054,568
+</Table>
+
+
+
+- --------
+
+(1) Net of expenses reimbursed by the Trustee.
+
+(2) Portfolio turnover ratio excludes securities received or delivered from
+    processing creations or redemptions of SPDRs.
+
+(3) Net investment income per unit reflects receipt of a special one time
+    dividend from a portfolio holding. The effect of this dividend amounted to
+    $0.40 per share.
+
+(4) Per share numbers have been calculated using the average shares method.
+
+(5) Total return is calculated assuming a purchase of shares at net asset value
+    per share on the first day and a sale at net asset value per share on the
+    last day of each period reported. Distributions are assumed, for the
+    purposes of this calculation, to be reinvested at the net asset value per
+    share on the respective payment dates of each Fund. Total return for a
+    period of less than one year is not annualized. Broker commission charges
+    are not included in the calculation.
+
+
+See accompanying notes to financial statements.
+
+                                       11
+
+<PAGE>
+
+SPDR TRUST, SERIES 1
+NOTES TO FINANCIAL STATEMENTS
+SEPTEMBER 30, 2007
+
+- --------------------------------------------------------------------------------
+NOTE 1 -- ORGANIZATION
+SPDR Trust Series 1 (the "Trust") is a unit investment trust created under the
+laws of the State of New York and registered under the Investment Company Act of
+1940. The Trust was created to provide investors with the opportunity to
+purchase a security representing a proportionate undivided interest in a
+portfolio of securities consisting of substantially all of the common stocks, in
+substantially the same weighting, which comprise the Standard & Poor's 500
+Composite Price Index (the "S&P Index"). Each unit of fractional undivided
+interest in the Trust is referred to as a Standard & Poor's Depositary Receipt
+("SPDR"). The Trust commenced operations on January 22, 1993 upon the initial
+issuance of 150,000 SPDRs (equivalent to three "Creation Units" -- see Note 4)
+in exchange for a portfolio of securities assembled to reflect the intended
+portfolio composition of the Trust.
+
+Under the Trust Agreement, the Sponsor and Trustee (each as defined below) are
+indemnified against certain liabilities arising out of the performance of their
+duties to the Trust. Additionally, in the normal course of business, the Trust
+enters into contracts with service providers that contain general
+indemnification clauses. The Trust's maximum exposure under these arrangements
+is unknown as this would involve future claims that may be made against the
+Trust that have not yet occurred. However, based on experience the Trust expects
+the risk of loss to be remote.
+
+NOTE 2 -- SIGNIFICANT ACCOUNTING POLICIES
+The preparation of financial statements in accordance with accounting principles
+generally accepted in the United States of America requires the Trustee to make
+estimates and assumptions that affect the reported amounts and disclosures in
+the financial statements. Actual results could differ from these estimates. The
+following is a summary of significant accounting policies followed by the Trust.
+
+SECURITY VALUATION
+Portfolio securities are valued based on the closing sale price on the exchange
+which is deemed to be the principal market for the security, except for
+securities listed on the NASDAQ which are valued at the NASDAQ official close
+price. If there is no closing sale price available, valuation will be determined
+by the Trustee in good faith based on available information.
+
+In September, 2006, Statement of Financial Accounting Standards No. 157, Fair
+Value Measurements ("SFAS 157"), was issued and is effective for fiscal years
+beginning after November 15, 2007. SFAS 157 defines fair value, establishes a
+framework for measuring fair value and expands disclosures about fair value
+measurements. The Trustee is currently evaluating the impact, if any, the
+adoption of SFAS 157 will have on the Trust's financial statements. The Trustee
+does not anticipate SFAS 157 will have a material impact on the Funds' financial
+statements.
+
+RECLASSIFICATION
+Certain prior year amounts on the Statements of Operations and the Financial
+Highlights have been reclassified to conform to the current year presentation.
+
+INVESTMENT RISK
+The Trust invests in various investments which are exposed to risks, such as
+market risk. Due to the level of risk associated with certain investments it is
+at least reasonably possible that changes in the values of investment securities
+will occur in the near term and that such changes could materially affect the
+amounts reported in the financial statements.
+
+
+                                       12
+
+<PAGE>
+
+SPDR TRUST, SERIES 1
+NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+SEPTEMBER 30, 2007
+
+- --------------------------------------------------------------------------------
+
+
+
+NOTE 2 -- SIGNIFICANT ACCOUNTING POLICIES - (CONTINUED)
+
+
+INVESTMENT TRANSACTIONS
+Investment transactions are recorded on the trade date. Realized gains and
+losses from the sale or disposition of securities are recorded on the identified
+cost basis. Dividend income is recorded on the ex-dividend date.
+
+DISTRIBUTIONS TO UNITHOLDERS
+The Trust declares and distributes dividends from net investment income to its
+unitholders quarterly. The Trust will distribute net realized capital gains, if
+any, at least annually.
+
+EQUALIZATION
+The Trust follows the accounting practice known as "Equalization" by which a
+portion of the proceeds from sales and costs of reacquiring the Trust's units,
+equivalent on a per unit basis to the amount of distributable net investment
+income on the date of the transaction, is credited or charged to undistributed
+net investment income. As a result, undistributed net investment income per unit
+is unaffected by sales or reacquisitions of the Trust's units.
+
+FEDERAL INCOME TAX
+The Trust has qualified and intends to qualify as a "regulated investment
+company" under Subchapter M of the Internal Revenue Code of 1986, as amended. By
+so qualifying and electing, the Trust will not be subject to federal income
+taxes to the extent it distributes its taxable income, including any net
+realized capital gains, for each fiscal year. In addition, by distributing
+during each calendar year substantially all of its net investment income and
+capital gains, if any, the Trust will not be subject to federal excise tax.
+Income and capital gain distributions are determined in accordance with income
+tax regulations which may differ from generally accepted accounting principles.
+These differences are primarily due to differing treatments for income
+equalization, in-kind transactions and losses deferred due to wash sales. Net
+investment income per unit calculations in the financial highlights for all
+years presented exclude these differences.
+
+During 2007, the Trust reclassified $9,332,873,621 of non-taxable security gains
+realized in the in-kind redemption of Creation Units (Note 4) as an increase to
+paid in surplus in the Statement of Assets and Liabilities. At September 30,
+2007, the Trust had capital loss carryforwards of $58,816,996, $403,831,303,
+$472,492,447, $1,530,834,020, $445,024,832, $380,379,645, $1,174,140,896, and
+$1,056,971,322 which will expire on September 30, 2008, September 30, 2009,
+September 30, 2010, September 30, 2011, September 30, 2012, September 30, 2013,
+September 30, 2014 and September 30, 2015, respectively. The Trust incurred
+losses of $832,594,401 during the period November 1, 2006 through September 30,
+2007 that were deferred for tax purposes until fiscal 2008.
+
+The tax character of distributions paid during the year ended September 30, 2007
+was $1,323,001,746 of ordinary income. The tax character of distributions paid
+during the year ended September 30, 2006 was $1,059,134,562 of ordinary income.
+The tax character of distributions paid during the year ended September 30, 2005
+was $1,085,600,597 of ordinary income.
+
+As of September 30, 2007, the components of distributable earnings (excluding
+unrealized appreciation/(depreciation)) on a tax basis were undistributed
+ordinary income of $49,463,432 and undistributed long term capital gain of $0.
+
+
+                                       13
+
+<PAGE>
+
+SPDR TRUST, SERIES 1
+NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+SEPTEMBER 30, 2007
+
+- --------------------------------------------------------------------------------
+
+
+
+NOTE 2 -- SIGNIFICANT ACCOUNTING POLICIES - (CONTINUED)
+
+
+In December 2006, the SEC issued the staff guidance ("SEC Letter") that delayed
+the implementation of the Financial Accounting Standards Board's ("FASB")
+Interpretation No. 48, "Accounting for Uncertainty in Income Taxes" ("FIN 48")
+and clarified its application. FIN 48 was originally released by the FASB in
+July 2006. FIN 48 mandates a two-part test for recognition of a tax benefit in
+the financial statements of any company (including an investment company) that
+follows generally accepted accounting principles. First, the company must
+determine that it has a greater than 50% likelihood of sustaining its position
+based on the "technical merits" of the position. Second, the company must
+determine the amount of benefit that may be recognized by considering all of the
+potential outcomes and measuring the probability that each will occur. The SEC
+Letter clarifies the types of guidance upon which investment companies can rely
+in determining the technical merits of a tax position. In addition, the SEC
+Letter permits investment companies to delay the implementation of FIN 48 until
+the last NAV calculation in the first required financial reporting period for
+fiscal years beginning after December 15, 2006. In the case of the Trust, this
+is September 30, 2008. At this time, the Trustee is evaluating the implications
+of FIN 48 and its impact, if any, to the financial statements has not yet been
+determined.
+
+NOTE 3 -- TRANSACTIONS WITH THE TRUSTEE AND SPONSOR
+In accordance with the Trust Agreement, State Street Bank and Trust Company (the
+"Trustee") maintains the Trust's accounting records, acts as custodian and
+transfer agent to the Trust, and provides administrative services, including
+filing of all required regulatory reports. The Trustee is also responsible for
+determining the composition of the portfolio of securities which must be
+delivered and/or received in exchange for the issuance and/or redemption of
+Creation Units of the Trust, and for adjusting the composition of the Trust's
+portfolio from time to time to conform to changes in the composition and/or
+weighting structure of the S&P 500 Index. For these services, the Trustee
+received a fee at the following annual rates for the year ended September 30,
+2007:
+
+<Table>
+<Caption>
+NET ASSET VALUE OF THE TRUST     FEE AS A PERCENTAGE OF NET ASSET VALUE OF THE TRUST
+- ----------------------------     ---------------------------------------------------
+<S>                              <C>
+                                 10/100 of 1% per annum plus or minus the Adjustment
+$0 - $499,999,999                Amount
+                                 8/100 of 1% per annum plus or minus the Adjustment
+$500,000,000 - $2,499,999,999    Amount
+                                 6/100 of 1% per annum plus or minus the Adjustment
+$2,500,000,000 - and above       Amount
+</Table>
+
+
+The Adjustment Amount is the sum of (a) the excess or deficiency of transaction
+fees received by the Trustee, less the expenses incurred in processing orders
+for creation and redemption of SPDRs and (b) the amounts earned by the Trustee
+with respect to the cash held by the Trustee for the benefit of the Trust.
+During the year ended September 30, 2007, the Adjustment Amount reduced the
+Trustee's fee by $18,950,100. The Adjustment Amount included an excess of net
+transaction fees from processing orders of $794,669 and a Trustee earnings
+credit of $18,155,431.
+
+Effective November 1, 2006, the Trustee changed the method of computing the
+Adjustment Amount to the Trustee Fee such that all income earned with respect to
+cash held for the benefit of the Trust is credited against the Trustee's Fee. In
+addition, during the period from December 1, 2006 through December 31, 2006, the
+Trustee applied incremental cash balance credits of $5,918,238.
+
+The Trustee voluntarily agreed to waive a portion of its fee, as needed, for one
+year through February 1, 2008. From October 1, 2006 to January 31, 2007, the
+Trustee waived a portion of its fee so that the total operating expenses
+
+                                       14
+
+<PAGE>
+
+SPDR TRUST, SERIES 1
+NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+SEPTEMBER 30, 2007
+
+- --------------------------------------------------------------------------------
+
+
+
+NOTE 3 -- TRANSACTIONS WITH THE TRUSTEE AND SPONSOR - (CONTINUED)
+
+
+would not exceed 10/100 of 1% per annum of the daily net asset value. Effective
+February 1, 2007, the Trust waived a portion of its fee so that the total
+operating expenses would not exceed 9.45/100 of 1% per annum of the daily net
+asset value. The total amount of such reimbursement by the Trustee for the year
+ended September 30, 2007 was $4,970,832. The Trustee has not entered into an
+agreement with the Trust to recapture waived fees in subsequent periods.
+
+Standard and Poor's ("S&P") and State Street Global Markets, LLC ("SSGM") have
+entered into a License Agreement. The License Agreement grants SSGM, an
+affiliate of the Trustee, a license to use the S&P 500 Index as a basis for
+determining the composition of the Portfolio and to use certain trade names and
+trademarks of S&P in connection with the Portfolio. The Trustee on behalf of the
+Trust, the American Stock Exchange LLC (the "AMEX"), and PDR Services LLC (the
+"Sponsor") have each received a sublicense from SSGM for the use of the S&P 500
+Index and such trade names and trademarks in connection with their rights and
+duties with respect to the Trust. The Trust pays an annual sub-license fee to
+S&P equal to the greater of: (i) 0.03% of the daily average net assets of the
+Trust plus a volume based fee ranging from $0.03 to $0.04 per round lot trade of
+the average daily trading volume, or (ii) $125,000, the minimum annual fee.
+
+TRANSACTIONS WITH AFFILIATED ISSUERS
+Certain investments made by the Trust represent securities affiliated with the
+Trustee. Investments in State Street Corp., the holding company of State Street
+Bank and Trust Company, were made according to its representative portion of the
+S&P 500 Index. The market value of these investments at September 30, 2007 is
+listed in the Schedule of Investments.
+
+NOTE 4 -- TRUST TRANSACTIONS IN SPDRS
+Transactions in SPDRS were as follows:
+
+<Table>
+<Caption>
+                                    YEAR ENDED                          YEAR ENDED                        YEAR ENDED
+                                SEPTEMBER 30, 2007                  SEPTEMBER 30, 2006                SEPTEMBER 30, 2005
+                        ----------------------------------   -------------------------------   -------------------------------
+                             SPDRS             AMOUNT            SPDRS           AMOUNT            SPDRS           AMOUNT
+                        --------------   -----------------   ------------   ----------------   ------------   ----------------
+<S>                     <C>              <C>                 <C>            <C>                <C>            <C>
+SPDRs sold...........    1,838,900,000   $ 269,830,592,741    707,000,000   $ 89,665,093,167    625,250,000   $ 75,185,061,183
+Dividend reinvestment
+  SPDRS issued.......           80,264          11,506,562         96,447         12,194,198         73,825          8,743,709
+SPDRs redeemed.......   (1,754,500,000)   (257,491,986,404)  (658,650,000)   (84,119,745,261)  (651,500,000)   (78,304,956,132)
+Net income
+  equalization.......               --        (115,289,393)            --        (64,697,330)            --        (45,350,560)
+                        --------------   -----------------   ------------   ----------------   ------------   ----------------
+Net increase
+  (decrease).........       84,480,264   $  12,234,823,506     48,446,447   $  5,492,844,774    (26,176,175)  $ (3,156,501,800)
+                        ==============   =================   ============   ================   ============   ================
+
+</Table>
+
+
+With the exception of the Trust's dividend reinvestment plan, SPDRs are issued
+and redeemed by the Trust only in Creation Unit size aggregations of 50,000
+SPDRs. Such transactions are only permitted on an in-kind basis, with a separate
+cash payment which is equivalent to the undistributed net investment income per
+SPDR (income equalization) and a balancing cash component to equate the
+transaction to the net asset value per unit of the Trust on the transaction
+date. A transaction fee of $3,000 is charged in connection with each creation or
+redemption of Creation
+
+                                       15
+
+<PAGE>
+
+SPDR TRUST, SERIES 1
+NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+SEPTEMBER 30, 2007
+
+- --------------------------------------------------------------------------------
+
+
+
+NOTE 4 -- TRUST TRANSACTIONS IN SPDRS - (CONTINUED)
+
+
+Units through the SPDR Clearing Process per Participating party per day,
+regardless of the number of Creation Units created or redeemed. Transaction fees
+are received by the Trustee and used to offset the expense of processing orders.
+
+NOTE 5 -- INVESTMENT TRANSACTIONS
+For the year ended September 30, 2007, the Trust had in-kind contributions, in-
+kind redemptions, purchases and sales of investment securities of
+$151,576,149,798, $139,503,503,027, $2,829,005,645, and $1,862,691,539,
+respectively. At September 30, 2007, the cost of investments for federal income
+tax purposes was $85,560,782,411, accordingly, gross unrealized appreciation was
+$1,390,535,886 and gross unrealized depreciation was $8,518,228,046, resulting
+in net unrealized depreciation of $7,127,692,160.
+
+
+                                       16
+
+<PAGE>
+
+SPDR TRUST, SERIES 1
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+- --------------------------------------------------------------------------------
+
+TO THE TRUSTEE AND UNITHOLDERS OF
+SPDR TRUST, SERIES 1
+
+In our opinion, the accompanying statements of assets and liabilities, including
+the schedule of investments, and the related statements of operations and of
+changes in net assets and the financial highlights present fairly, in all
+material respects, the financial position of SPDR Trust, Series 1 (the "Trust")
+at September 30, 2007, the results of its operations, the changes in its net
+assets and the financial highlights for the periods indicated, in conformity
+with accounting principles generally accepted in the United States of America.
+These financial statements and financial highlights (hereafter referred to as
+"financial statements") are the responsibility of the Trustee; our
+responsibility is to express an opinion on these financial statements based on
+our audits. We conducted our audits of these financial statements in accordance
+with the standards of the Public Company Accounting Oversight Board (United
+States). Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements, assessing the
+accounting principles used and significant estimates made by management, and
+evaluating the overall financial statement presentation. We believe that our
+audits, which included confirmation of securities at September 30, 2007 by
+correspondence with the custodian and brokers, provide a reasonable basis for
+our opinion.
+
+
+PricewaterhouseCoopers LLP
+Boston, Massachusetts
+November 28, 2007
+
+
+                                       17
+
+<PAGE>
+
+TAX INFORMATION (UNAUDITED)
+For Federal income tax purposes, the percentage of Trust distributions which
+qualify for the corporate dividends received deduction for the fiscal year ended
+September 30, 2007 is 98.07%.
+
+For the fiscal year ended September 30, 2007 certain dividends paid by the Trust
+may be designated as qualified dividend income and subject to maximum tax rate
+of 15%, as provided for the Jobs and Growth Tax Relief Reconciliation Act of
+2003. Complete information will be reported in conjunction with your 2007 Form
+1099-DIV.
+
+                FREQUENCY DISTRIBUTION OF DISCOUNTS AND PREMIUMS
+                        BID/ASK PRICE VS. NET ASSET VALUE
+                            AS OF SEPTEMBER 30, 2007
+
+
+<Table>
+<Caption>
+                                             BID/ASK PRICE                     BID/ASK PRICE
+                                               ABOVE NAV                         BELOW NAV
+                                    ------------------------------    ------------------------------
+                                    50 - 99    100 - 199      200     50 - 99    100 - 199      200
+                                     BASIS       BASIS       BASIS     BASIS       BASIS       BASIS
+                                     POINTS      POINTS     POINTS     POINTS      POINTS     POINTS
+                                    -------    ---------    ------    -------    ---------    ------
+<S>                                 <C>        <C>          <C>       <C>        <C>          <C>
+2007............................       0           0           0         0           0           0
+2006............................       0           0           0         0           0           0
+2005............................       0           0           0         0           0           0
+2004............................       0           0           0         1           0           0
+2003............................       0           0           0         0           0           0
+</Table>
+
+
+
+          COMPARISON OF TOTAL RETURNS BASED ON NAV AND BID/ASK PRICE(1)
+
+
+<Table>
+<Caption>
+                                CUMULATIVE TOTAL RETURN
+                                -----------------------
+                                                       1 YEAR       5 YEAR      10 YEAR
+                                                       ------      -------      -------
+<S>                                                    <C>         <C>          <C>
+SPDR Trust Series 1
+  Return Based on NAV............................      16.31%      103.68%       86.75%
+  Return Based on Bid/Ask Price..................      16.33%      104.23%       87.49%
+S&P 500 Index....................................      16.44%      105.13%       88.96%
+
+<Caption>
+                              AVERAGE ANNUAL TOTAL RETURN
+                              ---------------------------
+                                                       1 YEAR       5 YEAR      10 YEAR
+                                                       ------      -------      -------
+<S>                                                    <C>         <C>          <C>
+SPDR Trust Series 1
+  Return Based on NAV............................      16.31%       15.29%        6.45%
+  Return Based on Bid/Ask Price..................      16.33%       15.35%        6.49%
+S&P 500 Index....................................      16.44%       15.45%        6.57%
+</Table>
+
+
+- --------
+
+(1) Currently, the Bid/Ask Price is calculated based on the best bid and best
+    offer on the AMEX at 4:00 p.m. However, prior to April 3, 2001, the
+    calculation of the Bid/Ask Price was based on the midpoint of the best bid
+    and best offer at the close of trading on the AMEX, ordinarily 4:15 p.m.
+
+
+                                       18
+
+<PAGE>
+
+SPDR TRUST, SERIES 1
+
+- --------------------------------------------------------------------------------
+
+SPONSOR
+PDR Services LLC
+c/o American Stock Exchange LLC
+86 Trinity Place
+New York, NY 10006
+
+TRUSTEE
+State Street Bank and Trust Company
+One Lincoln Street
+Boston, MA 02111
+
+DISTRIBUTOR
+ALPS Distributors, Inc.
+1290 Broadway Suite 1100
+Denver, CO 80203
+
+INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+PricewaterhouseCoopers LLP
+125 High Street
+Boston, MA 02110
+
+LEGAL COUNSEL
+Katten Muchin Rosenman LLP
+575 Madison Avenue
+New York, NY 10022
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,465 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JD1v70M0UEa2WKdWdkBmjKv1H1SOqrjp4uMBKl/rPw4NtAFDikYkd3cFJbOazzEj
+ lk4hdfdjrMiZu9tfb7jNzw==
+
+<SEC-DOCUMENT>0001064641-05-000006.txt : 20050228
+<SEC-HEADER>0001064641-05-000006.hdr.sgml : 20050228
+<ACCEPTANCE-DATETIME>20050228154339
+ACCESSION NUMBER:		0001064641-05-000006
+CONFORMED SUBMISSION TYPE:	NSAR-U
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041031
+FILED AS OF DATE:		20050228
+DATE AS OF CHANGE:		20050228
+EFFECTIVENESS DATE:		20050228
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DIAMONDS TRUST SERIES I
+		CENTRAL INDEX KEY:			0001041130
+		IRS NUMBER:				133574560
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		NSAR-U
+		SEC ACT:		1940 Act
+		SEC FILE NUMBER:	811-09170
+		FILM NUMBER:		05645414
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PDR SERVICES CORP C/O AMERICAN STOCK EXC
+		STREET 2:		86 TRINITY STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10006
+		BUSINESS PHONE:		2123061397
+
+	MAIL ADDRESS:	
+		STREET 1:		PDR SERVICES CORP C/O AMERI ST EX
+		STREET 2:		86 TRINITY STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10006
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>NSAR-U
+<SEQUENCE>1
+<FILENAME>j906.txt
+<DESCRIPTION>NSAR
+<TEXT>
+
+
+                                   FORM N-SAR
+                                  ANNUAL REPORT
+                       FOR REGISTERED INVESTMENT COMPANIES
+
+Report for six month period ending:
+           or calendar year ending:12/31/2004
+Is this a transition report?:(Y/N)  N
+
+Is this an amendment to a previous filing? (Y/N)  N
+
+
+Those items or sub-items with a box "[/]" after the item number should be
+completed only if the answer has changed from the previous filing form.
+
+1. A. Registrant Name:    Diamonds Trust, Series 1
+   B. File Number:        811-09170
+   C. Telephone Number:   (212)306-1000
+
+2. A. Street: 86 Trinity Place
+   B. City:   New York
+   C. State:  New York
+   D. Zip Code: 10006              Zip Ext:
+   E. Foreign Country:             Foreign Postal Code:
+
+3. Is this the first filing on this form by the Registrant? (Y/N)   N
+                                                                   ----
+
+4. Is this the last filing on this form by Registrant? (Y/N)        N
+                                                                   ----
+
+5. Is Registrant a small business investment company (SBIC)? (Y/N) N
+   [If answer is "Y" (Yes) complete only items 89 through 110.]
+                                                                   ----
+
+6. Is Registrant a unit investment trust (UIT)? (Y/N)               Y
+   [If answer is "Y" (Yes) complete only items 111 through 132.]   ----
+
+
+7. A. Is Registrant a series or multiple portfolio company? (Y/N)
+      [If answer is "N" (No), go to item 8.]
+                                                                   ----
+
+
+   B. How many separate series or portfolios did Registrant have at
+      the end of the period?
+                                                                   ----
+<PAGE>
+UNIT INVESTMENT TRUSTS
+
+111. A. [/] Depositor Name:
+                           -----------------------------------------------------
+
+     B. [/] File Number (If any):
+                                 -----------------------------------------------
+
+     C. [/] City:               State:          Zip Code:        Zip Ext.:
+                 --------------       ---------          --------          -----
+        [/] Foreign Country:                     Foreign Postal Code:
+                            --------------------                     -----------
+
+111. A. [/] Depositor Name:
+                           -----------------------------------------------------
+
+     B. [/] File Number (If any):
+                                 -----------------------------------------------
+
+     C. [/] City:               State:          Zip Code:        Zip Ext.:
+                 --------------       ---------          --------          -----
+        [/] Foreign Country:                     Foreign Postal Code:
+                            --------------------                     -----------
+
+112. A. [/] Sponsor Name:
+                         -------------------------------------------------------
+
+     B. [/] File Number (If any):
+                                 -----------------------------------------------
+
+     C. [/] City:               State:          Zip Code:       Zip Ext.:
+                 --------------       ---------          -------          -----
+
+        [/] Foreign Country:                    Foreign Postal Code:
+                            -------------------                     ----------
+
+112. A. [/] Sponsor Name:
+                         -------------------------------------------------------
+
+     B. [/] File Number (If any):
+                                 -----------------------------------------------
+
+     C. [/] City:               State:          Zip Code:       Zip Ext.:
+                 --------------       ---------          -------          -----
+
+        [/] Foreign Country:                    Foreign Postal Code:
+                            -------------------                     ----------
+<PAGE>
+113. A. [/] Trustee Name:
+                         -------------------------------------------------------
+
+     B. [/] City:               State:          Zip Code:       Zip Ext.:
+                 --------------       ---------          -------          -----
+
+        [/] Foreign Country:                    Foreign Postal Code:
+                            -------------------                     ----------
+
+
+113. A. [/] Trustee Name:
+                         -------------------------------------------------------
+
+     B. [/] City:               State:          Zip Code:       Zip Ext.:
+                 --------------       ---------          -------          -----
+
+        [/] Foreign Country:                    Foreign Postal Code:
+                            -------------------                     ----------
+
+
+114. A. [/] Principal Underwriter Name:
+                                       -----------------------------------------
+
+     B. [/] File Number: 8-
+                            ---------------
+
+     C. [/] City:               State:          Zip Code:       Zip Ext.:
+                 --------------       ---------          -------          -----
+
+        [/] Foreign Country:                    Foreign Postal Code:
+                            -------------------                     ----------
+
+114. A. [/] Principal Underwriter Name:
+                                       -----------------------------------------
+
+     B. [/] File Number: 8-
+                            ---------------
+
+     C. [/] City:               State:          Zip Code:       Zip Ext.:
+                 --------------       ---------          -------          -----
+
+        [/] Foreign Country:                    Foreign Postal Code:
+                            -------------------                     ----------
+
+115. A. [/] Independent Public Accountant Name:
+                                               ---------------------------------
+
+     B. [/] City:               State:          Zip Code:       Zip Ext.:
+                 --------------       ---------          -------          -----
+
+        [/] Foreign Country:                    Foreign Postal Code:
+                            -------------------                     ----------
+
+
+115. A. [/] Independent Public Accountant Name:
+                                               ---------------------------------
+
+     B. [/] City:               State:          Zip Code:       Zip Ext.:
+                 --------------       ---------          -------          -----
+
+        [/] Foreign Country:                    Foreign Postal Code:
+                            -------------------                     ----------
+<PAGE>
+116. Family of investment companies information:
+
+     A. [/] Is Registrant part of a family of investment companies? (Y/N)
+                                                                         ------
+
+     B. [/] Identify the family in 10 letters: __ __ __ __ __ __ __ __ __ __
+
+           (NOTE: In filing this form, use this identification consistently for
+           all investment companies in family. This designation is for purposes
+           of this form only.)
+
+117. A. [/] Is Registrant a separate account of an insurance company? (Y/N) ___
+
+     If answer is "Y" (Yes), are any of the following types of contracts funded
+     by the Registrant?:
+
+     B. [/] Variable annuity contracts? (Y/N)
+                                             -----------------------------------
+
+     C. [/] Scheduled premium variable life contracts? (Y/N)
+                                                            --------------------
+
+     D. [/] Flexible premium variable life contracts? (Y/N)
+                                                           ---------------------
+
+     E. [/] Other types of insurance products registered under the
+            Securities Act of 1933? (Y/N)
+                                         ---------------------------------------
+
+118. [/] State the number of series existing at the end of the period that had
+securities registered under the Securities Act of 1933
+
+119. [/] State the number of new series for which registration
+         statements under the Securities Act of 1933 became
+         effective during the period
+                                    --------------------------------------------
+
+120. [/] State the total value of the portfolio securities on the date
+         of deposit for the new series included in item 119
+         ($000's omitted)
+                         --------------------------------------------
+
+121. [/] State the number of series for which a current prospectus was in
+existence at the end of the period
+                                   --------------------------------
+<PAGE>
+122. [/] State the number of existing series for which additional units
+         were registered under the Securities Act of 1933 during the
+         current period
+                        --------------------------------------------------------
+
+123. [/] State the total value of the additional units considered in
+         answering item 122 ($000's omitted)
+                                            ----------------
+
+124. [/] State the total value of units of prior series that were placed in
+         the portfolios of subsequent series during the current period (the
+         value of these units is to be measured on the date they were placed in
+         the subsequent series) ($000's
+         omitted)
+                 ---------------------------------------------
+
+125. [/] State the total dollar amount of sales loads collected (before
+         reallowances to other brokers or dealers) by Registrant's principal
+         underwriter and any underwriter which is an affiliated person of the
+         principal underwriter during the current period solely from the sale of
+         units of all series of Registrant ($000's omitted)
+
+         -------------------------------------
+
+126. Of the amount shown in item 125, state the total dollar amount sales loads
+     collected from secondary market operations in Registrant's units (include
+     the sales loads, if any, collected on units of a prior series placed in the
+     portfolio of a subsequent series.) ($000's omitted)        0
+                                                        ---------------------
+
+127. List opposite the appropriate description below the number of series whose
+     portfolios are invested primarily (based upon a percentage of NAV) in each
+     type of security shown, the aggregate total assets at market value as of a
+     date at or near the end of the current period of each such group of series
+     and the total income distributions made by each such group of series during
+     the current period (excluding distributions of realized gains, if any):
+
+<TABLE>
+<CAPTION>
+                                              Number of    Total Assets      Total Income
+                                                Series      ($000's          Distribution
+                                              Investing     omitted)       ($000's omitted)
+
+<S>                                           <C>          <C>             <C>
+A.       U.S. Treasury direct issue
+- - --------------------------------------------------------------------------------------------
+B.       U.S. Government agency
+C.       State and municipal tax-free
+- - --------------------------------------------------------------------------------------------
+D.       Public utility debt
+- - --------------------------------------------------------------------------------------------
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+                                              Number of    Total Assets      Total Income
+                                                Series      ($000's          Distribution
+                                              Investing     omitted)       ($000's omitted)
+
+<S>                                           <C>          <C>             <C>
+
+E.       Brokers or dealers debt or
+         debt of brokers' or dealers'
+         parent
+- - --------------------------------------------------------------------------------------------
+
+F.       All other corporate intermed.
+         & long-term debt
+- - --------------------------------------------------------------------------------------------
+
+G.       All other corporate short-
+         Term debt
+- - --------------------------------------------------------------------------------------------
+
+H.       Equity security of brokers
+         Or dealers or parents of
+         Brokers or dealers
+- - --------------------------------------------------------------------------------------------
+
+I.       Investment company quity
+         Securities
+- - --------------------------------------------------------------------------------------------
+
+J.       All other equity securities        1      $8,036,620           $154,176
+K.
+L.       Other securities
+- - --------------------------------------------------------------------------------------------
+
+M.       Total assets of all series
+         Of registrant
+- - --------------------------------------------------------------------------------------------
+</TABLE>
+
+128. [/] Is the timely payment of principal and interest on any of the
+         portfolio securities held by any of Registrant's series at the
+         end of the current period insured or guaranteed by an entity
+         other than the issuer? (Y/N)
+                                     --------------------------------
+
+         [If answer is "N" (No), go to item 131.]                         Y/N
+
+129. [/] Is the issuer of any instrument covered in item 128 delinquent
+         or in default as to payment of principal or interest at the
+         end of the current period? (Y/N)
+                                         ------------------------------
+
+         [If answer is "N" (No), go to item 131.]                         Y/N
+
+130. [/] In computations of NAV or offering price per unit, is any part
+         of the value attributed to instruments identified in item 129
+         derived from insurance or guarantees? (Y/N)
+                                                    -------------------
+                                                                          Y/N
+
+131. Total expenses incurred by all series of Registrant during the
+     current reporting period ($000's omitted)      $13,101
+                                               -------------------
+
+132.List the 11811" (Investment Company Act of 1940) registration number for all
+Series of Registrant that are being included in this filing:
+
+            811-       811-       811-       811-       811-
+            811-       811-       811-       811-       811-
+            811-       811-       811-       811-       811-
+            811-       811-       811-       811-       811-
+            811-       811-       811-       811-       811-
+            811-       811-       811-       811-       811-
+            811-       811-       811-       811-       811-
+            811-       811-       811-       811-       811-
+            811-       811-       811-       811-       811-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>j906auditletter.txt
+<DESCRIPTION>AUDIT LETTER
+<TEXT>
+
+
+
+Report of Independent Registered Public Accounting Firm
+
+To the Trustee and Unitholders
+of Diamonds Trust, Series I
+
+In planning and performing our audit of the financial statements
+of Diamonds Trust, Series I (the Trust) for the year ended
+October 31, 2004, we considered its internal control, including
+control activities for safeguarding securities, in order to determine
+our auditing procedures for the purpose of expressing our opinion on
+the financial statements and to comply with the requirements of Form
+N-SAR, not to provide assurance on internal control.
+
+The management of the Trust is responsible for establishing and
+maintaining internal control.  In fulfilling this responsibility,
+estimates and judgments by management are required to assess the
+expected benefits and related costs of controls.  Generally, controls
+that are relevant to an audit pertain to the entitys objective of
+preparing financial statements for external purposes that are fairly
+presented in conformity with generally accepted accounting principles.
+Those controls include the safeguarding of assets against unauthorized
+acquisition, use or disposition.
+
+Because of inherent limitations in internal control, errors or fraud
+may occur and not be detected.  Also, projection of any evaluation of
+internal control to future periods is subject to the risk that controls
+may become inadequate because of changes in conditions or that the
+effectiveness of their design and operation may deteriorate.
+
+Our consideration of internal control would not necessarily disclose all
+matters in internal control that might be material weaknesses under
+standards established by the Public Trust Accounting Oversight Board
+(United States). A material weakness, for purposes of this report, is a
+condition in which the design or operation of one or more of the internal
+control components does not reduce to a relatively low level the risk that
+misstatements caused by error or fraud in amounts that would be material
+in relation to the financial statements being audited may occur and not be
+detected within a timely period by employees in the normal course of
+performing their assigned functions. However, we noted no matters
+involving internal control and its operation, including controls for
+safeguarding securities that we consider to be material weaknesses as
+defined above as of October 31, 2004.
+
+This report is intended solely for the information and use of the
+Trustee and its management and the Securities and Exchange Commission
+and is not intended to be and should not be used by anyone other than
+these specified parties.
+
+
+PricewaterhouseCoopers LLP
+December 17, 2004
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

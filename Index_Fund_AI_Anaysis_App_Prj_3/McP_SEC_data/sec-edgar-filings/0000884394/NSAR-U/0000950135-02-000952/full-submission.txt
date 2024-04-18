@@ -1,0 +1,472 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ U+qiVWOsraY3ZVTkeC0aQmt8I4eF+wCqWglMalp76wLLd9RBLObfwibTHngvQE1v
+ aNvjz26nidb6EkzotC0Fww==
+
+<SEC-DOCUMENT>0000950135-02-000952.txt : 20040415
+<SEC-HEADER>0000950135-02-000952.hdr.sgml : 20040415
+<ACCEPTANCE-DATETIME>20020214155305
+ACCESSION NUMBER:		0000950135-02-000952
+CONFORMED SUBMISSION TYPE:	NSAR-U
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20011231
+FILED AS OF DATE:		20020214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SPDR TRUST SERIES 1
+		CENTRAL INDEX KEY:			0000884394
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		NSAR-U
+		SEC ACT:		1940 Act
+		SEC FILE NUMBER:	811-06125
+		FILM NUMBER:		02548389
+
+	BUSINESS ADDRESS:	
+		STREET 1:		86 TRINITY PLACE
+		STREET 2:		C/O PDR SERVICES CORP/ AMEX INC
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10006
+		BUSINESS PHONE:		2123061490
+
+	MAIL ADDRESS:	
+		STREET 1:		86 TRINITY PL
+		STREET 2:		PDR SERVICES CORP C/O AMEX INC
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10006
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>NSAR-U
+<SEQUENCE>1
+<FILENAME>b41960stnsar-u.txt
+<DESCRIPTION>SPDR TRUST SERIES 1
+<TEXT>
+<PAGE>
+                                                                     Page 1 of 8
+                                   FORM N-SAR
+                                 ANNUAL REPORT
+                      FOR REGISTERED INVESTMENT COMPANIES
+
+Report for six month period ending:           (a)
+           or calendar year ending:  12/31/01 (b)
+
+Is this a transition report?:(Y/N)  N
+                                   ---
+
+Is this an amendment to a previous filing? (Y/N)  N
+                                                 ---
+
+Those items or sub-items with a box "[/]" after the item number should be
+completed only if the answer has changed from the previous filing form.
+
+1. A. Registrant Name:    SPDR Trust, Series 1
+   B. File Number:        811-7330
+   C. Telephone Number:   (212)306-1490
+
+2. A. Street: 86 Trinity Place
+   B. City:   New York
+   C. State:  New York
+   D. Zip Code: 10006              Zip Ext:
+   E. Foreign Country:             Foreign Postal Code:
+
+3. Is this the first filing on this form by the Registrant? (Y/N)     N
+                                                                   -------
+
+4. Is this the last filing on this form by Registrant? (Y/N)          N
+                                                                   -------
+
+5. Is Registrant a small business investment company (SBIC)? (Y/N)    N
+   [If answer is "Y" (Yes) complete only items 89 through 110.]    -------
+
+
+6. Is Registrant a unit investment trust (UIT)? (Y/N)                 Y
+   [If answer is "Y" (Yes) complete only items 111 through 132.]   -------
+
+
+7. A. Is Registrant a series or multiple portfolio company? (Y/N)
+      [If answer is "N" (No), go to item 8.]                       -------
+
+
+   B. How many separate series or portfolios did Registrant have at
+      the end of the period?                                       -------
+
+
+<PAGE>
+                                                                     Page 2 of 8
+For period ending 12/31/01
+File number 811-7330
+
+UNIT INVESTMENT TRUSTS
+
+111. A. [/] Depositor Name: ___________________________________________________
+
+     B. [/] File Number (If any): _____________________________________________
+
+     C. [/] City: ______________ State: ______ Zip Code: _______ Zip Ext.: ____
+
+        [/] Foreign Country: _______________________ Foreign Postal Code: _____
+
+
+111. A. [/] Depositor Name: ___________________________________________________
+
+     B. [/] File Number (If any): _____________________________________________
+
+     C. [/] City: ______________ State: ______ Zip Code: _______ Zip Ext.: ____
+
+        [/] Foreign Country: _______________________ Foreign Postal Code: _____
+
+
+112. A. [/] Sponsor Name: _____________________________________________________
+
+     B. [/] File Number (If any): _____________________________________________
+
+     C. [/] City: ______________ State: ______ Zip Code: _______ Zip Ext.: ____
+
+        [/] Foreign Country: _______________________ Foreign Postal Code: _____
+
+
+112. A. [/] Sponsor Name: _____________________________________________________
+
+     B. [/] File Number (If any): _____________________________________________
+
+     C. [/] City: ______________ State: ______ Zip Code: _______ Zip Ext.: ____
+
+        [/] Foreign Country: _______________________ Foreign Postal Code: _____
+
+<PAGE>
+                                                                     Page 3 of 8
+For period ending 12/31/01
+File number 811-7330
+
+113. A. [/] Trustee Name: _____________________________________________________
+
+     B. [/] City: ______________ State: ______ Zip Code: _______ Zip Ext.: ____
+
+        [/] Foreign Country: _______________________ Foreign Postal Code: _____
+
+
+113. A. [/] Trustee Name: _____________________________________________________
+
+     B. [/] City: ______________ State: ______ Zip Code: _______ Zip Ext.: ____
+
+        [/] Foreign Country: _______________________ Foreign Postal Code: _____
+
+
+114. A. [/] Principal Underwriter Name: ALPS Distributors, Inc.
+
+     B. [/] File Number: 8-____________
+
+     C. [/] City: ______________ State: ______ Zip Code: _______ Zip Ext.: ____
+
+        [/] Foreign Country: _______________________ Foreign Postal Code: _____
+
+
+114. A. [/] Principal Underwriter Name:
+
+     B. [/] File Number: 8-_____________
+
+     C. [/] City: ______________ State: ______ Zip Code: _______ Zip Ext.: ____
+
+        [/] Foreign Country: _______________________ Foreign Postal Code: _____
+
+
+115. A. [/] Independent Public Accountant Name: _______________________________
+
+     B. [/] City: ______________ State: ______ Zip Code: _______ Zip Ext.: ____
+
+        [/] Foreign Country: _______________________ Foreign Postal Code: _____
+
+
+115. A. [/] Independent Public Accountant Name: _______________________________
+
+     B. [/] City: ______________ State: ______ Zip Code: _______ Zip Ext.: ____
+
+        [/] Foreign Country: _______________________ Foreign Postal Code: _____
+
+
+
+<PAGE>
+                                                                     Page 4 of 8
+For period ending 12/31/01
+File number 811-7330
+
+116. Family of investment companies information:
+
+     A. [/] Is Registrant part of a family of investment companies? (Y/N) _____
+
+     B. [/] Identify the family in 10 letters: __ __ __ __ __ __ __ __ __ __
+
+           (NOTE: In filing this form, use this identification consistently for
+           all investment companies in family. This designation is for purposes
+           of this form only.)
+
+117. A. [/] Is Registrant a separate account of an insurance company? (Y/N) ___
+
+     If answer is "Y" (Yes), are any of the following types of contracts funded
+     by the Registrant?:
+
+     B. [/] Variable annuity contracts? (Y/N) _________________________________
+
+     C. [/] Scheduled premium variable life contracts? (Y/N) __________________
+
+     D. [/] Flexible premium variable life contracts? (Y/N) ___________________
+
+     E. [/] Other types of insurance products registered under the
+            Securities Act of 1933? (Y/N) _____________________________________
+
+
+118. [/] State the number of series existing at the end of the period that
+         had securities registered under the Securities Act of 1933 ___________
+
+119. [/] State the number of new series for which registration
+         statements under the Securities Act of 1933 became
+         effective during the period __________________________________________
+
+
+120. [/] State the total value of the portfolio securities on the date
+         of deposit for the new series included in item 119
+         ($000's omitted) _______________________________________  $ __________
+
+
+121. [/] State the number of series for which a current prospectus was
+         in existence at the end of the period ________________________________
+
+122. [/] State the number of existing series for which additional units
+         were registered under the Securities Act of 1933 during the
+         current period _______________________________________________________
+
+
+
+
+<PAGE>
+                                                                     Page 5 of 8
+For period ending 12/31/01
+File number 811-7330
+
+123. [/] State the total value of the additional units considered in
+         answering item 122 ($000's omitted) ___________________ $_____________
+
+
+124. [/] State the total value of units of prior series that were placed
+         in the portfolios of subsequent series during the current
+         period (the value of these units is to be measured on the date
+         they were placed in the subsequent series)
+         ($000's omitted)_______________________________________ $_____________
+
+
+125. [/] State the total dollar amount of sales loads collected (before
+         reallowances to other brokers or dealers) by Registrant's
+         principal underwriter and any underwriter which is an
+         affiliated person of the principal underwriter during the
+         current period solely from the sale of units of all series of
+         Registrant ($000's omitted) ___________________________ $_____________
+
+
+126. Of the amount shown in item 125, state the total dollar amount
+     sales loads collected from secondary market operations in
+     Registrant's units (include the sales loads, if any, collected
+     on units of a prior series placed in the portfolio of a
+     subsequent series.) ($000's omitted) ______________________ $    -0-
+
+
+127. List opposite the appropriate description below the number of
+     series whose portfolios are invested primarily (based upon a
+     percentage of NAV) in each type of security shown, the
+     aggregate total assets at market value as of a date at or near
+     the end of the current period of each such group of series and
+     the total income distributions made by each such group of
+     series during the current period (excluding distributions of
+     realized gains, if any):
+
+
+<TABLE>
+<CAPTION>
+                                   Number of     Total Assets     Total Income
+                                    Series         (%000's        Distributions
+                                   Investing      omitted)      ($000's omitted)
+                                   ----------    ------------   ---------------
+<S>                                 <C>          <C>               <C>
+
+A. U.S. Treasury direct issue       _______      $__________      $__________
+
+B. U.S. Government agency           _______      $__________      $__________
+
+C. State and municipal tax-free     _______      $__________      $__________
+
+D. Public utility debt              _______      $__________      $__________
+
+E. Brokers or dealers debt or debt
+   of brokers' or dealers' parent   _______      $__________      $__________
+
+F. All other corporate
+   intermed. & long-term debt       _______      $__________      $__________
+
+G. All other corporate short-term
+   debt                             _______      $__________      $__________
+
+H. Equity securities of brokers or
+   dealers or parents of brokers or
+   dealers                          _______      $__________      $__________
+
+I. Investment company equity
+   securities                       _______      $__________      $__________
+
+J. All other equity securities          1        $30,566,259      $   331,405
+
+K. Other securities                 _______      $__________      $__________
+
+L. Total assets of all series of
+   registrant                       _______      $__________      $__________
+
+</TABLE>
+
+<PAGE>
+                                                                     Page 6 of 8
+For period ending 12/31/01
+File number 811-7330
+
+
+128. [/] Is the timely payment of principal and interest on any of the
+         portfolio securities held by any of Registrant's series at the
+         end of the current period insured or guaranteed by an entity
+         other than the issuer? (Y/N) __________________________________________
+
+         [If answer is "N" (No), go to item 131.]                            Y/N
+
+129. [/] Is the issuer of any instrument covered in item 128 delinquent
+         or in default as to payment of principal or interest at the
+         end of the current period? (Y/N) ______________________________________
+
+         [If answer is "N" (No), go to item 131.]                            Y/N
+
+130. [/] In computations of NAV or offering price per unit, is any part
+         of the value attributed to instruments identified in item 129
+         derived from insurance or guarantees? (Y/N) ___________________________
+                                                                             Y/N
+
+131. Total expenses incurred by all series of Registrant during the
+     current reporting period ($000's omitted) _____________  __________ $30,376
+
+
+132. [/] List the "811" (Investment Company Act of 1940) registration
+         number for all Series of Registrant that are being included in
+         this filing:
+
+          811-________  811-________  811-________  811-________  811-________
+
+          811-________  811-________  811-________  811-________  811-________
+
+          811-________  811-________  811-________  811-________  811-________
+
+          811-________  811-________  811-________  811-________  811-________
+
+          811-________  811-________  811-________  811-________  811-________
+
+          811-________  811-________  811-________  811-________  811-________
+
+          811-________  811-________  811-________  811-________  811-________
+
+          811-________  811-________  811-________  811-________  811-________
+
+          811-________  811-________  811-________  811-________  811-________
+
+
+
+
+<PAGE>
+                              SPDR TRUST, SERIES 1
+                    c/o STATE STREET BANK AND TRUST COMPANY
+                                 P.O. BOX 9110
+                             BOSTON, MA 02209-9110
+
+
+
+For the period ending (a) 12/31/01
+File number (c) 811-7330
+
+
+This report is signed on behalf of the registrant.
+City of:       Boston
+State of:      Massachusetts
+Date:          February 20, 2002
+
+Name of Registrant:  SPDR Trust, Series 1
+
+
+<Table>
+<S>                                            <C>
+
+Witness: /s/ Christopher Sweeney                By: /s/ Don Gignac
+         ----------------------------------        -----------------------------------
+         Chris Sweeney                             Don Gignac
+         Vice President                            Vice President
+         State Street Bank and Trust Company       State Street Bank and Trust Company
+         As Trustee for SPDR Trust, Series 1       As Trustee for SPDR Trust, Series 1
+
+</Table>
+<PAGE>
+                       REPORT OF INDEPENDENT ACCOUNTANTS
+
+To the Trustee and Unitholders
+of SPDR Trust Series I
+
+In planning and performing our audit of the financial statements of SPDR Trust,
+Series I (the "Trust") for the year ended September 30, 2001, we considered its
+internal control, including control activities for safeguarding securities, in
+order to determine our auditing procedures for the purpose of expressing our
+opinion on the financial statements and to comply with the requirements of Form
+N-SAR, not to provide assurance on internal control.
+
+The management of the Trust is responsible for establishing and maintaining
+internal control. In fulfilling this responsibility, estimates and judgments by
+management are required to assess the expected benefits and related costs of
+controls. Generally, controls that are relevant to an audit pertain to the
+entity's objective of preparing financial statements for external purposes that
+are fairly presented in conformity with generally accepted accounting
+principles. Those controls include the safeguarding of assets against
+unauthorized acquisition, use or disposition.
+
+Because of inherent limitations in internal control, errors or fraud may occur
+and not be detected. Also, projection of any evaluation of internal control to
+future periods is subject to the risk that controls may become inadequate
+because of changes in conditions or that the effectiveness of their design and
+operation may deteriorate.
+
+Our consideration of internal control would not necessarily disclose all matters
+in internal control that might be material weaknesses under standards
+established by the American Institute of Certified Public Accountants. A
+material weakness is a condition in which the design or operation of one or more
+of the internal control components does not reduce to a relatively low level the
+risk that misstatements caused by error or fraud in amounts that would be
+material in relation to the financial statements being audited may occur and not
+be detected within a timely period by employees in the normal course of
+performing their assigned functions. However, we noted  no matters involving
+internal control and its operation, including controls for safeguarding
+securities, that we consider to be material weaknesses as defined above as of
+September 30, 2001.
+
+This report is intended solely for the information and use of the Trustee,
+management of the Trust and the Securities and Exchange Commission and is not
+intended to be and should not be used by anyone other than these specified
+parties.
+
+
+
+PricewaterhouseCoopers LLP
+November 9, 2001
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

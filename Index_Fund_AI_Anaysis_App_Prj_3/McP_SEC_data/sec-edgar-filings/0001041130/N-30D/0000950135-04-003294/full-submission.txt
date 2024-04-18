@@ -1,0 +1,661 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SlsDS5Hk6FitKSSf7ypqw+ZvIqbISAYlcbwMM1lfpSm+qV4o3Fqpbnx6ZTrPfL5R
+ 6ATmlkNdw7esB33WRR7E9Q==
+
+<SEC-DOCUMENT>0000950135-04-003294.txt : 20040628
+<SEC-HEADER>0000950135-04-003294.hdr.sgml : 20040628
+<ACCEPTANCE-DATETIME>20040628165151
+ACCESSION NUMBER:		0000950135-04-003294
+CONFORMED SUBMISSION TYPE:	N-30D
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20040430
+FILED AS OF DATE:		20040628
+EFFECTIVENESS DATE:		20040628
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DIAMONDS TRUST SERIES I
+		CENTRAL INDEX KEY:			0001041130
+		IRS NUMBER:				133574560
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		N-30D
+		SEC ACT:		1940 Act
+		SEC FILE NUMBER:	811-09170
+		FILM NUMBER:		04885554
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PDR SERVICES CORP C/O AMERICAN STOCK EXC
+		STREET 2:		86 TRINITY STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10006
+		BUSINESS PHONE:		2123061397
+
+	MAIL ADDRESS:	
+		STREET 1:		PDR SERVICES CORP C/O AMERI ST EX
+		STREET 2:		86 TRINITY STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10006
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-30D
+<SEQUENCE>1
+<FILENAME>b50791dtnv30d.txt
+<DESCRIPTION>DIAMONDS TRUST SERIES 1 SEMI-ANNUAL REPORT
+<TEXT>
+<PAGE>
+
+                    THE DOW INDUSTRIALS(SM) ("DIAMONDS")(SM)
+
+                            DIAMONDS TRUST SERIES 1
+
+                            A UNIT INVESTMENT TRUST
+
+                               SEMI-ANNUAL REPORT
+
+                                 APRIL 30, 2004
+
+                                  (UNAUDITED)
+
+"Dow Jones Industrial Average", "DJIA", "Dow Jones", "The Dow", "THE DOW
+INDUSTRIALS", and "DIAMONDS" are trademarks and service marks of Dow Jones &
+Company, Inc. ("Dow Jones") and have been licensed for use for certain purposes
+by PDR Services LLC and the American Stock Exchange LLC pursuant to a License
+Agreement with Dow Jones. The Trust, based on the DJIA, is not sponsored,
+endorsed, sold, or promoted by Dow Jones and Dow Jones makes no representation
+regarding the advisability of investing in the Trust.
+<PAGE>
+
+DIAMONDS TRUST SERIES 1
+SCHEDULE OF INVESTMENTS
+APRIL 30, 2004 (UNAUDITED)
+
+- --------------------------------------------------------------------------------
+
+<Table>
+<Caption>
+COMMON STOCKS                                                  SHARES          VALUE
+- -----------------------------------------------------------------------------------------
+<S>                                                           <C>          <C>
+3M Co. .....................................................  4,920,318    $  425,509,101
+Alcoa, Inc. ................................................  4,920,318       151,299,778
+Altria Group, Inc. .........................................  4,920,318       272,487,211
+American Express Co. .......................................  4,920,318       240,849,566
+American International Group, Inc. .........................  4,920,318       352,540,785
+Boeing Co. .................................................  4,920,318       210,048,375
+Caterpillar, Inc. ..........................................  4,920,318       382,456,318
+Citigroup, Inc. ............................................  4,920,318       236,618,093
+Coca-Cola Co. (The).........................................  4,920,318       248,820,481
+Disney (Walt) Co. (The).....................................  4,920,318       113,314,924
+Du Pont (E.I.) de Nemours...................................  4,920,318       211,327,658
+Exxon Mobil Corp. ..........................................  4,920,318       209,359,531
+General Electric Co. .......................................  4,920,318       147,363,524
+General Motors Corp. .......................................  4,920,318       233,321,480
+Hewlett-Packard Co. ........................................  4,920,318        96,930,265
+Home Depot, Inc. ...........................................  4,920,318       173,145,990
+Honeywell International, Inc. ..............................  4,920,318       170,144,596
+Intel Corp. ................................................  4,920,318       126,599,782
+International Business Machines Corp. ......................  4,920,318       433,824,438
+J.P. Morgan Chase & Co. ....................................  4,920,318       185,003,957
+Johnson & Johnson Company...................................  4,920,318       265,844,782
+McDonald's Corp. ...........................................  4,920,318       133,980,259
+Merck & Co., Inc. ..........................................  4,920,318       231,254,946
+Microsoft Corp. ............................................  4,920,318       127,780,658
+Pfizer, Inc. ...............................................  4,920,318       175,950,572
+Procter & Gamble Co. .......................................  4,920,318       520,323,628
+SBC Communications, Inc. ...................................  4,920,318       122,515,918
+United Technologies Corp. ..................................  4,920,318       424,426,631
+Verizon Communications, Inc. ...............................  4,920,318       185,692,801
+Wal-Mart Stores, Inc. ......................................  4,920,318       280,458,126
+                                                                           --------------
+Total Common Stocks -- (Cost $7,633,572,495)................               $7,089,194,174
+                                                                           ==============
+</Table>
+
+See accompanying notes to financial statements.
+
+                                        2
+<PAGE>
+
+DIAMONDS TRUST SERIES 1
+STATEMENT OF ASSETS AND LIABILITIES
+APRIL 30, 2004 (UNAUDITED)
+
+- --------------------------------------------------------------------------------
+
+<Table>
+<S>                                                             <C>
+ASSETS
+  Investments in securities, at value.......................    $7,089,194,174
+  Cash......................................................        11,654,946
+  Dividends receivable......................................         9,677,807
+                                                                --------------
+TOTAL ASSETS................................................     7,110,526,927
+                                                                --------------
+LIABILITIES
+  Distribution payable......................................         4,091,339
+  Accrued Trustee fees......................................           412,613
+  Accrued expenses and other liabilities....................         3,493,796
+                                                                --------------
+TOTAL LIABILITIES...........................................         7,997,748
+                                                                --------------
+NET ASSETS..................................................    $7,102,529,179
+                                                                ==============
+NET ASSETS REPRESENTED BY:
+  Paid in surplus...........................................    $7,970,973,717
+  Undistributed net investment income.......................         4,421,581
+  Accumulated net realized loss on investments..............      (328,487,798)
+  Net unrealized depreciation on investments................      (544,378,321)
+                                                                --------------
+NET ASSETS..................................................    $7,102,529,179
+                                                                ==============
+NET ASSET VALUE PER DIAMOND.................................           $102.47
+                                                                        ------
+                                                                        ------
+UNITS OF FRACTIONAL UNDIVIDED INTEREST
+  ("DIAMONDS") OUTSTANDING, UNLIMITED UNITS AUTHORIZED,
+     $0.00 PAR VALUE........................................        69,313,791
+                                                                --------------
+COST OF INVESTMENTS.........................................    $7,633,572,495
+                                                                ==============
+</Table>
+
+See accompanying notes to financial statements.
+
+                                        3
+<PAGE>
+
+DIAMONDS TRUST SERIES 1
+STATEMENTS OF OPERATIONS
+
+- --------------------------------------------------------------------------------
+
+<Table>
+<Caption>
+                                  FOR THE
+                              SIX MONTHS ENDED
+                               APRIL 30, 2004    FOR THE YEAR ENDED   FOR THE YEAR ENDED   FOR THE YEAR ENDED
+                                (UNAUDITED)       OCTOBER 31, 2003     OCTOBER 31, 2002     OCTOBER 31, 2001
+                              ----------------   ------------------   ------------------   ------------------
+<S>                           <C>                <C>                  <C>                  <C>
+INVESTMENT INCOME
+     Dividend income........    $ 70,424,490       $  120,911,703       $  71,072,353        $  41,997,410
+                                ------------       --------------       -------------        -------------
+EXPENSES:
+     Trustee fees...........       2,211,785            3,480,020           2,450,305            1,858,460
+     Marketing expense......       2,130,847            3,230,848           1,549,601              356,933
+     DJIA license fee.......       1,620,677            1,947,815           1,567,729            1,300,000
+     Legal and audit
+          services..........          52,358              249,444              64,908               49,800
+     SEC registration
+          expense...........          30,781              116,131              30,592              286,213
+     Printing and postage
+          expense...........          21,597              338,844             151,203              136,463
+     Amortization of
+          organization
+          costs.............              --              101,829             502,266              502,266
+     Miscellaneous
+          expense...........             310                  715                 687                  218
+                                ------------       --------------       -------------        -------------
+Total expenses..............       6,068,355            9,465,646           6,317,291            4,490,353
+     Trustee earnings
+       credit...............         (43,109)             (61,870)            (61,606)            (160,833)
+                                ------------       --------------       -------------        -------------
+Net expenses after Trustee
+     earnings credit........       6,025,246            9,403,776           6,255,685            4,329,520
+                                ------------       --------------       -------------        -------------
+NET INVESTMENT INCOME.......      64,399,244          111,507,927          64,816,668           37,667,890
+                                ------------       --------------       -------------        -------------
+REALIZED AND UNREALIZED GAIN
+  (LOSS) ON INVESTMENTS
+     Net realized gain on
+       investment
+       transactions.........     105,776,765          276,147,528         173,854,529          218,849,002
+     Net change in
+       unrealized
+       depreciation.........     129,898,961          636,501,507        (496,933,157)        (681,232,614)
+                                ------------       --------------       -------------        -------------
+NET REALIZED AND UNREALIZED
+  GAIN (LOSS) ON
+  INVESTMENTS...............     235,675,726          912,649,035        (323,078,628)        (462,383,612)
+                                ------------       --------------       -------------        -------------
+NET INCREASE (DECREASE) IN
+  NET ASSETS FROM
+  OPERATIONS................    $300,074,970       $1,024,156,962       $(258,261,960)       $(424,715,722)
+                                ============       ==============       =============        =============
+</Table>
+
+See accompanying notes to financial statements.
+
+                                        4
+<PAGE>
+
+DIAMONDS TRUST SERIES 1
+STATEMENTS OF CHANGES IN NET ASSETS
+
+- --------------------------------------------------------------------------------
+
+<Table>
+<Caption>
+                                    FOR THE
+                                SIX MONTHS ENDED
+                                 APRIL 30, 2004    FOR THE YEAR ENDED   FOR THE YEAR ENDED   FOR THE YEAR ENDED
+                                  (UNAUDITED)       OCTOBER 31, 2003     OCTOBER 31, 2002     OCTOBER 31, 2001
+                                ----------------   ------------------   ------------------   ------------------
+<S>                             <C>                <C>                  <C>                  <C>
+INCREASE (DECREASE) IN NET
+  ASSETS FROM OPERATIONS:
+     Net investment income....   $   64,399,244      $  111,507,927       $   64,816,668       $   37,667,890
+     Net realized gain on
+       investment
+       transactions...........      105,776,765         276,147,528          173,854,529          218,849,002
+     Net change in unrealized
+          depreciation........      129,898,961         636,501,507         (496,933,157)        (681,232,614)
+                                 --------------      --------------       --------------       --------------
+NET INCREASE (DECREASE) IN NET
+  ASSETS FROM OPERATIONS......      300,074,970       1,024,156,962         (258,261,960)        (424,715,722)
+                                 --------------      --------------       --------------       --------------
+UNDISTRIBUTED NET INVESTMENT
+  INCOME INCLUDED IN PRICE OF
+  UNITS ISSUED AND REDEEMED,
+  NET.........................         (626,249)           (398,863)             913,179              733,997
+                                 --------------      --------------       --------------       --------------
+DISTRIBUTIONS TO UNITHOLDERS
+  FROM NET INVESTMENT
+  INCOME......................      (62,360,211)       (110,187,836)         (62,477,206)         (38,220,448)
+                                 --------------      --------------       --------------       --------------
+NET INCREASE IN NET ASSETS
+  FROM ISSUANCE AND REDEMPTION
+  OF DIAMONDS.................      874,349,032         959,445,015        1,703,425,938        1,194,073,126
+                                 --------------      --------------       --------------       --------------
+NET INCREASE IN NET ASSETS
+  DURING PERIOD...............    1,111,437,542       1,873,015,278        1,383,599,951          731,870,953
+NET ASSETS AT BEGINNING OF
+  PERIOD......................    5,991,091,637       4,118,076,359        2,734,476,408        2,002,605,455
+                                 --------------      --------------       --------------       --------------
+
+NET ASSETS END OF PERIOD*.....   $7,102,529,179      $5,991,091,637       $4,118,076,359       $2,734,476,408
+                                 ==============      ==============       ==============       ==============
+*INCLUDES UNDISTRIBUTED
+  (DISTRIBUTIONS IN EXCESS OF)
+  NET INVESTMENT INCOME.......   $    4,421,581      $    2,382,548       $    1,062,457       $   (1,277,005)
+                                 --------------      --------------       --------------       --------------
+</Table>
+
+See accompanying notes to financial statements.
+
+                                        5
+<PAGE>
+
+DIAMONDS TRUST SERIES 1
+FINANCIAL HIGHLIGHTS
+SELECTED DATA FOR A DIAMOND OUTSTANDING DURING THE PERIOD
+
+- --------------------------------------------------------------------------------
+
+<Table>
+<Caption>
+                                  FOR THE
+                                SIX MONTHS
+                                   ENDED        FOR THE YEAR   FOR THE YEAR    FOR THE YEAR    FOR THE YEAR    FOR THE YEAR
+                                4/30/04(1)         ENDED          ENDED           ENDED           ENDED           ENDED
+                                (UNAUDITED)       10/31/03     10/31/02(1)     10/31/01(1)     10/31/00(1)     10/31/99(1)
+                                -----------     ------------   ------------    ------------    ------------    ------------
+<S>                             <C>             <C>            <C>             <C>             <C>             <C>
+NET ASSET VALUE, BEGINNING OF
+  PERIOD......................  $    98.20       $    84.12     $    90.84      $   109.73      $   107.31      $    85.94
+                                ----------       ----------     ----------      ----------      ----------      ----------
+INVESTMENT OPERATIONS:
+    Net investment income.....        0.98             1.91           1.73            1.56            1.43            1.41
+    Net realized and
+      unrealized gain (loss)
+      on investments..........        4.26            14.06          (6.77)         (18.86)           2.47           21.36
+                                ----------       ----------     ----------      ----------      ----------      ----------
+TOTAL FROM INVESTMENT
+  OPERATIONS..................        5.24            15.97          (5.04)         (17.30)           3.90           22.77
+                                ----------       ----------     ----------      ----------      ----------      ----------
+UNDISTRIBUTED NET INVESTMENT
+  INCOME INCLUDED IN PRICE OF
+  UNITS ISSUED AND REDEEMED,
+  NET.........................       (0.00)(5)        (0.01)          0.00(5)         0.00(5)         0.00(5)         0.08
+                                ----------       ----------     ----------      ----------      ----------      ----------
+LESS DISTRIBUTIONS FROM:
+    Net investment income.....       (0.97)           (1.88)         (1.68)          (1.59)          (1.48)          (1.48)
+                                ----------       ----------     ----------      ----------      ----------      ----------
+NET ASSET VALUE, END OF
+  PERIOD......................  $   102.47       $    98.20     $    84.12      $    90.84      $   109.73      $   107.31
+                                ==========       ==========     ==========      ==========      ==========      ==========
+TOTAL INVESTMENT RETURN(2)....        5.34%           19.22%         (5.71)%        (15.91)%          3.68%          26.71%
+RATIOS AND SUPPLEMENTAL DATA
+Ratios to average net assets:
+    Net investment income.....        1.91%(6)         2.12%          1.85%           1.51%           1.34%           1.37%
+    Total expenses............        0.18%(6)         0.18%          0.18%           0.18%           0.36%           0.37%
+    Net expenses excluding
+      trustee earnings
+      credit..................        0.18%(6)         0.18%          0.18%           0.18%           0.18%           0.18%
+    Net expenses excluding
+      rebates, trustee
+      earnings credit and
+      waivers(3)..............        0.18%(6)         0.18%          0.18%           0.17%           0.17%           0.18%
+    Portfolio turnover
+      rate(4).................       10.80%            8.71%          0.26%          12.66%          23.85%          34.70%
+NET ASSET VALUE, END OF PERIOD
+  (000'S).....................  $7,102,529       $5,991,092     $4,118,076      $2,734,476      $2,002,605      $1,040,988
+</Table>
+
+- --------------------------------------------------------------------------------
+(1) Per share numbers have been calculated using the average shares method,
+    which more appropriately presents the per share data for the period.
+
+(2) Total returns for periods of less than one year are not annualized and do
+    not include transaction fees.
+
+(3) Excludes expenses reimbursed by the Sponsor and Trustee from the period
+    November 1, 1998 through February 29, 2000 and the Sponsor from the period
+    March 1, 2000 through October 31, 2000.
+
+(4) Portfolio turnover ratio excludes securities received or delivered from
+    processing creations or redemption of DIAMONDS.
+
+(5) Amount shown represents less than $0.01
+
+(6) Annualized
+See accompanying notes to financial statements.
+
+                                        6
+<PAGE>
+
+DIAMONDS TRUST SERIES 1
+NOTES TO FINANCIAL STATEMENTS
+APRIL 30, 2004 (UNAUDITED)
+
+- --------------------------------------------------------------------------------
+
+NOTE 1 -- ORGANIZATION
+DIAMONDS Trust Series 1 (the "Trust") is a unit investment trust created under
+the laws of the State of New York and registered under the Investment Company
+Act of 1940. The Trust was created to provide investors with the opportunity to
+purchase units of beneficial interest in the Trust representing proportionate
+undivided interests in the portfolio of securities consisting of substantially
+all of the component common stocks, which comprise the Dow Jones Industrial
+Average (the "DJIA"). Each unit of fractional undivided interest in the Trust is
+referred to as a "DIAMOND". The Trust commenced operations on January 14, 1998
+upon the initial issuance of 500,000 DIAMONDS (equivalent to ten "Creation
+Units" -- see Note 4) in exchange for a portfolio of securities assembled to
+reflect the intended portfolio composition of the Trust.
+
+NOTE 2 -- SIGNIFICANT ACCOUNTING POLICIES
+The preparation of financial statements in accordance with accounting principles
+generally accepted in the United States of America requires management to make
+estimates and assumptions that affect the reported amounts and disclosures in
+the financial statements. Actual results could differ from these estimates. The
+following is a summary of significant accounting policies followed by the Trust.
+
+SECURITY VALUATION
+Portfolio securities are valued based on the closing sale price on the exchange
+which is deemed to be the principal market for the security, except for
+securities listed on the NASDAQ which are valued at the NASDAQ official closing
+price. If no closing sale price or official closing price is available, then the
+security is valued at the previous closing sale price on the exchange which is
+deemed to be the principal market for the security, or at the previous official
+closing price if the security is listed on the NASDAQ. If there is no closing
+sale price available or official closing price, valuation will be determined by
+the Trustee in good faith based on available information.
+
+INVESTMENT TRANSACTIONS
+Investment transactions are recorded on the trade date. Realized gains and
+losses from the sale or disposition of securities are recorded on the identified
+cost basis. Dividend income is recorded on the ex-dividend date.
+
+DISTRIBUTIONS TO UNITHOLDERS
+The Trust declares and distributes dividends from net investment income to its
+unitholders monthly. The Trust will distribute net realized capital gains, if
+any, at least annually.
+
+FEDERAL INCOME TAX
+The Trust has qualified and intends to qualify as a "regulated investment
+company" under Subchapter M of the Internal Revenue Code of 1986, as amended. By
+so qualifying and electing, the Trust will not be subject to federal income
+taxes to the extent it distributes its taxable income, including any net
+realized capital gains, for each fiscal year. In addition, by distributing
+during each calendar year substantially all of its net investment income and
+capital gains, if any, the Trust will not be subject to federal excise tax.
+Income and capital gain distributions are determined in accordance with income
+tax regulations which may differ from generally
+
+                                        7
+<PAGE>
+DIAMONDS TRUST SERIES 1
+NOTES TO FINANCIAL STATEMENTS -- (CONTINUED)
+APRIL 30, 2004 (UNAUDITED)
+
+- --------------------------------------------------------------------------------
+
+NOTE 2 -- SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+accepted accounting principles. These differences are primarily due to differing
+treatments for income equalization, in-kind transactions and losses deferred due
+to wash sales. Net investment income per share calculations in the financial
+highlights for all periods presented excludes these differences.
+
+During the six months ended April 30, 2004, the Trust reclassified $342,192,439
+of non-taxable security gains realized in the in-kind redemption of Creation
+Units (Note 4) as an increase to paid in surplus in the Statements of Assets and
+Liabilities.
+
+At October 31, 2003, the Trust had the following capital loss carryforwards
+which may be used to offset any net realized gains, expiring October 31:
+
+<Table>
+<S>                                        <C>
+2007.....................................  $ 9,197,094
+2008.....................................   11,386,433
+2010.....................................    2,065,467
+2011.....................................   68,716,435
+</Table>
+
+NOTE 3 -- TRANSACTIONS WITH THE TRUSTEE AND SPONSOR
+In accordance with the Trust Agreement, State Street Bank and Trust Company (the
+"Trustee") maintains the Trust's accounting records, acts as custodian and
+transfer agent to the Trust, and provides administrative services, including
+filing of all required regulatory reports. The Trustee is also responsible for
+determining the composition of the portfolio of securities which must be
+delivered and/or received in exchange for the issuance and/or redemption of
+Creation Units of the Trust, and for adjusting the composition of the Trust's
+portfolio from time to time to conform to changes in the composition and/or
+weighting structure of the DJIA. For these services, the Trustee received a fee
+at the following annual rates for the six months ended April 30, 2004:
+
+<Table>
+<Caption>
+NET ASSET VALUE OF THE TRUST                FEE AS A PERCENTAGE OF NET ASSET VALUE OF THE TRUST
+- ----------------------------                ---------------------------------------------------
+<S>                                         <C>
+$0 - $499,999,999                           10/100 of 1% per annum plus or minus the Adjustment
+                                            Amount
+$500,000,000 - $2,499,999,999               8/100 of 1% per annum plus or minus the Adjustment
+                                            Amount
+$2,500,000,000 - and above                  6/100 of 1% per annum plus or minus the Adjustment
+                                            Amount
+</Table>
+
+The Adjustment Amount is the sum of (a) the excess or deficiency of transaction
+fees received by the Trustee, less the expenses incurred in processing orders
+for creation and redemption of DIAMONDS and (b) the amounts earned by the
+Trustee with respect to the cash held by the Trustee for the benefit of the
+Trust. During the six months ended April 30, 2004, the Adjustment Amount
+decreased the Trustee's fee by $152,470. The Adjustment Amount included an
+excess of net transaction fees from processing orders of $109,361 and a Trustee
+earnings credit of $43,109.
+
+                                        8
+<PAGE>
+DIAMONDS TRUST SERIES 1
+NOTES TO FINANCIAL STATEMENTS -- (CONTINUED)
+APRIL 30, 2004 (UNAUDITED)
+
+- --------------------------------------------------------------------------------
+
+NOTE 3 -- TRANSACTIONS WITH THE TRUSTEE AND SPONSOR (CONTINUED)
+
+PDR Services LLC (the "Sponsor", a wholly-owned subsidiary of the American Stock
+Exchange LLC) agreed to reimburse the Trust for, or assume, the ordinary
+operating expenses of the Trust which exceeded 18.00/100 of 1% per annum of the
+daily net asset value of the Trust. The amounts of such reimbursements by the
+Sponsor for the fiscal years ended October 31, 2001, October 31, 2002 and
+October 31, 2003 and the six-month period ended April 30, 2004 were $0.
+
+Dow Jones & Company, Inc. ("Dow Jones"), the American Stock Exchange LLC (the
+"AMEX"), and PDR Services (the "Sponsor") have entered into a License Agreement
+pursuant to which certain Dow Jones marks may be used in connection with the
+Trust subject to the payment of license fees.
+
+NOTE 4 -- TRUST TRANSACTIONS IN DIAMONDS
+Transactions in DIAMONDS were as follows.
+
+<Table>
+<Caption>
+                                                         SIX MONTHS ENDED APRIL 30, 2004
+                                                         -------------------------------
+                                                           DIAMONDS         AMOUNTS
+                                                         ------------   ----------------
+<S>                                                      <C>            <C>
+DIAMONDS sold..........................................   38,050,000    $ 3,934,070,731
+DIAMONDS issued upon dividend reinvestment.............        5,360            550,749
+DIAMONDS redeemed......................................  (29,750,000)    (3,060,898,697)
+Net income equalization................................           --            626,249
+                                                         -----------    ---------------
+Net Increase...........................................    8,305,360    $   874,349,032
+                                                         ===========    ===============
+</Table>
+
+<Table>
+<Caption>
+                                                          YEAR ENDED OCTOBER 31, 2003
+                                                         -----------------------------
+                                                          DIAMONDS         AMOUNTS
+                                                         -----------   ---------------
+<S>                                                      <C>           <C>
+DIAMONDS sold..........................................   70,850,000   $ 6,167,457,123
+DIAMONDS issued upon dividend reinvestment.............        4,321           385,016
+DIAMONDS redeemed......................................  (58,800,000)   (5,208,795,987)
+Net income equalization................................           --           398,863
+                                                         -----------   ---------------
+Net Increase...........................................   12,054,321   $   959,445,015
+                                                         ===========   ===============
+</Table>
+
+<Table>
+<Caption>
+                                                          YEAR ENDED OCTOBER 31, 2002
+                                                         -----------------------------
+                                                          DIAMONDS         AMOUNTS
+                                                         -----------   ---------------
+<S>                                                      <C>           <C>
+DIAMONDS sold..........................................   85,000,000   $ 8,317,016,274
+DIAMONDS issued upon dividend reinvestment.............        2,297           210,273
+DIAMONDS redeemed......................................  (66,150,000)   (6,612,887,430)
+Net income equalization................................           --          (913,179)
+                                                         -----------   ---------------
+Net Increase...........................................   18,852,297   $ 1,703,425,938
+                                                         ===========   ===============
+</Table>
+
+                                        9
+<PAGE>
+DIAMONDS TRUST SERIES 1
+NOTES TO FINANCIAL STATEMENTS -- (CONTINUED)
+APRIL 30, 2004 (UNAUDITED)
+
+- --------------------------------------------------------------------------------
+
+NOTE 4 -- TRUST TRANSACTIONS IN DIAMONDS (CONTINUED)
+
+<Table>
+<Caption>
+                                                          YEAR ENDED OCTOBER 31, 2001
+                                                         -----------------------------
+                                                          DIAMONDS         AMOUNTS
+                                                         -----------   ---------------
+<S>                                                      <C>           <C>
+DIAMONDS sold..........................................   76,050,000   $ 7,610,021,285
+DIAMONDS issued upon dividend reinvestment.............        1,055           107,143
+DIAMONDS redeemed......................................  (64,200,000)   (6,415,321,305)
+Net income equalization................................           --          (733,997)
+                                                         -----------   ---------------
+Net Increase...........................................   11,851,055   $ 1,194,073,126
+                                                         ===========   ===============
+</Table>
+
+Except for under the Trust's dividend reinvestment plan, DIAMONDS are issued and
+redeemed by the Trust only in Creation Unit size aggregations of 50,000
+DIAMONDS. Such transactions are only permitted on an in-kind basis, with a
+separate cash payment which is equivalent to the undistributed net investment
+income per DIAMOND (income equalization) and a balancing cash component to
+equate the transaction to the net asset value per unit of the Trust on the
+transaction date. A transaction fee of $1,000 is charged in connection with each
+creation or redemption of Creation Units through the DIAMONDS Clearing Process
+per Participating party per day, regardless of the number of Creation Units
+created or redeemed. Transaction fees are received by the Trustee and used to
+offset the expense of processing orders.
+
+NOTE 5 -- INVESTMENT TRANSACTIONS
+For the six months ended April 30, 2004, the Trust had net in-kind
+contributions, net in-kind redemptions, purchases and sales of investment
+securities of $3,932,717,929, $3,058,942,490, $730,930,800 and $737,494,929,
+respectively. The identified cost of investments in securities owned for federal
+income tax purposes was substantially the same as the cost for financial
+reporting purposes. At April 30, 2004, the cost of investments was
+$7,633,572,495 accordingly, gross unrealized appreciation was $148,337,865, and
+gross unrealized depreciation was $692,716,186, resulting in net unrealized
+depreciation of $544,378,321. For the six months ended April 30, 2004, State
+Street Corporation did not earn any brokerage commissions from investment
+transactions.
+
+                                        10
+<PAGE>
+
+DIAMONDS TRUST SERIES 1
+
+- --------------------------------------------------------------------------------
+
+SPONSOR
+PDR Services LLC
+c/o American Stock Exchange LLC
+86 Trinity Place
+New York, NY 10006
+
+TRUSTEE
+State Street Bank and Trust Company
+225 Franklin Street
+Boston, MA 02110
+
+DISTRIBUTOR
+ALPS Distributors, Inc.
+1625 Broadway, Suite 2200
+Denver, CO 80202
+
+INDEPENDENT ACCOUNTANTS
+PricewaterhouseCoopers LLP
+125 High Street
+Boston, MA 02110
+
+LEGAL COUNSEL
+Carter, Ledyard & Milburn
+2 Wall Street
+New York, NY 10005
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
