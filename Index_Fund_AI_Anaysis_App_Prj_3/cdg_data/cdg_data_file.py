@@ -36,7 +36,7 @@ def urlBuilder(ticker, functionType, outputSize):
         url = url + f"function={functionType}"
     if(ticker != None):
         if(functionType == "NEWS_SENTIMENT"):
-            url = url + f"&tickers={ticker}"
+            url = url + f"&tickers={ticker}&limit=1000"
         else:
             url = url + f"&symbol={ticker}"
     if(outputSize != None):
@@ -224,13 +224,16 @@ def run(company, ticker):
         print(df_stock.head())
         print(df_news.head())
         
+        df_news['date'] = pd.to_datetime(df_news['date'])
+        
         # Merge the DataFrames on the 'date' column
-        merged_df = pd.merge(df_stock, df_news, on='date', how='inner')
+        merged_df = pd.merge(df_stock, df_news, on='date', how='left')
         # Display the merged DataFrame
+        print(merged_df.head())
         print(merged_df.tail())
         
         # Save the merged DataFrame as a CSV file with a specific path
-        merged_df.to_csv(f'/Resources/alphavantage/{ticker.lower()}.csv', index=False)
+        merged_df.to_csv(file_path, index=False)
     
     
 
