@@ -19,6 +19,7 @@
 Prospect Pulse is a website with a link to an AI chatbot application and a link to time-forecasting predictive tickers to help give investors predictive insights into any market. 
 
 ### Key Features
+
 #### Advanced AI-based Index Fund Price Prediction
 Introducing our latest addition, an AI-powered index fund price prediction app. This feature utilizes sophisticated machine learning algorithms to forecast future pricing trends of leading index funds accurately. Users can access precise predictions and calculate potential earnings for their portfolios, enabling proactive investment decisions.
 
@@ -30,14 +31,14 @@ Building upon our existing AI stock ticker prediction tool, we are enhancing its
 This AI chatbot assists users by providing fast return information on market data. 
 
 #### Comprehensive Website
-In addition to our feature-rich platform, we are in the process of developing a full-fledged website to host Prospect Pulse's suite of tools and services. The website will serve as a central hub for users to access resources, educational content, and real-time market updates, enhancing their overall investing experience.
+In addition to our feature-rich platform, we are developing a full-fledged website to host Prospect Pulse's suite of tools and services. The website will serve as a central hub for users to access resources, educational content, and real-time market updates, enhancing their overall investing experience.
 
 #### Forecasting AI
 
 Harnessing the power of AI, Prospector Pulse offers precise market predictions by analyzing real-time data from leading index funds. Our predictive analytics tool aids in making informed financial decisions, providing users with forecasts of market trends.
 #### AI Stock Ticker Prediction
 
-Our AI-driven platform equips users with the knowledge and tools necessary for accurate stock ticker predictions. By inputting investment capital and desired duration, users gain access to predictive analytics that facilitate strategic decision-making in the financial markets.
+Our AI-driven platform equips users with the knowledge and tools for accurate stock ticker predictions. By inputting investment capital and desired duration, users gain access to predictive analytics that facilitate strategic decision-making in the financial markets.
 
 #### Advanced Analytics
 
