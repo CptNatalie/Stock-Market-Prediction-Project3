@@ -1,4 +1,3 @@
-<div align="left">
 ## Chatbot Repository
 
 [GitHub Repository for Chatbot](https://github.com/bmckimmy/demo)
@@ -17,4 +16,4 @@ This Streamlit application is designed to provide users with up-to-date stock ma
 
 - Real-time stock data retrieval.
 - User-friendly interface to interact with financial data.
-</div>
+
