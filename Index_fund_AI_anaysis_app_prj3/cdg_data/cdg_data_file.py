@@ -42,7 +42,7 @@ def urlBuilder(ticker, functionType, outputSize):
     if(outputSize != None):
         url = url + f"&outputsize={outputSize}"
     url = url + f"&apikey={api_key}"
-    print(url)
+    # print(url)
     return url
 
 
