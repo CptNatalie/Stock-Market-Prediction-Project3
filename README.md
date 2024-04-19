@@ -25,8 +25,8 @@ Introducing our latest addition, an AI-powered index fund price prediction app. 
 #### AI Stock Ticker Prediction Enhancement
 Building upon our existing AI stock ticker prediction tool, we are enhancing its capabilities to provide even more accurate predictions. Users can input their investment capital and desired duration to receive insightful analytics, facilitating strategic decision-making in the financial markets.
 
-#### Customer Service AI Chatbot
-To further assist users in their investment journey, we are developing a customer service AI chatbot. This intelligent virtual assistant will guide users in selecting the right products to research and invest in, providing tailored recommendations based on individual preferences and investment goals.
+####AI Chatbot
+This AI chatbot assists users by providing fast return information on market data. 
 
 #### Comprehensive Website
 In addition to our feature-rich platform, we are in the process of developing a full-fledged website to host Prospect Pulse's suite of tools and services. The website will serve as a central hub for users to access resources, educational content, and real-time market updates, enhancing their overall investing experience.
