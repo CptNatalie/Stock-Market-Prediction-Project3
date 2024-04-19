@@ -33,8 +33,7 @@ In addition to our feature-rich platform, we are in the process of developing a 
 
 #### Forecasting AI
 
-Harnessing the power of AI, Prospector Pulse offers precise market predictions by analyzing real-time data from leading index funds. Our predictive analytics tool aids in making informed financial decisions, providing users with forecasts of S&P500 trends and potential returns over specified timeframes.
-
+Harnessing the power of AI, Prospector Pulse offers precise market predictions by analyzing real-time data from leading index funds. Our predictive analytics tool aids in making informed financial decisions, providing users with forecasts of market trends.
 #### AI Stock Ticker Prediction
 
 Our AI-driven platform equips users with the knowledge and tools necessary for accurate stock ticker predictions. By inputting investment capital and desired duration, users gain access to predictive analytics that facilitate strategic decision-making in the financial markets.
