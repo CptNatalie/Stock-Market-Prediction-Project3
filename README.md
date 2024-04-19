@@ -25,7 +25,7 @@ Introducing our latest addition, an AI-powered index fund price prediction app. 
 #### AI Stock Ticker Prediction Enhancement
 Building upon our existing AI stock ticker prediction tool, we are enhancing its capabilities to provide even more accurate predictions. Users can input their investment capital and desired duration to receive insightful analytics, facilitating strategic decision-making in the financial markets.
 
-####AI Chatbot
+#### AI Chatbot
 
 This AI chatbot assists users by providing fast return information on market data. 
 
