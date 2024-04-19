@@ -16,7 +16,7 @@
    
 ## Overview
 
-Prospect Pulse is a web-based application designed for retail investors looking to make informed decisions in index fund investing. Leveraging cutting-edge AI technology, our platform provides predictive analytics based on real-time data, empowering users with actionable insights to navigate the financial markets confidently.
+Prospect Pulse is a website with a link to an AI chatbot application and a link to time-forecasting predictive tickers to help give investors predictive insights into any market. 
 
 ### Key Features
 #### Advanced AI-based Index Fund Price Prediction
