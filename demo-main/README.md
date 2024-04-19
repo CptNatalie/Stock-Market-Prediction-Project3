@@ -1,8 +1,13 @@
+<div align="left">
 ## Chatbot Repository
 
 [GitHub Repository for Chatbot](https://github.com/bmckimmy/demo)
 
 This repository contains the code and resources used to create a chatbot application with Streamlit. It includes the following:
+
+- Project 3 of our ongoing series.
+- Initial creation date: April 22nd, 2024.
+- The repository serves as a basis for developing the Streamlit application.
 
 ## Streamlit Application
 
@@ -12,3 +17,4 @@ This Streamlit application is designed to provide users with up-to-date stock ma
 
 - Real-time stock data retrieval.
 - User-friendly interface to interact with financial data.
+</div>
