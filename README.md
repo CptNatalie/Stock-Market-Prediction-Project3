@@ -1,7 +1,6 @@
 # StockPrediction_Project3
-# Prospect Pulse, LLC
-    - University of Denver, Artificial Intelligence Bootcamp. 
-    - Project 3. 
+# Prospect Pulse Stockmarket Prediction and AI Chatbot
+    - University of Denver, Artificial Intelligence Bootcamp.
     - April 22nd, 2024
 
 ## Table of Contents
