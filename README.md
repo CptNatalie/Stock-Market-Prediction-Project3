@@ -55,12 +55,9 @@ Visit our website [here](https://mikeamcpherson.wixsite.com/my-site/home) to lea
 Prospector Pulse Team:
 
 - [Natalie Mason](https://www.linkedin.com/in/captainnatalie/): A business development and management professional of 20 years with a background in healthcare, marketing, event and music production. Her contribution to this project included data collection, debugging, presentation, and website development.
-- 
 - [Curry Gardner](https://www.linkedin.com/in/curry-gardner/): An IT professional with expertise in computer science and electrical engineering.
 He was an anchor in our technical endeavors in projects 1 & 2 by collecting/cleaning data and developing charts including the time series predictive stock ticker model.
-
 - [Michael McPherson](https://www.linkedin.com/in/michael-mcpherson-012475290/): A seasoned entrepreneur with a Bachelor's degree in Economics, bringing strategic approaches to economic challenges. He fervently contributed to all projects with an unstoppable can-do attitude. His contributions to this project included data collecting/cleaning, web-domain purchasing, and time series predictive stock ticket model development.
-- 
 - [Brandon McKimmy](https://www.linkedin.com/in/brandon-mckimmy/): A business information systems specialist with expertise in financial markets and data analytics, spearheading our analytical processing initiatives. His contribution to this project was creating the chatbot application through Streamlit. He puts his mind to an outcome and doesn't stop until he achieves his goal. He joined us on this final project 3 and made our chatbot come to life.
 
 
