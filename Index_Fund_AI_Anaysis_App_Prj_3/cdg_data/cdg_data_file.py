@@ -130,8 +130,8 @@ def preparing_data(df):
     df['TargetNextClose'] = df['close'].shift(-1)
     X = df.drop(columns=['close','volume', 'date','TargetNextClose','summary', 'title'], axis=1)
     y = df['TargetNextClose']
-    print(X.shape)
-    print(y.shape)
+    # print(X.shape)
+    # print(y.shape)
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
     
     return X_train, X_test, y_train, y_test, X, y
@@ -171,12 +171,9 @@ def neural_networking(X_train, X_test, y_train, y_test, X, y, df):
         X_test_reshaped,
         y_test
     )
-    print(test_results)
     # Scale y_train and y_test
     scaler = MinMaxScaler()
     scaler.fit(y_train.values.reshape(-1, 1))
-    y_train_scaled = scaler.transform(y_train.values.reshape(-1, 1))
-    y_test_scaled = scaler.transform(y_test.values.reshape(-1, 1))
     
     y_pred_scaled = model.predict(X_reshaped)
     y_pred_flat = np.squeeze(y_pred_scaled)
@@ -193,7 +190,7 @@ def save_plot_as_image(df, arr1, arr2, ticker):
     # Save the plot as an image
     image_file = f"Resources/outputs/plot_{ticker}.png"
     fig.write_image(image_file)
-    print(f"Plot saved as {image_file}")
+    # print(f"Plot saved as {image_file}")
     
     
 def run(ticker):
@@ -217,8 +214,8 @@ def run(ticker):
         # Save the merged DataFrame as a CSV file with a specific path
         merged_df.to_csv(file_path, index=False)
     # Display the merged DataFrame
-    print(merged_df.head())
-    print(merged_df.tail())
+    # print(merged_df.head())
+    # print(merged_df.tail())
     
     X_train, X_test, y_train, y_test, X, y = preparing_data(merged_df)
     
