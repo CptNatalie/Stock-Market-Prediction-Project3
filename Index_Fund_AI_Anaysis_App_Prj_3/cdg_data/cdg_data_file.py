@@ -1,44 +1,34 @@
 import os
 import json
 import requests
-import numpy as np 
+import numpy as np
 import pandas as pd
-from sklearn.svm import SVR
-from datetime import timedelta, datetime
-import plotly.graph_objs as go
+import pandas_ta as ta
 from dotenv import load_dotenv
-from sklearn.cluster import KMeans
-from matplotlib import pyplot as plt
-from sklearn.decomposition import PCA
-from sklearn.dummy import DummyClassifier
-from sklearn.metrics import accuracy_score
-from sklearn.tree import DecisionTreeClassifier
+import plotly.graph_objs as go
+from tensorflow.keras import layers
+from tensorflow.keras.models import Model
+from keras.layers import Dense, LSTM, Input
+from sklearn.preprocessing import MinMaxScaler
+from keras.preprocessing.text import Tokenizer
 from sklearn.preprocessing import StandardScaler
-from sklearn.neighbors import KNeighborsRegressor
-from sklearn.linear_model import LinearRegression
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.multiclass import OutputCodeClassifier
-from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
-from sklearn.ensemble import GradientBoostingClassifier
-from sklearn.preprocessing import OneHotEncoder, LabelEncoder
-from sklearn.datasets import make_regression, make_swiss_roll
-from sklearn.ensemble import ExtraTreesRegressor, AdaBoostRegressor
-from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier
-
 
 #building the url with the API Key needed to 
 def urlBuilder(ticker, functionType, outputSize):
+    # Load the API key from the environment
     load_dotenv('apiKeys.env')
     api_key = os.getenv("extraKey")
     url = "https://www.alphavantage.co/query?"
     if(functionType != None):
         url = url + f"function={functionType}"
+    # If the function is NEWS_SENTIMENT, use 'tickers' instead of 'symbol'
     if(ticker != None):
         if(functionType == "NEWS_SENTIMENT"):
             url = url + f"&tickers={ticker}&limit=1000"
         else:
             url = url + f"&symbol={ticker}"
+    # Add outputSize parameter to the URL if provided
     if(outputSize != None):
         url = url + f"&outputsize={outputSize}"
     url = url + f"&apikey={api_key}"
@@ -130,114 +120,111 @@ def loadNewsSentiments(ticker):
     
     return df_grouped
 
-# Prediction Function
-def regression_predictions(df):
-    X=df.drop(columns=['target','tomorrow','close','date'], axis=1)
-    y1=df['close']
-    X1_train, X1_test, y1_train, y1_test = train_test_split(X, y1, test_size=0.3, random_state=42)
+#This will be how the data is split into training and test data
+def preparing_data(df):
+    df['RSI']=ta.rsi(df['close'], length=15)
+    df['EMAF']=ta.ema(df['close'], length=20)
+    df['EMAM']=ta.ema(df['close'], length=100)
+    df['EMAS']=ta.ema(df['close'], length=150)
+    df.dropna(subset=['EMAS','sentiment'], inplace=True)
+    df['TargetNextClose'] = df['close'].shift(-1)
+    X = df.drop(columns=['close','volume', 'date','TargetNextClose','summary', 'title'], axis=1)
+    y = df['TargetNextClose']
+    print(X.shape)
+    print(y.shape)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
     
-    #fit training data
-    model = LinearRegression()
-    model.fit(X1_train,y1_train)
-    
-    # Make predictions on testing data
-    y_pred = model.predict(X)
-    
-    df['y_pred_LR'] = y_pred
-    
-    model = ExtraTreesRegressor()
-    model.fit(X1_train,y1_train)
-    
-    # Make predictions on testing data
-    y_pred = model.predict(X)
-    
-    df['y_pred_ETR'] = y_pred
-    
-    model = RandomForestRegressor()
-    model.fit(X1_train,y1_train)
-    
-    # Make predictions on testing data
-    y_pred = model.predict(X)
-    
-    df['y_pred_RFG'] = y_pred
-    
-    model = AdaBoostRegressor()
-    model.fit(X1_train,y1_train)
-    
-    # Make predictions on testing data
-    y_pred = model.predict(X)
-    
-    df['y_pred_ABR'] = y_pred
-    
-    return df
+    return X_train, X_test, y_train, y_test, X, y
 
-def graph_preds(df, ticker):
-    # Visualization
+def neural_networking(X_train, X_test, y_train, y_test, X, y, df):
+    # Reshape the input data for LSTM
+    X_train_reshaped = X_train.values.reshape((X_train.shape[0], 1, X_train.shape[1]))
+    X_test_reshaped = X_test.values.reshape((X_test.shape[0], 1, X_test.shape[1]))
+    X_reshaped = X.values.reshape((X.shape[0], 1, X.shape[1]))
+    y_reshaped = y.values.reshape((y.shape[0], 1))
+    
+    # Create the input layer
+    input_layer = Input(shape=(1, X_train.shape[1]), name='input_features')
+    
+    # Add LSTM layer
+    lstm_layer = LSTM(150, name='first_layer')(input_layer)
+    
+    # Add Dense layer
+    dense_layer = Dense(64, activation='relu')(lstm_layer)
+    
+    # Output layer
+    output = Dense(1, activation='linear', name='output')(dense_layer)
+        
+    # Create the model
+    model = Model(inputs=input_layer, outputs=output)
+
+    # Compile the model
+    model.compile(optimizer='adam', loss='mean_squared_error', metrics=['mae', 'mse'])
+    
+    model.fit(
+        X_train_reshaped,
+        y_train,
+        epochs=100,
+        validation_split=0.2
+    )
+    test_results = model.evaluate(
+        X_test_reshaped,
+        y_test
+    )
+    print(test_results)
+    # Scale y_train and y_test
+    scaler = MinMaxScaler()
+    scaler.fit(y_train.values.reshape(-1, 1))
+    y_train_scaled = scaler.transform(y_train.values.reshape(-1, 1))
+    y_test_scaled = scaler.transform(y_test.values.reshape(-1, 1))
+    
+    y_pred_scaled = model.predict(X_reshaped)
+    y_pred_flat = np.squeeze(y_pred_scaled)
+    
+    save_plot_as_image(df, y.values, y_pred_flat, ticker)
+
+def save_plot_as_image(df, arr1, arr2, ticker):
     fig = go.Figure()
-    fig.add_trace(go.Scatter(x=df['date'], y=df['y_pred'], mode='lines', name='Predicted Price'))
-    fig.add_trace(go.Scatter(x=df['date'], y=df['close'], mode='lines', name='Actual Price'))
-    # fig.add_trace(go.Scatter(x=df['date'], y=df['y_pred_LR'], mode='lines', name='LR model'))
-    fig.update_layout(title=f'Stock Prices and Predictions for {ticker}',
-                      xaxis_title='Date',
-                      yaxis_title='Price')
-    fig.show()
-    
-def preds_output(df):
-    num_shares = int(input("Enter the number of shares owned: "))
-    investment_amount = float(input("Enter how much you have to invest: "))
-    trend = 'higher' if df['close'].iloc[-1] > df['y_pred'].iloc[-1] else 'lower'
-    action = 'buy' if trend == 'higher' else 'sell'
-    optimal_volume = min(investment_amount / df['y_pred'].iloc[-1], num_shares)
-    investment_value = df['close'].iloc[-1] * num_shares  # This is speculative
-    
-    print(f"Future predicted price for tomorrow: {df['close'].iloc[-1]}")
-    print(f"The trend for the future price is {trend}.")
-    print(f"You should {action}.")
-    print(f"The optimal volume to {action} is {optimal_volume} shares.")
-    print(f"The speculative future value of your investment is: ${investment_value:.2f}.")
-    print("Please note, this is a prediction based on historical data and carries risk.")
-    
-def save_plot_as_image(df, company):
-    fig = go.Figure()
-    fig.add_trace(go.Scatter(x=df['date'], y=df['close'], mode='lines', name='Close Price'))
-    fig.update_layout(title=f'Stock Prices for {company}',
+    fig.add_trace(go.Scatter(x=df['date'], y=arr1, mode='lines', name='Close Price', line=dict(color='blue')))
+    fig.add_trace(go.Scatter(x=df['date'], y=df['TargetNextClose'], mode='lines', name='Predicted Price', line=dict(color='green')))
+    fig.update_layout(title=f'Stock Prices for {ticker}',
                       xaxis_title='Date',
                       yaxis_title='Price')
     # Save the plot as an image
-    image_file = f"Resources/outputs/plot_{company}.png"
+    image_file = f"Resources/outputs/plot_{ticker}.png"
     fig.write_image(image_file)
     print(f"Plot saved as {image_file}")
-
     
-def run(company, ticker):
+    
+def run(ticker):
     
     file_path = f'Resources/alphavantage/{ticker.lower()}.csv'
-    # Index_Fund_Price_Prediction_App/Resources/alphavantage/ibm.csv
-    print(file_path)
     if os.path.exists(file_path):
         print("Pulling from local storage")
-        df_stock = loadPreSavedData(file_path)
+        merged_df = loadPreSavedData(file_path)
     else:
         print("Pulling new data from AlphaVantage")
         df_stock = loadData(ticker)
-        df_news = loadNewsSentiments(ticker)    
-        print(df_stock.head())
-        print(df_news.head())
+        df_news = loadNewsSentiments(ticker)
+        # print(df_stock.head())
+        # print(df_news.head())
         
         df_news['date'] = pd.to_datetime(df_news['date'])
         
         # Merge the DataFrames on the 'date' column
         merged_df = pd.merge(df_stock, df_news, on='date', how='left')
-        # Display the merged DataFrame
-        print(merged_df.head())
-        print(merged_df.tail())
         
         # Save the merged DataFrame as a CSV file with a specific path
         merged_df.to_csv(file_path, index=False)
+    # Display the merged DataFrame
+    print(merged_df.head())
+    print(merged_df.tail())
     
+    X_train, X_test, y_train, y_test, X, y = preparing_data(merged_df)
     
+    neural_networking(X_train, X_test, y_train, y_test, X, y, merged_df)
+
 
 if __name__ == "__main__":
-    company = "Apple"
     ticker = input("Enter a stock ticker: ").upper()
-    run(company, ticker)
+    run(ticker)
