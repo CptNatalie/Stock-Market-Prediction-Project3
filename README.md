@@ -1,7 +1,6 @@
 # StockPrediction_Project3
-# Prospect Pulse, LLC
-    - University of Denver, Artificial Intelligence Bootcamp. 
-    - Project 3. 
+# Prospect Pulse Stockmarket Prediction and AI Chatbot
+    - University of Denver, Artificial Intelligence Bootcamp.
     - April 22nd, 2024
 
 ## Table of Contents
@@ -16,7 +15,7 @@
    
 ## Overview
 
-Prospect Pulse is a website with a link to an AI chatbot application and a link to time-forecasting predictive tickers to help give investors predictive insights into any market. 
+Prospect Pulse is a website linked to an AI chatbot application and a time-forecasting ticker to give investors predictive insights into the market. 
 
 ### Key Features
 
@@ -24,28 +23,27 @@ Prospect Pulse is a website with a link to an AI chatbot application and a link 
 Introducing our latest addition, an AI-powered index fund price prediction app. This feature utilizes sophisticated machine learning algorithms to forecast future pricing trends of leading index funds. Users can access precise predictions and calculate potential earnings for their portfolios, enabling proactive investment decisions.
 
 #### Future Forecasting Ticker
-Building upon our existing stock ticker prediction tool we are enhancing its capabilities to provide even more accuracy with the power of AI.
+Building upon our existing stock ticker prediction tool we are enhancing its capabilities to provide more accuracy with the power of AI.
 
 #### AI Chatbot
 
 This AI chatbot assists users by providing fast return information on market data. 
 
 #### Comprehensive Website
-In addition to our feature-rich platform, we are developing a full-fledged website to host Prospect Pulse's suite of tools and services. The website will serve as a central hub for users to access resources, educational content, and real-time market updates, enhancing their overall investing experience.
+In addition to our feature-rich platform, we are developing a website to host Prospect Pulse's AI tools and services. The website will serve as a central hub for users to access resources, educational content, and real-time market updates enhancing their overall investing experience.
 
 
 #### Advanced Analytics
 
-Beyond forecasting, Prospector Pulse is committed to investor empowerment through education. Our platform provides comprehensive insights into index fund investing, demystifying complexities and highlighting benefits. Through interactive modules, expert-led webinars, and market analyses, we equip users with the knowledge needed to navigate the investment landscape confidently.
+Prospector Pulse creates investor empowerment and education. Our platform provides comprehensive insights into index fund investing, demystifies complexities, and highlights benefits. Through interactive modules and market analyses, we equip users with predictive insight to navigate the investment landscape.
 
 ### Future Additions
 
-Looking ahead, Prospect Pulse remains committed to continuous innovation and expansion. Future enhancements may include:
+Prospect Pulse remains committed to continuous innovation and expansion. Future enhancements may include:
 
-- Portfolio Management Tools: Introducing robust portfolio management tools to help users optimize and track their investments more effectively.
-- Marketplace Integration: Incorporating a marketplace feature where users can seamlessly purchase stocks and other investments directly through the platform.
-- Expanded Educational Resources: Enhancing our educational offerings with additional interactive modules, expert-led webinars, and market analyses to further empower users in navigating the investment landscape.
-- Stay tuned for updates as we strive to revolutionize retail investment and empower investors with cutting-edge technology and insightful solutions.
+- Portfolio Management Tools: Introducing robust portfolio management tools to help users optimize and track their investments effectively.
+- Marketplace Integration: Incorporating a marketplace feature where users can purchase stocks and other investments directly through the platform.
+- Expanded Educational Resources: Enhancing market education, expert-led webinars, and market analyses to empower users in investment decisions.
 
 ## Website
 
@@ -53,14 +51,14 @@ Visit our website [here](https://mikeamcpherson.wixsite.com/my-site/home) to lea
 
 ## Team
 
-Meet the minds behind Prospector Pulse:
+Prospector Pulse Team:
 
-- [Natalie Mason](https://www.linkedin.com/in/captainnatalie/): A seasoned business development and management professional with a background in healthcare, music, and event production mangamement. Her contribution to this project included data collection, debugging, presentation, and website development.
-- [Curry Gardner](https://www.linkedin.com/in/curry-gardner/): An IT professional with expertise in computer science and electrical engineering. He was an anchor in our technical endeavors in every project during this AI Bootcamp.
-- [Michael McPherson](https://www.linkedin.com/in/michael-mcpherson-012475290/): A seasoned entrepreneur with a Bachelor's degree in Economics, bringing strategic approaches to economic challenges.
-- [Brandon McKimmy](https://www.linkedin.com/in/brandon-mckimmy/): A business information systems specialist with expertise in financial markets and data analytics, spearheading our analytical processing initiatives.
+- [Natalie Mason](https://www.linkedin.com/in/captainnatalie/): A business development and management professional of 20 years with a background in healthcare, marketing, event and music production. Her contribution to this project included data collection, debugging, presentation, and website development.
+- [Curry Gardner](https://www.linkedin.com/in/curry-gardner/): An IT professional with expertise in computer science and electrical engineering.
+He was an anchor in our technical endeavors in projects 1 & 2 by collecting/cleaning data and developing charts including the time series predictive stock ticker model.
+- [Michael McPherson](https://www.linkedin.com/in/michael-mcpherson-012475290/): A seasoned entrepreneur with a Bachelor's degree in Economics, bringing strategic approaches to economic challenges. He fervently contributed to all projects with an unstoppable can-do attitude. His contributions to this project included data collecting/cleaning, web-domain purchasing, and time series predictive stock ticket model development.
+- [Brandon McKimmy](https://www.linkedin.com/in/brandon-mckimmy/): A business information systems specialist with expertise in financial markets and data analytics, spearheading our analytical processing initiatives. His contribution to this project was creating the chatbot application through Streamlit. He puts his mind to an outcome and doesn't stop until he achieves his goal. He joined us on this final project 3 and made our chatbot come to life.
 
-Our team combines diverse backgrounds and a shared passion for innovation to drive projects that blend technology, economics, and AI to solve real-world problems.
 
 ## License
 
