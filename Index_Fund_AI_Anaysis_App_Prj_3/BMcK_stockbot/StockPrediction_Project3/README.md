@@ -62,7 +62,6 @@ Meet the minds behind Prospector Pulse:
 - [Natalie Mason](https://www.linkedin.com/in/captainnatalie/): A seasoned business development and management professional with a background in entrepreneurship.
 - [Curry Gardner](https://www.linkedin.com/in/curry-gardner/): An IT professional with expertise in computer science and electrical engineering, anchoring our technical endeavors.
 - [Michael McPherson](https://www.linkedin.com/in/michael-mcpherson-012475290/): A seasoned entrepreneur with a Bachelor's degree in Economics, bringing strategic approaches to economic challenges.
-- [Brandon McKimmy](https://www.linkedin.com/in/brandon-mckimmy/): A business information systems specialist with expertise in financial markets and data analytics, spearheading our analytical processing initiatives.
 
 Our team combines diverse backgrounds and a shared passion for innovation to drive projects that blend technology, economics, and AI to solve real-world problems.
 
