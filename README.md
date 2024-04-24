@@ -7,11 +7,10 @@
 
 1. [Overview](#overview)
 2. [Key Features](#key-features)
-3. [Customer Service AI Chatbot](https://e42ahokzontvlp74j4vruc.streamlit.app/)
-4. [Future Additions](#future-additions)
-5. [Website](#website)
-6. [Team](#team)
-7. [License](#license)
+3. [Future Additions](#future-additions)
+4. [Website](#website)
+5. [Team](#team)
+6. [License](#license)
    
 ## Overview
 
